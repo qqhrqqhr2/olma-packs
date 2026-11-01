@@ -11,6 +11,10 @@
 팩: `base` 기본 생활용품(124) · `food` 음식·음료(130) · `flower` 꽃·식물(155) · `car` 자동차·탈것(50)
 v2에서 더함: `kitchen` 주방용품(55) · `cleaning` 생활화학·욕실(47) · `beauty` 화장품(39) · `tools` 공구·DIY(38) · `stationery` 문구·사무(40) · `electronics` 전자기기(38) · `fashion` 옷·신발·잡화(42)
 
+v4에서 더함 (브랜드 + 종류 이름, 생김새 설명, 무게 분류 preset 포함): `brand_appliance` 브랜드 가전(51) · `brand_digital` 브랜드 디지털(58) · `brand_living` 브랜드 생활용품(63)
+
+`community/`: 모두의 기억 (태그 없이 main에서 받음, 앱을 켤 때 새 판 확인)
+
 앱은 태그(`v1` 등)를 붙인 주소에서 받는다: `https://raw.githubusercontent.com/qqhrqqhr2/olma-packs/v2/packs.json` (v1은 기본 4팩, 예전 앱용)`
 
 ## 라이선스

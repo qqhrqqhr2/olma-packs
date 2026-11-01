@@ -209,6 +209,63 @@
      "sha256": "522c054fb6245308a6f9cd6da78944ffa3142837199e1a8d0287eb99ae6c1702"
     }
    }
+  },
+  {
+   "id": "brand_appliance",
+   "name": "브랜드 가전",
+   "count": 51,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "brand_appliance.json",
+     "size": 8604,
+     "sha256": "ab265414e7aa5b78bd23e1e001126d13fe8226e2549e5cf57e791fa107b383d5"
+    },
+    "bank": {
+     "name": "brand_appliance.bin",
+     "size": 52224,
+     "sha256": "69d022ef1a5bdb70b2792252fbe99b65037d7cbcc910e1e87754f4dad8ad2fc1"
+    }
+   }
+  },
+  {
+   "id": "brand_digital",
+   "name": "브랜드 디지털",
+   "count": 58,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "brand_digital.json",
+     "size": 8557,
+     "sha256": "6c5fd1f04cde689df4cf207152f0621f1bd7e2f69099b7d46e304dc4f8272b9b"
+    },
+    "bank": {
+     "name": "brand_digital.bin",
+     "size": 59392,
+     "sha256": "4f58ab5462971f74ef73ef87d85e4f083bde7c76b42bd0a1f8234faaebb84dcf"
+    }
+   }
+  },
+  {
+   "id": "brand_living",
+   "name": "브랜드 생활용품",
+   "count": 63,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "brand_living.json",
+     "size": 8781,
+     "sha256": "eba2ec069ed8b8d0bee3603832dc8acadb346a23417ee8a7ab951e3499317117"
+    },
+    "bank": {
+     "name": "brand_living.bin",
+     "size": 64512,
+     "sha256": "5695d22b4474285bc2d1641ffef72d63568deb53c87b664a765d7d1f034cd3a2"
+    }
+   }
   }
  ],
  "model": {

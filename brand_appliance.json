@@ -1,0 +1,308 @@
+[
+ {
+  "ko": "쿠쿠 전기압력밥솥",
+  "en": "CUCKOO electric pressure rice cooker, white and black with a round lid and a handle on top",
+  "cat": "brand_appliance",
+  "preset": "rice_cooker"
+ },
+ {
+  "ko": "쿠첸 전기압력밥솥",
+  "en": "CUCHEN electric pressure rice cooker, white with a rounded lid and front display",
+  "cat": "brand_appliance",
+  "preset": "rice_cooker"
+ },
+ {
+  "ko": "쿠쿠 미니 밥솥",
+  "en": "small CUCKOO mini rice cooker for one or two people",
+  "cat": "brand_appliance",
+  "preset": "rice_cooker"
+ },
+ {
+  "ko": "LG 전자레인지",
+  "en": "LG microwave oven, white or black box with a door window and dial on the right",
+  "cat": "brand_appliance",
+  "preset": "microwave"
+ },
+ {
+  "ko": "삼성 전자레인지",
+  "en": "Samsung microwave oven, box shape with glass door and button panel on the right",
+  "cat": "brand_appliance",
+  "preset": "microwave"
+ },
+ {
+  "ko": "LG 광파오븐",
+  "en": "LG lightwave oven, large black countertop oven with glass door",
+  "cat": "brand_appliance",
+  "preset": "microwave"
+ },
+ {
+  "ko": "필립스 에어프라이어",
+  "en": "Philips air fryer, black rounded body with a pull-out basket drawer",
+  "cat": "brand_appliance",
+  "preset": "air_fryer"
+ },
+ {
+  "ko": "닌자 에어프라이어",
+  "en": "Ninja air fryer, black and grey body with a wide basket drawer",
+  "cat": "brand_appliance",
+  "preset": "air_fryer"
+ },
+ {
+  "ko": "코스모 오븐형 에어프라이어",
+  "en": "oven-style air fryer with a glass door, white boxy body",
+  "cat": "brand_appliance",
+  "preset": "air_fryer"
+ },
+ {
+  "ko": "네스프레소 버츄오 커피머신",
+  "en": "Nespresso Vertuo coffee machine with a round top lever and capsule head",
+  "cat": "brand_appliance",
+  "preset": "coffee_machine"
+ },
+ {
+  "ko": "네스프레소 캡슐 커피머신",
+  "en": "Nespresso Original compact capsule coffee machine with a lever on top",
+  "cat": "brand_appliance",
+  "preset": "coffee_machine"
+ },
+ {
+  "ko": "돌체구스토 커피머신",
+  "en": "Nescafe Dolce Gusto capsule coffee machine with a rounded futuristic shape",
+  "cat": "brand_appliance",
+  "preset": "coffee_machine"
+ },
+ {
+  "ko": "드롱기 전자동 커피머신",
+  "en": "DeLonghi automatic espresso machine, silver and black box with milk frother",
+  "cat": "brand_appliance",
+  "preset": "coffee_machine"
+ },
+ {
+  "ko": "일리 캡슐 커피머신",
+  "en": "illy capsule espresso machine, glossy red or black with a small drip tray",
+  "cat": "brand_appliance",
+  "preset": "coffee_machine"
+ },
+ {
+  "ko": "드롱기 전기포트",
+  "en": "DeLonghi electric kettle, glossy body with a curved handle on a base",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "테팔 전기포트",
+  "en": "Tefal electric kettle, white plastic with a water level window",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "스메그 전기포트",
+  "en": "SMEG retro electric kettle, pastel colored rounded body with chrome base",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "스메그 토스터",
+  "en": "SMEG retro two-slice toaster, pastel color with chrome lever",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "필립스 믹서기",
+  "en": "Philips blender with a clear jug on a motor base",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "닌자 블렌더",
+  "en": "Ninja blender, tall clear pitcher with stacked blades on a black base",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "바이타믹스 블렌더",
+  "en": "Vitamix high-performance blender, tall square container on a heavy black base",
+  "cat": "brand_appliance",
+  "preset": "blender_toaster"
+ },
+ {
+  "ko": "다이슨 무선청소기",
+  "en": "Dyson cordless stick vacuum with a clear cyclone bin and colorful wand",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "LG 코드제로 무선청소기",
+  "en": "LG CordZero cordless stick vacuum, slim with a cyclone bin",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "삼성 비스포크 제트 청소기",
+  "en": "Samsung Bespoke Jet stick vacuum standing in a clean station",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "샤오미 무선청소기",
+  "en": "Xiaomi cordless stick vacuum, white with a clear bin",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "로봇청소기",
+  "en": "round robot vacuum cleaner disk on the floor",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "로보락 로봇청소기",
+  "en": "Roborock robot vacuum with a round body and lidar bump on top",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "삼성 비스포크 로봇청소기",
+  "en": "Samsung Bespoke robot vacuum with a docking station",
+  "cat": "brand_appliance",
+  "preset": "vacuum"
+ },
+ {
+  "ko": "LG 퓨리케어 공기청정기",
+  "en": "LG PuriCare 360 air purifier, tall white cylinder with a fan on top",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "삼성 블루스카이 공기청정기",
+  "en": "Samsung Bespoke Cube air purifier, square white tower",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "위닉스 공기청정기",
+  "en": "Winix air purifier, white rectangular box with front grille",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "샤오미 공기청정기",
+  "en": "Xiaomi Mi air purifier, white rectangular column with top fan grille",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "다이슨 공기청정 선풍기",
+  "en": "Dyson bladeless purifier fan, tall loop with no blades",
+  "cat": "brand_appliance",
+  "preset": "fan_heater"
+ },
+ {
+  "ko": "보네이도 서큘레이터",
+  "en": "Vornado air circulator fan, round black fan with deep grille",
+  "cat": "brand_appliance",
+  "preset": "fan_heater"
+ },
+ {
+  "ko": "신일 선풍기",
+  "en": "Shinil standing electric fan with white blades",
+  "cat": "brand_appliance",
+  "preset": "fan_heater"
+ },
+ {
+  "ko": "미로 가습기",
+  "en": "MIRO humidifier, transparent water tank cylinder with white base",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "케어팟 가습기",
+  "en": "Carepod stainless steel humidifier, small white cylinder",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "LG 퓨리케어 가습기",
+  "en": "LG PuriCare humidifier, white tower humidifier",
+  "cat": "brand_appliance",
+  "preset": "air_purifier"
+ },
+ {
+  "ko": "전기 히터",
+  "en": "portable electric heater",
+  "cat": "brand_appliance",
+  "preset": "fan_heater"
+ },
+ {
+  "ko": "다이슨 헤어드라이어",
+  "en": "Dyson Supersonic hair dryer with a hollow ring head",
+  "cat": "brand_appliance",
+  "preset": "hair_dryer"
+ },
+ {
+  "ko": "다이슨 에어랩",
+  "en": "Dyson Airwrap hair styler wand with attachments",
+  "cat": "brand_appliance",
+  "preset": "hair_dryer"
+ },
+ {
+  "ko": "필립스 헤어드라이어",
+  "en": "Philips hair dryer with a pistol shape",
+  "cat": "brand_appliance",
+  "preset": "hair_dryer"
+ },
+ {
+  "ko": "오랄비 전동칫솔",
+  "en": "Oral-B electric toothbrush with a round brush head",
+  "cat": "brand_appliance",
+  "preset": "toothbrush_shaver"
+ },
+ {
+  "ko": "필립스 소닉케어 전동칫솔",
+  "en": "Philips Sonicare electric toothbrush, slim white handle",
+  "cat": "brand_appliance",
+  "preset": "toothbrush_shaver"
+ },
+ {
+  "ko": "브라운 전기면도기",
+  "en": "Braun electric shaver with foil head",
+  "cat": "brand_appliance",
+  "preset": "toothbrush_shaver"
+ },
+ {
+  "ko": "필립스 전기면도기",
+  "en": "Philips rotary electric shaver with three round heads",
+  "cat": "brand_appliance",
+  "preset": "toothbrush_shaver"
+ },
+ {
+  "ko": "필립스 스팀다리미",
+  "en": "Philips steam iron with a blue or purple body",
+  "cat": "brand_appliance",
+  "preset": "clothes_iron"
+ },
+ {
+  "ko": "LG 스타일러",
+  "en": "LG Styler clothing care cabinet, tall mirror-front closet appliance",
+  "cat": "brand_appliance",
+  "preset": "drawer_shelf"
+ },
+ {
+  "ko": "LG 올레드 TV",
+  "en": "LG OLED TV, very thin flat screen on a stand",
+  "cat": "brand_appliance",
+  "preset": "tv"
+ },
+ {
+  "ko": "삼성 TV",
+  "en": "Samsung smart TV, thin black flat screen",
+  "cat": "brand_appliance",
+  "preset": "tv"
+ },
+ {
+  "ko": "삼성 더 프레임 TV",
+  "en": "Samsung The Frame TV that looks like a framed picture on the wall",
+  "cat": "brand_appliance",
+  "preset": "tv"
+ }
+]
