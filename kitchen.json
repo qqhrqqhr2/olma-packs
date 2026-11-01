@@ -1,0 +1,277 @@
+[
+ {
+  "ko": "냄비",
+  "en": "cooking pot",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "프라이팬",
+  "en": "frying pan",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "웍",
+  "en": "wok",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "주전자",
+  "en": "kettle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "전기포트",
+  "en": "electric kettle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "도마",
+  "en": "cutting board",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "식칼",
+  "en": "kitchen knife",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "국자",
+  "en": "ladle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "뒤집개",
+  "en": "spatula",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "집게",
+  "en": "kitchen tongs",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "거품기",
+  "en": "whisk",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "강판",
+  "en": "grater",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "체망",
+  "en": "strainer",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "채반",
+  "en": "colander",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "계량컵",
+  "en": "measuring cup",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "밀폐용기",
+  "en": "food storage container",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "유리 밀폐용기",
+  "en": "glass food container",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "보온 도시락",
+  "en": "insulated lunch box",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "물병",
+  "en": "water bottle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "텀블러",
+  "en": "tumbler",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "보온병",
+  "en": "thermos flask",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "머그컵",
+  "en": "mug",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "유리컵",
+  "en": "drinking glass",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "와인잔",
+  "en": "wine glass",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "밥그릇",
+  "en": "rice bowl",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "국그릇",
+  "en": "soup bowl",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "접시",
+  "en": "plate",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "수저 세트",
+  "en": "spoon and chopsticks set",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "포크",
+  "en": "fork",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "티스푼",
+  "en": "teaspoon",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "전기밥솥",
+  "en": "rice cooker",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "에어프라이어",
+  "en": "air fryer",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "전자레인지",
+  "en": "microwave oven",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "토스터",
+  "en": "toaster",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "믹서기",
+  "en": "blender",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "커피머신",
+  "en": "coffee machine",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "핸드드립 커피포트",
+  "en": "pour-over coffee kettle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "커피 드리퍼",
+  "en": "coffee dripper",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "정수기 필터 물병",
+  "en": "water filter pitcher",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "양념통",
+  "en": "spice container",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "식용유 병",
+  "en": "cooking oil bottle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "간장 병",
+  "en": "soy sauce bottle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "고추장 통",
+  "en": "gochujang container",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "설거지 세제",
+  "en": "dish soap bottle",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "수세미",
+  "en": "dish scrubber sponge",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "고무장갑",
+  "en": "rubber gloves",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "주방 타월",
+  "en": "kitchen towel",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "키친타월",
+  "en": "paper towel roll",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "랩",
+  "en": "plastic wrap roll",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "지퍼백",
+  "en": "zipper storage bag",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "행주",
+  "en": "dish cloth",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "식기 건조대",
+  "en": "dish drying rack",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "가위(주방)",
+  "en": "kitchen scissors",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "병따개",
+  "en": "bottle opener",
+  "cat": "kitchen"
+ },
+ {
+  "ko": "와인 오프너",
+  "en": "corkscrew",
+  "cat": "kitchen"
+ }
+]

@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "packs": [
   {
    "id": "base",
@@ -74,6 +74,139 @@
      "name": "car.bin",
      "size": 51200,
      "sha256": "5f38ae167f22052d81e8165926083aff6867f327b9a160cc2c2b0225c4d83e89"
+    }
+   }
+  },
+  {
+   "id": "kitchen",
+   "name": "주방용품",
+   "count": 55,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "kitchen.json",
+     "size": 4287,
+     "sha256": "1fdcc20065352730d36e37c6dea141c6e1d62179e74dad680bdc8c66d3bda8da"
+    },
+    "bank": {
+     "name": "kitchen.bin",
+     "size": 56320,
+     "sha256": "5a93dda1a8de40fb8390e3468dab5fe9c1156121765d7ece5f3dc07b97b933d0"
+    }
+   }
+  },
+  {
+   "id": "cleaning",
+   "name": "생활화학·욕실",
+   "count": 47,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "cleaning.json",
+     "size": 3916,
+     "sha256": "4b3661ef3ad0eb13dfc08646cfe8d1869739db4ef250d9ac03ed6e43b3623ff4"
+    },
+    "bank": {
+     "name": "cleaning.bin",
+     "size": 48128,
+     "sha256": "9e3d9425e14e73ae4fccde5b928406c2ed8d203e3d65bfc7523b1cd76158f38c"
+    }
+   }
+  },
+  {
+   "id": "beauty",
+   "name": "화장품",
+   "count": 39,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "beauty.json",
+     "size": 3116,
+     "sha256": "a7d8d73b6eb3c677aec08a604e1fafe290e0d2331732486314c055d0e1e2010c"
+    },
+    "bank": {
+     "name": "beauty.bin",
+     "size": 39936,
+     "sha256": "21e8dfcb20e300c7cbfbb3e3ad2db6ed1a86620377628897db69977a18d71dbd"
+    }
+   }
+  },
+  {
+   "id": "tools",
+   "name": "공구·DIY",
+   "count": 38,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "tools.json",
+     "size": 2835,
+     "sha256": "9516c47e7ed8090f12df6431702906b8ff2bd3a8573c85dd7a3f819bce24585c"
+    },
+    "bank": {
+     "name": "tools.bin",
+     "size": 38912,
+     "sha256": "b64630f59fc68c1a52eedd657dbef384cb05502851c5805614f32f2653d643b1"
+    }
+   }
+  },
+  {
+   "id": "stationery",
+   "name": "문구·사무",
+   "count": 40,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "stationery.json",
+     "size": 3144,
+     "sha256": "d5b7978a7451436f26654cbaec60fec84be16fc18ea27675c12d86963cfbebff"
+    },
+    "bank": {
+     "name": "stationery.bin",
+     "size": 40960,
+     "sha256": "8ce966e905a96e25656ce176510338adbf3f9eab6ef7a52ca273077f407b91d1"
+    }
+   }
+  },
+  {
+   "id": "electronics",
+   "name": "전자기기",
+   "count": 38,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "electronics.json",
+     "size": 3229,
+     "sha256": "35ce2cbd52b3ba75345d416da7a49d4e690193273da48d5d8ea3c386022a5a73"
+    },
+    "bank": {
+     "name": "electronics.bin",
+     "size": 38912,
+     "sha256": "0a84007d8331bd3fb2724e98dc5bce823586770f3d3ab3617663832d032d5b95"
+    }
+   }
+  },
+  {
+   "id": "fashion",
+   "name": "옷·신발·잡화",
+   "count": 42,
+   "required": false,
+   "version": 1,
+   "files": {
+    "labels": {
+     "name": "fashion.json",
+     "size": 2969,
+     "sha256": "30cc37ce310d28748d9ee2ebe42132521515e3e030fbd22e2c0da9d353cb2de3"
+    },
+    "bank": {
+     "name": "fashion.bin",
+     "size": 43008,
+     "sha256": "522c054fb6245308a6f9cd6da78944ffa3142837199e1a8d0287eb99ae6c1702"
     }
    }
   }

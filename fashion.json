@@ -1,0 +1,212 @@
+[
+ {
+  "ko": "운동화",
+  "en": "sneakers",
+  "cat": "fashion"
+ },
+ {
+  "ko": "구두",
+  "en": "leather shoes",
+  "cat": "fashion"
+ },
+ {
+  "ko": "부츠",
+  "en": "boots",
+  "cat": "fashion"
+ },
+ {
+  "ko": "슬리퍼",
+  "en": "slippers",
+  "cat": "fashion"
+ },
+ {
+  "ko": "샌들",
+  "en": "sandals",
+  "cat": "fashion"
+ },
+ {
+  "ko": "크록스",
+  "en": "clogs",
+  "cat": "fashion"
+ },
+ {
+  "ko": "양말",
+  "en": "socks",
+  "cat": "fashion"
+ },
+ {
+  "ko": "티셔츠",
+  "en": "t-shirt",
+  "cat": "fashion"
+ },
+ {
+  "ko": "셔츠",
+  "en": "button-up shirt",
+  "cat": "fashion"
+ },
+ {
+  "ko": "후드티",
+  "en": "hoodie",
+  "cat": "fashion"
+ },
+ {
+  "ko": "니트",
+  "en": "knit sweater",
+  "cat": "fashion"
+ },
+ {
+  "ko": "청바지",
+  "en": "jeans",
+  "cat": "fashion"
+ },
+ {
+  "ko": "바지",
+  "en": "trousers",
+  "cat": "fashion"
+ },
+ {
+  "ko": "치마",
+  "en": "skirt",
+  "cat": "fashion"
+ },
+ {
+  "ko": "원피스",
+  "en": "dress",
+  "cat": "fashion"
+ },
+ {
+  "ko": "패딩",
+  "en": "puffer jacket",
+  "cat": "fashion"
+ },
+ {
+  "ko": "코트",
+  "en": "coat",
+  "cat": "fashion"
+ },
+ {
+  "ko": "자켓",
+  "en": "jacket",
+  "cat": "fashion"
+ },
+ {
+  "ko": "모자",
+  "en": "baseball cap",
+  "cat": "fashion"
+ },
+ {
+  "ko": "비니",
+  "en": "beanie",
+  "cat": "fashion"
+ },
+ {
+  "ko": "목도리",
+  "en": "scarf",
+  "cat": "fashion"
+ },
+ {
+  "ko": "장갑",
+  "en": "gloves",
+  "cat": "fashion"
+ },
+ {
+  "ko": "넥타이",
+  "en": "necktie",
+  "cat": "fashion"
+ },
+ {
+  "ko": "벨트",
+  "en": "belt",
+  "cat": "fashion"
+ },
+ {
+  "ko": "백팩",
+  "en": "backpack",
+  "cat": "fashion"
+ },
+ {
+  "ko": "핸드백",
+  "en": "handbag",
+  "cat": "fashion"
+ },
+ {
+  "ko": "에코백",
+  "en": "tote bag",
+  "cat": "fashion"
+ },
+ {
+  "ko": "크로스백",
+  "en": "crossbody bag",
+  "cat": "fashion"
+ },
+ {
+  "ko": "캐리어",
+  "en": "suitcase",
+  "cat": "fashion"
+ },
+ {
+  "ko": "지갑",
+  "en": "wallet",
+  "cat": "fashion"
+ },
+ {
+  "ko": "카드지갑",
+  "en": "card holder",
+  "cat": "fashion"
+ },
+ {
+  "ko": "손목시계",
+  "en": "wristwatch",
+  "cat": "fashion"
+ },
+ {
+  "ko": "안경",
+  "en": "eyeglasses",
+  "cat": "fashion"
+ },
+ {
+  "ko": "선글라스",
+  "en": "sunglasses",
+  "cat": "fashion"
+ },
+ {
+  "ko": "우산",
+  "en": "umbrella",
+  "cat": "fashion"
+ },
+ {
+  "ko": "양산",
+  "en": "parasol",
+  "cat": "fashion"
+ },
+ {
+  "ko": "마스크",
+  "en": "face mask",
+  "cat": "fashion"
+ },
+ {
+  "ko": "목걸이",
+  "en": "necklace",
+  "cat": "fashion"
+ },
+ {
+  "ko": "반지",
+  "en": "ring",
+  "cat": "fashion"
+ },
+ {
+  "ko": "귀걸이",
+  "en": "earrings",
+  "cat": "fashion"
+ },
+ {
+  "ko": "헤어핀",
+  "en": "hair clip",
+  "cat": "fashion"
+ },
+ {
+  "ko": "머리끈",
+  "en": "hair tie",
+  "cat": "fashion"
+ }
+]

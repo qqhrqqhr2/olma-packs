@@ -1,0 +1,192 @@
+[
+ {
+  "ko": "드라이버",
+  "en": "screwdriver",
+  "cat": "tools"
+ },
+ {
+  "ko": "망치",
+  "en": "hammer",
+  "cat": "tools"
+ },
+ {
+  "ko": "펜치",
+  "en": "pliers",
+  "cat": "tools"
+ },
+ {
+  "ko": "니퍼",
+  "en": "wire cutter",
+  "cat": "tools"
+ },
+ {
+  "ko": "몽키 스패너",
+  "en": "adjustable wrench",
+  "cat": "tools"
+ },
+ {
+  "ko": "육각 렌치",
+  "en": "allen key set",
+  "cat": "tools"
+ },
+ {
+  "ko": "줄자",
+  "en": "tape measure",
+  "cat": "tools"
+ },
+ {
+  "ko": "수평계",
+  "en": "spirit level",
+  "cat": "tools"
+ },
+ {
+  "ko": "커터칼",
+  "en": "utility knife",
+  "cat": "tools"
+ },
+ {
+  "ko": "톱",
+  "en": "hand saw",
+  "cat": "tools"
+ },
+ {
+  "ko": "전동 드릴",
+  "en": "cordless power drill",
+  "cat": "tools"
+ },
+ {
+  "ko": "전동 드라이버",
+  "en": "electric screwdriver",
+  "cat": "tools"
+ },
+ {
+  "ko": "글루건",
+  "en": "hot glue gun",
+  "cat": "tools"
+ },
+ {
+  "ko": "실리콘 건",
+  "en": "caulking gun",
+  "cat": "tools"
+ },
+ {
+  "ko": "타카",
+  "en": "staple gun",
+  "cat": "tools"
+ },
+ {
+  "ko": "공구함",
+  "en": "toolbox",
+  "cat": "tools"
+ },
+ {
+  "ko": "나사",
+  "en": "screws",
+  "cat": "tools"
+ },
+ {
+  "ko": "못",
+  "en": "nails",
+  "cat": "tools"
+ },
+ {
+  "ko": "볼트 너트",
+  "en": "bolts and nuts",
+  "cat": "tools"
+ },
+ {
+  "ko": "케이블 타이",
+  "en": "cable ties",
+  "cat": "tools"
+ },
+ {
+  "ko": "절연 테이프",
+  "en": "electrical tape roll",
+  "cat": "tools"
+ },
+ {
+  "ko": "덕트 테이프",
+  "en": "duct tape roll",
+  "cat": "tools"
+ },
+ {
+  "ko": "양면 테이프",
+  "en": "double-sided tape",
+  "cat": "tools"
+ },
+ {
+  "ko": "순간접착제",
+  "en": "super glue tube",
+  "cat": "tools"
+ },
+ {
+  "ko": "WD-40",
+  "en": "lubricant spray can",
+  "cat": "tools"
+ },
+ {
+  "ko": "사다리",
+  "en": "step ladder",
+  "cat": "tools"
+ },
+ {
+  "ko": "작업 장갑",
+  "en": "work gloves",
+  "cat": "tools"
+ },
+ {
+  "ko": "손전등",
+  "en": "flashlight",
+  "cat": "tools"
+ },
+ {
+  "ko": "헤드랜턴",
+  "en": "headlamp",
+  "cat": "tools"
+ },
+ {
+  "ko": "멀티탭",
+  "en": "power strip",
+  "cat": "tools"
+ },
+ {
+  "ko": "연장선",
+  "en": "extension cord",
+  "cat": "tools"
+ },
+ {
+  "ko": "전구",
+  "en": "light bulb",
+  "cat": "tools"
+ },
+ {
+  "ko": "건전지",
+  "en": "batteries",
+  "cat": "tools"
+ },
+ {
+  "ko": "자물쇠",
+  "en": "padlock",
+  "cat": "tools"
+ },
+ {
+  "ko": "붓",
+  "en": "paint brush",
+  "cat": "tools"
+ },
+ {
+  "ko": "페인트 롤러",
+  "en": "paint roller",
+  "cat": "tools"
+ },
+ {
+  "ko": "사포",
+  "en": "sandpaper",
+  "cat": "tools"
+ },
+ {
+  "ko": "클램프",
+  "en": "clamp",
+  "cat": "tools"
+ }
+]

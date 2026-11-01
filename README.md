@@ -9,8 +9,9 @@
 | `<팩>.json` / `<팩>.bin` | 이름 목록(한국어·영어) / 이름마다 미리 계산한 512 특징 (half float) |
 
 팩: `base` 기본 생활용품(124) · `food` 음식·음료(130) · `flower` 꽃·식물(155) · `car` 자동차·탈것(50)
+v2에서 더함: `kitchen` 주방용품(55) · `cleaning` 생활화학·욕실(47) · `beauty` 화장품(39) · `tools` 공구·DIY(38) · `stationery` 문구·사무(40) · `electronics` 전자기기(38) · `fashion` 옷·신발·잡화(42)
 
-앱은 태그(`v1` 등)를 붙인 주소에서 받는다: `https://raw.githubusercontent.com/qqhrqqhr2/olma-packs/v1/packs.json`
+앱은 태그(`v1` 등)를 붙인 주소에서 받는다: `https://raw.githubusercontent.com/qqhrqqhr2/olma-packs/v2/packs.json` (v1은 기본 4팩, 예전 앱용)`
 
 ## 라이선스
 - 모델: OpenAI CLIP (MIT License, Copyright (c) 2021 OpenAI) — https://github.com/openai/CLIP
