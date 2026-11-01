@@ -20,3 +20,5 @@ v4에서 더함 (브랜드 + 종류 이름, 생김새 설명, 무게 분류 pres
 ## 라이선스
 - 모델: OpenAI CLIP (MIT License, Copyright (c) 2021 OpenAI) — https://github.com/openai/CLIP
 - 팩 데이터: BAYZ Works
+
+v5 (2026-11-02): 모든 팩을 각도별 여러 줄로 다시 만듦 — 이름 하나에 기본·위에서·옆/뒤·가까이 설명 줄(앱은 가장 닮은 줄로 비교). 기본 팩에 labels_more 전부 포함(생활용품 424·음식 386·꽃 155·탈것 173), 팩끼리 겹치는 이름은 앞 팩에만. 만드는 법: olma 저장소 tools/clip/build_all_packs.py

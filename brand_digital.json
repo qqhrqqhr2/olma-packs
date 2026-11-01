@@ -3,348 +3,1568 @@
   "ko": "아이폰",
   "en": "Apple iPhone smartphone with a square camera bump on the back",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "phone"
+ },
+ {
+  "ko": "아이폰",
+  "en": "Apple iPhone smartphone with a square camera bump on the back",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "phone"
+ },
+ {
+  "ko": "아이폰",
+  "en": "Apple iPhone smartphone with a square camera bump on the back",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "phone"
+ },
+ {
+  "ko": "아이폰",
+  "en": "Apple iPhone smartphone with a square camera bump on the back",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "phone"
  },
  {
   "ko": "아이폰 프로",
   "en": "Apple iPhone Pro with three large cameras in a square bump",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "phone"
+ },
+ {
+  "ko": "아이폰 프로",
+  "en": "Apple iPhone Pro with three large cameras in a square bump",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "phone"
+ },
+ {
+  "ko": "아이폰 프로",
+  "en": "Apple iPhone Pro with three large cameras in a square bump",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "phone"
+ },
+ {
+  "ko": "아이폰 프로",
+  "en": "Apple iPhone Pro with three large cameras in a square bump",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "phone"
  },
  {
   "ko": "갤럭시 S 스마트폰",
   "en": "Samsung Galaxy S smartphone with vertical camera lenses on the back",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 S 스마트폰",
+  "en": "Samsung Galaxy S smartphone with vertical camera lenses on the back",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 S 스마트폰",
+  "en": "Samsung Galaxy S smartphone with vertical camera lenses on the back",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 S 스마트폰",
+  "en": "Samsung Galaxy S smartphone with vertical camera lenses on the back",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "phone"
  },
  {
   "ko": "갤럭시 울트라",
   "en": "Samsung Galaxy S Ultra smartphone with a stylus and large camera lenses",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 울트라",
+  "en": "Samsung Galaxy S Ultra smartphone with a stylus and large camera lenses",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 울트라",
+  "en": "Samsung Galaxy S Ultra smartphone with a stylus and large camera lenses",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 울트라",
+  "en": "Samsung Galaxy S Ultra smartphone with a stylus and large camera lenses",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "phone"
  },
  {
   "ko": "갤럭시 Z 플립",
   "en": "Samsung Galaxy Z Flip foldable clamshell phone",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 Z 플립",
+  "en": "Samsung Galaxy Z Flip foldable clamshell phone",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 Z 플립",
+  "en": "Samsung Galaxy Z Flip foldable clamshell phone",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 Z 플립",
+  "en": "Samsung Galaxy Z Flip foldable clamshell phone",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "phone"
  },
  {
   "ko": "갤럭시 Z 폴드",
   "en": "Samsung Galaxy Z Fold foldable phone that opens like a book",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 Z 폴드",
+  "en": "Samsung Galaxy Z Fold foldable phone that opens like a book",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 Z 폴드",
+  "en": "Samsung Galaxy Z Fold foldable phone that opens like a book",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "phone"
+ },
+ {
+  "ko": "갤럭시 Z 폴드",
+  "en": "Samsung Galaxy Z Fold foldable phone that opens like a book",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "phone"
  },
  {
   "ko": "아이패드",
   "en": "Apple iPad tablet",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "tablet"
+ },
+ {
+  "ko": "아이패드",
+  "en": "Apple iPad tablet",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "tablet"
+ },
+ {
+  "ko": "아이패드",
+  "en": "Apple iPad tablet",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "tablet"
+ },
+ {
+  "ko": "아이패드",
+  "en": "Apple iPad tablet",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "tablet"
  },
  {
   "ko": "아이패드 프로",
   "en": "Apple iPad Pro tablet with thin bezels and camera module",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "tablet"
+ },
+ {
+  "ko": "아이패드 프로",
+  "en": "Apple iPad Pro tablet with thin bezels and camera module",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "tablet"
+ },
+ {
+  "ko": "아이패드 프로",
+  "en": "Apple iPad Pro tablet with thin bezels and camera module",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "tablet"
+ },
+ {
+  "ko": "아이패드 프로",
+  "en": "Apple iPad Pro tablet with thin bezels and camera module",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "tablet"
  },
  {
   "ko": "갤럭시 탭",
   "en": "Samsung Galaxy Tab tablet",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "tablet"
+ },
+ {
+  "ko": "갤럭시 탭",
+  "en": "Samsung Galaxy Tab tablet",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "tablet"
+ },
+ {
+  "ko": "갤럭시 탭",
+  "en": "Samsung Galaxy Tab tablet",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "tablet"
+ },
+ {
+  "ko": "갤럭시 탭",
+  "en": "Samsung Galaxy Tab tablet",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "tablet"
  },
  {
   "ko": "맥북 에어",
   "en": "Apple MacBook Air laptop, thin aluminum with an Apple logo on the lid",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "laptop"
+ },
+ {
+  "ko": "맥북 에어",
+  "en": "Apple MacBook Air laptop, thin aluminum with an Apple logo on the lid",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "laptop"
+ },
+ {
+  "ko": "맥북 에어",
+  "en": "Apple MacBook Air laptop, thin aluminum with an Apple logo on the lid",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "laptop"
+ },
+ {
+  "ko": "맥북 에어",
+  "en": "Apple MacBook Air laptop, thin aluminum with an Apple logo on the lid",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "laptop"
  },
  {
   "ko": "맥북 프로",
   "en": "Apple MacBook Pro laptop, space black or silver aluminum",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "laptop"
+ },
+ {
+  "ko": "맥북 프로",
+  "en": "Apple MacBook Pro laptop, space black or silver aluminum",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "laptop"
+ },
+ {
+  "ko": "맥북 프로",
+  "en": "Apple MacBook Pro laptop, space black or silver aluminum",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "laptop"
+ },
+ {
+  "ko": "맥북 프로",
+  "en": "Apple MacBook Pro laptop, space black or silver aluminum",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "laptop"
  },
  {
   "ko": "LG 그램 노트북",
   "en": "LG gram ultra-light laptop, white or grey thin lid",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "laptop"
+ },
+ {
+  "ko": "LG 그램 노트북",
+  "en": "LG gram ultra-light laptop, white or grey thin lid",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "laptop"
+ },
+ {
+  "ko": "LG 그램 노트북",
+  "en": "LG gram ultra-light laptop, white or grey thin lid",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "laptop"
+ },
+ {
+  "ko": "LG 그램 노트북",
+  "en": "LG gram ultra-light laptop, white or grey thin lid",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "laptop"
  },
  {
   "ko": "갤럭시 북",
   "en": "Samsung Galaxy Book laptop, slim grey laptop",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "laptop"
+ },
+ {
+  "ko": "갤럭시 북",
+  "en": "Samsung Galaxy Book laptop, slim grey laptop",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "laptop"
+ },
+ {
+  "ko": "갤럭시 북",
+  "en": "Samsung Galaxy Book laptop, slim grey laptop",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "laptop"
+ },
+ {
+  "ko": "갤럭시 북",
+  "en": "Samsung Galaxy Book laptop, slim grey laptop",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "laptop"
  },
  {
   "ko": "게이밍 노트북",
   "en": "gaming laptop with RGB keyboard and thick body",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "laptop"
+ },
+ {
+  "ko": "게이밍 노트북",
+  "en": "gaming laptop with RGB keyboard and thick body",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "laptop"
+ },
+ {
+  "ko": "게이밍 노트북",
+  "en": "gaming laptop with RGB keyboard and thick body",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "laptop"
+ },
+ {
+  "ko": "게이밍 노트북",
+  "en": "gaming laptop with RGB keyboard and thick body",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "laptop"
  },
  {
   "ko": "아이맥",
   "en": "Apple iMac all-in-one computer with a colorful thin screen",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "monitor"
+ },
+ {
+  "ko": "아이맥",
+  "en": "Apple iMac all-in-one computer with a colorful thin screen",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "monitor"
+ },
+ {
+  "ko": "아이맥",
+  "en": "Apple iMac all-in-one computer with a colorful thin screen",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "monitor"
+ },
+ {
+  "ko": "아이맥",
+  "en": "Apple iMac all-in-one computer with a colorful thin screen",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "monitor"
  },
  {
   "ko": "맥 미니",
   "en": "Apple Mac mini, small square aluminum box",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "맥 미니",
+  "en": "Apple Mac mini, small square aluminum box",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "맥 미니",
+  "en": "Apple Mac mini, small square aluminum box",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "맥 미니",
+  "en": "Apple Mac mini, small square aluminum box",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "router_speaker"
  },
  {
   "ko": "에어팟",
   "en": "Apple AirPods in a small white charging case",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "에어팟",
+  "en": "Apple AirPods in a small white charging case",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "에어팟",
+  "en": "Apple AirPods in a small white charging case",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "에어팟",
+  "en": "Apple AirPods in a small white charging case",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "earbuds"
  },
  {
   "ko": "에어팟 프로",
   "en": "Apple AirPods Pro in a white rounded rectangle case",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "에어팟 프로",
+  "en": "Apple AirPods Pro in a white rounded rectangle case",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "에어팟 프로",
+  "en": "Apple AirPods Pro in a white rounded rectangle case",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "에어팟 프로",
+  "en": "Apple AirPods Pro in a white rounded rectangle case",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "earbuds"
  },
  {
   "ko": "갤럭시 버즈",
   "en": "Samsung Galaxy Buds wireless earbuds in a small case",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "갤럭시 버즈",
+  "en": "Samsung Galaxy Buds wireless earbuds in a small case",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "갤럭시 버즈",
+  "en": "Samsung Galaxy Buds wireless earbuds in a small case",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "earbuds"
+ },
+ {
+  "ko": "갤럭시 버즈",
+  "en": "Samsung Galaxy Buds wireless earbuds in a small case",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "earbuds"
  },
  {
   "ko": "에어팟 맥스",
   "en": "Apple AirPods Max over-ear headphones with mesh headband and aluminum cups",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "headphones"
+ },
+ {
+  "ko": "에어팟 맥스",
+  "en": "Apple AirPods Max over-ear headphones with mesh headband and aluminum cups",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "headphones"
+ },
+ {
+  "ko": "에어팟 맥스",
+  "en": "Apple AirPods Max over-ear headphones with mesh headband and aluminum cups",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "headphones"
+ },
+ {
+  "ko": "에어팟 맥스",
+  "en": "Apple AirPods Max over-ear headphones with mesh headband and aluminum cups",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "headphones"
  },
  {
   "ko": "소니 노이즈캔슬링 헤드폰",
   "en": "Sony WH-1000XM noise cancelling over-ear headphones, black or beige",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "headphones"
+ },
+ {
+  "ko": "소니 노이즈캔슬링 헤드폰",
+  "en": "Sony WH-1000XM noise cancelling over-ear headphones, black or beige",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "headphones"
+ },
+ {
+  "ko": "소니 노이즈캔슬링 헤드폰",
+  "en": "Sony WH-1000XM noise cancelling over-ear headphones, black or beige",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "headphones"
+ },
+ {
+  "ko": "소니 노이즈캔슬링 헤드폰",
+  "en": "Sony WH-1000XM noise cancelling over-ear headphones, black or beige",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "headphones"
  },
  {
   "ko": "보스 헤드폰",
   "en": "Bose QuietComfort over-ear headphones",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "headphones"
+ },
+ {
+  "ko": "보스 헤드폰",
+  "en": "Bose QuietComfort over-ear headphones",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "headphones"
+ },
+ {
+  "ko": "보스 헤드폰",
+  "en": "Bose QuietComfort over-ear headphones",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "headphones"
+ },
+ {
+  "ko": "보스 헤드폰",
+  "en": "Bose QuietComfort over-ear headphones",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "headphones"
  },
  {
   "ko": "애플워치",
   "en": "Apple Watch smartwatch with a square face and band",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "애플워치",
+  "en": "Apple Watch smartwatch with a square face and band",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "애플워치",
+  "en": "Apple Watch smartwatch with a square face and band",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "애플워치",
+  "en": "Apple Watch smartwatch with a square face and band",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "smartwatch"
  },
  {
   "ko": "갤럭시 워치",
   "en": "Samsung Galaxy Watch smartwatch with a round face",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "갤럭시 워치",
+  "en": "Samsung Galaxy Watch smartwatch with a round face",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "갤럭시 워치",
+  "en": "Samsung Galaxy Watch smartwatch with a round face",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "갤럭시 워치",
+  "en": "Samsung Galaxy Watch smartwatch with a round face",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "smartwatch"
  },
  {
   "ko": "샤오미 스마트밴드",
   "en": "Xiaomi Mi Band fitness tracker with a small oval screen",
   "cat": "brand_digital",
+  "view": 0,
   "preset": "smartwatch"
  },
  {
-  "ko": "닌텐도 스위치",
-  "en": "Nintendo Switch handheld console with red and blue Joy-Con controllers",
+  "ko": "샤오미 스마트밴드",
+  "en": "Xiaomi Mi Band fitness tracker with a small oval screen",
   "cat": "brand_digital",
-  "preset": "handheld_switch"
+  "view": 1,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "샤오미 스마트밴드",
+  "en": "Xiaomi Mi Band fitness tracker with a small oval screen",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "smartwatch"
+ },
+ {
+  "ko": "샤오미 스마트밴드",
+  "en": "Xiaomi Mi Band fitness tracker with a small oval screen",
+  "cat": "brand_digital",
+  "view": 3,
+  "preset": "smartwatch"
  },
  {
   "ko": "플레이스테이션 5",
   "en": "Sony PlayStation 5 console, white and black curved tower",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "game_console"
+ },
+ {
+  "ko": "플레이스테이션 5",
+  "en": "Sony PlayStation 5 console, white and black curved tower",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "game_console"
+ },
+ {
+  "ko": "플레이스테이션 5",
+  "en": "Sony PlayStation 5 console, white and black curved tower",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "game_console"
+ },
+ {
+  "ko": "플레이스테이션 5",
+  "en": "Sony PlayStation 5 console, white and black curved tower",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "game_console"
  },
  {
   "ko": "플레이스테이션 컨트롤러",
   "en": "PlayStation DualSense controller, white and black gamepad",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "remote_calc"
+ },
+ {
+  "ko": "플레이스테이션 컨트롤러",
+  "en": "PlayStation DualSense controller, white and black gamepad",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "remote_calc"
+ },
+ {
+  "ko": "플레이스테이션 컨트롤러",
+  "en": "PlayStation DualSense controller, white and black gamepad",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "remote_calc"
+ },
+ {
+  "ko": "플레이스테이션 컨트롤러",
+  "en": "PlayStation DualSense controller, white and black gamepad",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "remote_calc"
  },
  {
   "ko": "엑스박스",
   "en": "Microsoft Xbox Series console, black box with a round fan top",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "game_console"
+ },
+ {
+  "ko": "엑스박스",
+  "en": "Microsoft Xbox Series console, black box with a round fan top",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "game_console"
+ },
+ {
+  "ko": "엑스박스",
+  "en": "Microsoft Xbox Series console, black box with a round fan top",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "game_console"
+ },
+ {
+  "ko": "엑스박스",
+  "en": "Microsoft Xbox Series console, black box with a round fan top",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "game_console"
  },
  {
   "ko": "엑스박스 컨트롤러",
   "en": "Xbox wireless controller gamepad",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "remote_calc"
+ },
+ {
+  "ko": "엑스박스 컨트롤러",
+  "en": "Xbox wireless controller gamepad",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "remote_calc"
+ },
+ {
+  "ko": "엑스박스 컨트롤러",
+  "en": "Xbox wireless controller gamepad",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "remote_calc"
+ },
+ {
+  "ko": "엑스박스 컨트롤러",
+  "en": "Xbox wireless controller gamepad",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "remote_calc"
  },
  {
   "ko": "로지텍 MX 마스터 마우스",
   "en": "Logitech MX Master ergonomic mouse with a thumb wheel",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "mouse"
+ },
+ {
+  "ko": "로지텍 MX 마스터 마우스",
+  "en": "Logitech MX Master ergonomic mouse with a thumb wheel",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "mouse"
+ },
+ {
+  "ko": "로지텍 MX 마스터 마우스",
+  "en": "Logitech MX Master ergonomic mouse with a thumb wheel",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "mouse"
+ },
+ {
+  "ko": "로지텍 MX 마스터 마우스",
+  "en": "Logitech MX Master ergonomic mouse with a thumb wheel",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "mouse"
  },
  {
   "ko": "애플 매직 마우스",
   "en": "Apple Magic Mouse, flat white or black smooth mouse",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "mouse"
+ },
+ {
+  "ko": "애플 매직 마우스",
+  "en": "Apple Magic Mouse, flat white or black smooth mouse",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "mouse"
+ },
+ {
+  "ko": "애플 매직 마우스",
+  "en": "Apple Magic Mouse, flat white or black smooth mouse",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "mouse"
+ },
+ {
+  "ko": "애플 매직 마우스",
+  "en": "Apple Magic Mouse, flat white or black smooth mouse",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "mouse"
  },
  {
   "ko": "애플 매직 키보드",
   "en": "Apple Magic Keyboard, thin white aluminum keyboard",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "애플 매직 키보드",
+  "en": "Apple Magic Keyboard, thin white aluminum keyboard",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "애플 매직 키보드",
+  "en": "Apple Magic Keyboard, thin white aluminum keyboard",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "애플 매직 키보드",
+  "en": "Apple Magic Keyboard, thin white aluminum keyboard",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "keyboard"
  },
  {
   "ko": "기계식 키보드",
   "en": "mechanical keyboard with keycaps",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "기계식 키보드",
+  "en": "mechanical keyboard with keycaps",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "기계식 키보드",
+  "en": "mechanical keyboard with keycaps",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "기계식 키보드",
+  "en": "mechanical keyboard with keycaps",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "keyboard"
  },
  {
   "ko": "로지텍 키보드",
   "en": "Logitech wireless keyboard",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "로지텍 키보드",
+  "en": "Logitech wireless keyboard",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "로지텍 키보드",
+  "en": "Logitech wireless keyboard",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "keyboard"
+ },
+ {
+  "ko": "로지텍 키보드",
+  "en": "Logitech wireless keyboard",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "keyboard"
  },
  {
   "ko": "애플 펜슬",
   "en": "Apple Pencil stylus, white cylinder",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "stylus_apple_pencil"
+ },
+ {
+  "ko": "애플 펜슬",
+  "en": "Apple Pencil stylus, white cylinder",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "stylus_apple_pencil"
+ },
+ {
+  "ko": "애플 펜슬",
+  "en": "Apple Pencil stylus, white cylinder",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "stylus_apple_pencil"
+ },
+ {
+  "ko": "애플 펜슬",
+  "en": "Apple Pencil stylus, white cylinder",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "stylus_apple_pencil"
  },
  {
   "ko": "갤럭시 S펜",
   "en": "Samsung S Pen stylus",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "stylus_apple_pencil"
+ },
+ {
+  "ko": "갤럭시 S펜",
+  "en": "Samsung S Pen stylus",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "stylus_apple_pencil"
+ },
+ {
+  "ko": "갤럭시 S펜",
+  "en": "Samsung S Pen stylus",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "stylus_apple_pencil"
+ },
+ {
+  "ko": "갤럭시 S펜",
+  "en": "Samsung S Pen stylus",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "stylus_apple_pencil"
  },
  {
   "ko": "JBL 블루투스 스피커",
   "en": "JBL Flip or Charge portable cylindrical bluetooth speaker with fabric cover",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "JBL 블루투스 스피커",
+  "en": "JBL Flip or Charge portable cylindrical bluetooth speaker with fabric cover",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "JBL 블루투스 스피커",
+  "en": "JBL Flip or Charge portable cylindrical bluetooth speaker with fabric cover",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "JBL 블루투스 스피커",
+  "en": "JBL Flip or Charge portable cylindrical bluetooth speaker with fabric cover",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "router_speaker"
  },
  {
   "ko": "마샬 스피커",
   "en": "Marshall bluetooth speaker with black textured body and gold knobs",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "마샬 스피커",
+  "en": "Marshall bluetooth speaker with black textured body and gold knobs",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "마샬 스피커",
+  "en": "Marshall bluetooth speaker with black textured body and gold knobs",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "마샬 스피커",
+  "en": "Marshall bluetooth speaker with black textured body and gold knobs",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "router_speaker"
  },
  {
   "ko": "보스 사운드링크 스피커",
   "en": "Bose SoundLink portable speaker",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "보스 사운드링크 스피커",
+  "en": "Bose SoundLink portable speaker",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "보스 사운드링크 스피커",
+  "en": "Bose SoundLink portable speaker",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "보스 사운드링크 스피커",
+  "en": "Bose SoundLink portable speaker",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "router_speaker"
  },
  {
   "ko": "구글 네스트 스피커",
   "en": "Google Nest smart speaker, fabric covered round speaker",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "구글 네스트 스피커",
+  "en": "Google Nest smart speaker, fabric covered round speaker",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "구글 네스트 스피커",
+  "en": "Google Nest smart speaker, fabric covered round speaker",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "구글 네스트 스피커",
+  "en": "Google Nest smart speaker, fabric covered round speaker",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "router_speaker"
  },
  {
   "ko": "카카오 미니 스피커",
   "en": "Kakao Mini smart speaker, small round speaker with a character",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "카카오 미니 스피커",
+  "en": "Kakao Mini smart speaker, small round speaker with a character",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "카카오 미니 스피커",
+  "en": "Kakao Mini smart speaker, small round speaker with a character",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "router_speaker"
+ },
+ {
+  "ko": "카카오 미니 스피커",
+  "en": "Kakao Mini smart speaker, small round speaker with a character",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "router_speaker"
  },
  {
   "ko": "샤오미 보조배터리",
   "en": "Xiaomi power bank, slim rectangle battery pack",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "샤오미 보조배터리",
+  "en": "Xiaomi power bank, slim rectangle battery pack",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "샤오미 보조배터리",
+  "en": "Xiaomi power bank, slim rectangle battery pack",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "샤오미 보조배터리",
+  "en": "Xiaomi power bank, slim rectangle battery pack",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "powerbank"
  },
  {
   "ko": "앤커 보조배터리",
   "en": "Anker portable charger power bank",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "앤커 보조배터리",
+  "en": "Anker portable charger power bank",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "앤커 보조배터리",
+  "en": "Anker portable charger power bank",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "앤커 보조배터리",
+  "en": "Anker portable charger power bank",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "powerbank"
  },
  {
   "ko": "삼성 충전기",
   "en": "Samsung USB-C wall charger, white small block",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "삼성 충전기",
+  "en": "Samsung USB-C wall charger, white small block",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "삼성 충전기",
+  "en": "Samsung USB-C wall charger, white small block",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "삼성 충전기",
+  "en": "Samsung USB-C wall charger, white small block",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "powerbank"
  },
  {
   "ko": "애플 충전기",
   "en": "Apple USB-C power adapter, white cube",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "애플 충전기",
+  "en": "Apple USB-C power adapter, white cube",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "애플 충전기",
+  "en": "Apple USB-C power adapter, white cube",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "powerbank"
+ },
+ {
+  "ko": "애플 충전기",
+  "en": "Apple USB-C power adapter, white cube",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "powerbank"
  },
  {
   "ko": "고프로 액션캠",
   "en": "GoPro action camera, small black cube camera",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "camera"
+ },
+ {
+  "ko": "고프로 액션캠",
+  "en": "GoPro action camera, small black cube camera",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "camera"
+ },
+ {
+  "ko": "고프로 액션캠",
+  "en": "GoPro action camera, small black cube camera",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "camera"
+ },
+ {
+  "ko": "고프로 액션캠",
+  "en": "GoPro action camera, small black cube camera",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "camera"
  },
  {
   "ko": "캐논 카메라",
   "en": "Canon DSLR or mirrorless camera with a lens",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "camera"
+ },
+ {
+  "ko": "캐논 카메라",
+  "en": "Canon DSLR or mirrorless camera with a lens",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "camera"
+ },
+ {
+  "ko": "캐논 카메라",
+  "en": "Canon DSLR or mirrorless camera with a lens",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "camera"
+ },
+ {
+  "ko": "캐논 카메라",
+  "en": "Canon DSLR or mirrorless camera with a lens",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "camera"
  },
  {
   "ko": "소니 미러리스 카메라",
   "en": "Sony Alpha mirrorless camera, black body with a lens",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "camera"
+ },
+ {
+  "ko": "소니 미러리스 카메라",
+  "en": "Sony Alpha mirrorless camera, black body with a lens",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "camera"
+ },
+ {
+  "ko": "소니 미러리스 카메라",
+  "en": "Sony Alpha mirrorless camera, black body with a lens",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "camera"
+ },
+ {
+  "ko": "소니 미러리스 카메라",
+  "en": "Sony Alpha mirrorless camera, black body with a lens",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "camera"
  },
  {
   "ko": "후지필름 카메라",
   "en": "Fujifilm retro style camera with silver top dials",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "camera"
+ },
+ {
+  "ko": "후지필름 카메라",
+  "en": "Fujifilm retro style camera with silver top dials",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "camera"
+ },
+ {
+  "ko": "후지필름 카메라",
+  "en": "Fujifilm retro style camera with silver top dials",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "camera"
+ },
+ {
+  "ko": "후지필름 카메라",
+  "en": "Fujifilm retro style camera with silver top dials",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "camera"
  },
  {
   "ko": "인스탁스 즉석카메라",
   "en": "Fujifilm Instax instant camera, colorful plastic body",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "camera"
+ },
+ {
+  "ko": "인스탁스 즉석카메라",
+  "en": "Fujifilm Instax instant camera, colorful plastic body",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "camera"
+ },
+ {
+  "ko": "인스탁스 즉석카메라",
+  "en": "Fujifilm Instax instant camera, colorful plastic body",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "camera"
+ },
+ {
+  "ko": "인스탁스 즉석카메라",
+  "en": "Fujifilm Instax instant camera, colorful plastic body",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "camera"
  },
  {
   "ko": "DJI 짐벌",
   "en": "DJI Osmo handheld gimbal stabilizer",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "camera"
+ },
+ {
+  "ko": "DJI 짐벌",
+  "en": "DJI Osmo handheld gimbal stabilizer",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "camera"
+ },
+ {
+  "ko": "DJI 짐벌",
+  "en": "DJI Osmo handheld gimbal stabilizer",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "camera"
+ },
+ {
+  "ko": "DJI 짐벌",
+  "en": "DJI Osmo handheld gimbal stabilizer",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "camera"
  },
  {
   "ko": "킨들 전자책",
   "en": "Amazon Kindle e-reader with a paper-like screen",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "tablet"
+ },
+ {
+  "ko": "킨들 전자책",
+  "en": "Amazon Kindle e-reader with a paper-like screen",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "tablet"
+ },
+ {
+  "ko": "킨들 전자책",
+  "en": "Amazon Kindle e-reader with a paper-like screen",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "tablet"
+ },
+ {
+  "ko": "킨들 전자책",
+  "en": "Amazon Kindle e-reader with a paper-like screen",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "tablet"
  },
  {
   "ko": "삼성 모니터",
   "en": "Samsung computer monitor on a stand",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "monitor"
+ },
+ {
+  "ko": "삼성 모니터",
+  "en": "Samsung computer monitor on a stand",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "monitor"
+ },
+ {
+  "ko": "삼성 모니터",
+  "en": "Samsung computer monitor on a stand",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "monitor"
+ },
+ {
+  "ko": "삼성 모니터",
+  "en": "Samsung computer monitor on a stand",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "monitor"
  },
  {
   "ko": "LG 모니터",
   "en": "LG UltraGear or UltraFine computer monitor",
   "cat": "brand_digital",
+  "view": 0,
   "preset": "monitor"
  },
  {
-  "ko": "공유기",
-  "en": "wifi router with antennas",
+  "ko": "LG 모니터",
+  "en": "LG UltraGear or UltraFine computer monitor",
   "cat": "brand_digital",
-  "preset": "router_speaker"
+  "view": 1,
+  "preset": "monitor"
+ },
+ {
+  "ko": "LG 모니터",
+  "en": "LG UltraGear or UltraFine computer monitor",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "monitor"
+ },
+ {
+  "ko": "LG 모니터",
+  "en": "LG UltraGear or UltraFine computer monitor",
+  "cat": "brand_digital",
+  "view": 3,
+  "preset": "monitor"
  },
  {
   "ko": "샌디스크 USB 메모리",
   "en": "SanDisk USB flash drive",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "usb_ssd"
+ },
+ {
+  "ko": "샌디스크 USB 메모리",
+  "en": "SanDisk USB flash drive",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "usb_ssd"
+ },
+ {
+  "ko": "샌디스크 USB 메모리",
+  "en": "SanDisk USB flash drive",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "usb_ssd"
+ },
+ {
+  "ko": "샌디스크 USB 메모리",
+  "en": "SanDisk USB flash drive",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "usb_ssd"
  },
  {
   "ko": "삼성 외장 SSD",
   "en": "Samsung T7 portable SSD, small metal rectangle",
   "cat": "brand_digital",
+  "view": 0,
+  "preset": "usb_ssd"
+ },
+ {
+  "ko": "삼성 외장 SSD",
+  "en": "Samsung T7 portable SSD, small metal rectangle",
+  "cat": "brand_digital",
+  "view": 1,
+  "preset": "usb_ssd"
+ },
+ {
+  "ko": "삼성 외장 SSD",
+  "en": "Samsung T7 portable SSD, small metal rectangle",
+  "cat": "brand_digital",
+  "view": 2,
+  "preset": "usb_ssd"
+ },
+ {
+  "ko": "삼성 외장 SSD",
+  "en": "Samsung T7 portable SSD, small metal rectangle",
+  "cat": "brand_digital",
+  "view": 3,
   "preset": "usb_ssd"
  }
 ]

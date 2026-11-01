@@ -3,378 +3,1708 @@
   "ko": "홈키파 에어졸",
   "en": "Homekeeper insect killer aerosol spray can",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "홈키파 에어졸",
+  "en": "Homekeeper insect killer aerosol spray can",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "홈키파 에어졸",
+  "en": "Homekeeper insect killer aerosol spray can",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "홈키파 에어졸",
+  "en": "Homekeeper insect killer aerosol spray can",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "에프킬라",
   "en": "F-Killer insect spray aerosol can",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "에프킬라",
+  "en": "F-Killer insect spray aerosol can",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "에프킬라",
+  "en": "F-Killer insect spray aerosol can",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "에프킬라",
+  "en": "F-Killer insect spray aerosol can",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "페브리즈",
   "en": "Febreze fabric refresher spray bottle with trigger",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "페브리즈",
+  "en": "Febreze fabric refresher spray bottle with trigger",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "페브리즈",
+  "en": "Febreze fabric refresher spray bottle with trigger",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "페브리즈",
+  "en": "Febreze fabric refresher spray bottle with trigger",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "유한락스",
   "en": "Yuhan Clorox bleach bottle, white bottle with blue label",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "유한락스",
+  "en": "Yuhan Clorox bleach bottle, white bottle with blue label",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "유한락스",
+  "en": "Yuhan Clorox bleach bottle, white bottle with blue label",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "유한락스",
+  "en": "Yuhan Clorox bleach bottle, white bottle with blue label",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "다우니 섬유유연제",
   "en": "Downy fabric softener bottle, purple or blue bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "다우니 섬유유연제",
+  "en": "Downy fabric softener bottle, purple or blue bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "다우니 섬유유연제",
+  "en": "Downy fabric softener bottle, purple or blue bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "다우니 섬유유연제",
+  "en": "Downy fabric softener bottle, purple or blue bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "피죤 섬유유연제",
   "en": "Pigeon fabric softener refill pouch or bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "피죤 섬유유연제",
+  "en": "Pigeon fabric softener refill pouch or bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "피죤 섬유유연제",
+  "en": "Pigeon fabric softener refill pouch or bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "피죤 섬유유연제",
+  "en": "Pigeon fabric softener refill pouch or bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "퍼실 세탁세제",
   "en": "Persil laundry detergent bottle, green bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "퍼실 세탁세제",
+  "en": "Persil laundry detergent bottle, green bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "퍼실 세탁세제",
+  "en": "Persil laundry detergent bottle, green bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "퍼실 세탁세제",
+  "en": "Persil laundry detergent bottle, green bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "테크 세탁세제",
   "en": "Tech liquid laundry detergent bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "테크 세탁세제",
+  "en": "Tech liquid laundry detergent bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "테크 세탁세제",
+  "en": "Tech liquid laundry detergent bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "테크 세탁세제",
+  "en": "Tech liquid laundry detergent bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "참그린 주방세제",
   "en": "Chamgreen dishwashing liquid bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "참그린 주방세제",
+  "en": "Chamgreen dishwashing liquid bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "참그린 주방세제",
+  "en": "Chamgreen dishwashing liquid bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "참그린 주방세제",
+  "en": "Chamgreen dishwashing liquid bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "트리오 주방세제",
   "en": "Trio dishwashing liquid bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "트리오 주방세제",
+  "en": "Trio dishwashing liquid bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "트리오 주방세제",
+  "en": "Trio dishwashing liquid bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cleaning_supplies"
+ },
+ {
+  "ko": "트리오 주방세제",
+  "en": "Trio dishwashing liquid bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cleaning_supplies"
  },
  {
   "ko": "크리넥스 미용티슈",
   "en": "Kleenex facial tissue box",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "household_umbrella_tissue"
+ },
+ {
+  "ko": "크리넥스 미용티슈",
+  "en": "Kleenex facial tissue box",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "household_umbrella_tissue"
+ },
+ {
+  "ko": "크리넥스 미용티슈",
+  "en": "Kleenex facial tissue box",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "household_umbrella_tissue"
+ },
+ {
+  "ko": "크리넥스 미용티슈",
+  "en": "Kleenex facial tissue box",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "household_umbrella_tissue"
  },
  {
   "ko": "깨끗한나라 두루마리 휴지",
   "en": "toilet paper rolls pack",
   "cat": "brand_living",
+  "view": 0,
   "preset": "household_umbrella_tissue"
  },
  {
-  "ko": "물티슈",
-  "en": "wet wipes pack with a plastic lid",
+  "ko": "깨끗한나라 두루마리 휴지",
+  "en": "toilet paper rolls pack",
   "cat": "brand_living",
+  "view": 1,
+  "preset": "household_umbrella_tissue"
+ },
+ {
+  "ko": "깨끗한나라 두루마리 휴지",
+  "en": "toilet paper rolls pack",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "household_umbrella_tissue"
+ },
+ {
+  "ko": "깨끗한나라 두루마리 휴지",
+  "en": "toilet paper rolls pack",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "household_umbrella_tissue"
  },
  {
   "ko": "데톨 핸드워시",
   "en": "Dettol hand wash pump bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "데톨 핸드워시",
+  "en": "Dettol hand wash pump bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "데톨 핸드워시",
+  "en": "Dettol hand wash pump bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "데톨 핸드워시",
+  "en": "Dettol hand wash pump bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "아이깨끗해 핸드워시",
   "en": "Ikkekkeuthae hand soap pump bottle, green",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "아이깨끗해 핸드워시",
+  "en": "Ikkekkeuthae hand soap pump bottle, green",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "아이깨끗해 핸드워시",
+  "en": "Ikkekkeuthae hand soap pump bottle, green",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "아이깨끗해 핸드워시",
+  "en": "Ikkekkeuthae hand soap pump bottle, green",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "도브 비누",
   "en": "Dove beauty bar soap, white oval bar",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "도브 비누",
+  "en": "Dove beauty bar soap, white oval bar",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "도브 비누",
+  "en": "Dove beauty bar soap, white oval bar",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "도브 비누",
+  "en": "Dove beauty bar soap, white oval bar",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "려 샴푸",
   "en": "Ryo shampoo bottle with a pump, dark brown or black",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "려 샴푸",
+  "en": "Ryo shampoo bottle with a pump, dark brown or black",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "려 샴푸",
+  "en": "Ryo shampoo bottle with a pump, dark brown or black",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "려 샴푸",
+  "en": "Ryo shampoo bottle with a pump, dark brown or black",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "엘라스틴 샴푸",
   "en": "Elastine shampoo pump bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "엘라스틴 샴푸",
+  "en": "Elastine shampoo pump bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "엘라스틴 샴푸",
+  "en": "Elastine shampoo pump bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "엘라스틴 샴푸",
+  "en": "Elastine shampoo pump bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "헤드앤숄더 샴푸",
   "en": "Head and Shoulders shampoo bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "헤드앤숄더 샴푸",
+  "en": "Head and Shoulders shampoo bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "헤드앤숄더 샴푸",
+  "en": "Head and Shoulders shampoo bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "헤드앤숄더 샴푸",
+  "en": "Head and Shoulders shampoo bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "메디안 치약",
   "en": "Median toothpaste tube",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "메디안 치약",
+  "en": "Median toothpaste tube",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "메디안 치약",
+  "en": "Median toothpaste tube",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "메디안 치약",
+  "en": "Median toothpaste tube",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "2080 치약",
   "en": "2080 toothpaste tube",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "2080 치약",
+  "en": "2080 toothpaste tube",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "2080 치약",
+  "en": "2080 toothpaste tube",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "2080 치약",
+  "en": "2080 toothpaste tube",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "리스테린",
   "en": "Listerine mouthwash bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "리스테린",
+  "en": "Listerine mouthwash bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "리스테린",
+  "en": "Listerine mouthwash bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "리스테린",
+  "en": "Listerine mouthwash bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "니베아 크림",
   "en": "Nivea cream in a round blue tin",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "니베아 크림",
+  "en": "Nivea cream in a round blue tin",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "니베아 크림",
+  "en": "Nivea cream in a round blue tin",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "니베아 크림",
+  "en": "Nivea cream in a round blue tin",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "설화수 화장품",
   "en": "Sulwhasoo luxury skincare bottle, amber glass",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "설화수 화장품",
+  "en": "Sulwhasoo luxury skincare bottle, amber glass",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "설화수 화장품",
+  "en": "Sulwhasoo luxury skincare bottle, amber glass",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "설화수 화장품",
+  "en": "Sulwhasoo luxury skincare bottle, amber glass",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "라네즈 립 슬리핑 마스크",
   "en": "Laneige lip sleeping mask small jar",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "lipbalm_cosmetics"
+ },
+ {
+  "ko": "라네즈 립 슬리핑 마스크",
+  "en": "Laneige lip sleeping mask small jar",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "lipbalm_cosmetics"
+ },
+ {
+  "ko": "라네즈 립 슬리핑 마스크",
+  "en": "Laneige lip sleeping mask small jar",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "lipbalm_cosmetics"
+ },
+ {
+  "ko": "라네즈 립 슬리핑 마스크",
+  "en": "Laneige lip sleeping mask small jar",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "lipbalm_cosmetics"
  },
  {
   "ko": "샤넬 향수",
   "en": "Chanel perfume bottle, square glass with a black cap",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "샤넬 향수",
+  "en": "Chanel perfume bottle, square glass with a black cap",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "샤넬 향수",
+  "en": "Chanel perfume bottle, square glass with a black cap",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "샤넬 향수",
+  "en": "Chanel perfume bottle, square glass with a black cap",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "조말론 향수",
   "en": "Jo Malone cologne bottle, square glass with a black cap and cream label",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "조말론 향수",
+  "en": "Jo Malone cologne bottle, square glass with a black cap and cream label",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "조말론 향수",
+  "en": "Jo Malone cologne bottle, square glass with a black cap and cream label",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "조말론 향수",
+  "en": "Jo Malone cologne bottle, square glass with a black cap and cream label",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "딥티크 향수",
   "en": "Diptyque perfume bottle with an oval black and white label",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "딥티크 향수",
+  "en": "Diptyque perfume bottle with an oval black and white label",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "딥티크 향수",
+  "en": "Diptyque perfume bottle with an oval black and white label",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "딥티크 향수",
+  "en": "Diptyque perfume bottle with an oval black and white label",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "양키캔들",
   "en": "Yankee Candle jar candle with a lid",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "양키캔들",
+  "en": "Yankee Candle jar candle with a lid",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "양키캔들",
+  "en": "Yankee Candle jar candle with a lid",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "perfume_skincare_med"
+ },
+ {
+  "ko": "양키캔들",
+  "en": "Yankee Candle jar candle with a lid",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "perfume_skincare_med"
  },
  {
   "ko": "락앤락 밀폐용기",
   "en": "LocknLock food storage container with clip lid",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "tupperware_locknlock"
+ },
+ {
+  "ko": "락앤락 밀폐용기",
+  "en": "LocknLock food storage container with clip lid",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "tupperware_locknlock"
+ },
+ {
+  "ko": "락앤락 밀폐용기",
+  "en": "LocknLock food storage container with clip lid",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "tupperware_locknlock"
+ },
+ {
+  "ko": "락앤락 밀폐용기",
+  "en": "LocknLock food storage container with clip lid",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "tupperware_locknlock"
  },
  {
   "ko": "글라스락 유리용기",
   "en": "Glasslock glass food container with a colored lid",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "tupperware_locknlock"
+ },
+ {
+  "ko": "글라스락 유리용기",
+  "en": "Glasslock glass food container with a colored lid",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "tupperware_locknlock"
+ },
+ {
+  "ko": "글라스락 유리용기",
+  "en": "Glasslock glass food container with a colored lid",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "tupperware_locknlock"
+ },
+ {
+  "ko": "글라스락 유리용기",
+  "en": "Glasslock glass food container with a colored lid",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "tupperware_locknlock"
  },
  {
   "ko": "스탠리 텀블러",
   "en": "Stanley Quencher tumbler with a handle and straw",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cup"
+ },
+ {
+  "ko": "스탠리 텀블러",
+  "en": "Stanley Quencher tumbler with a handle and straw",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cup"
+ },
+ {
+  "ko": "스탠리 텀블러",
+  "en": "Stanley Quencher tumbler with a handle and straw",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cup"
+ },
+ {
+  "ko": "스탠리 텀블러",
+  "en": "Stanley Quencher tumbler with a handle and straw",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cup"
  },
  {
   "ko": "써모스 보온병",
   "en": "Thermos stainless steel vacuum bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cup"
+ },
+ {
+  "ko": "써모스 보온병",
+  "en": "Thermos stainless steel vacuum bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cup"
+ },
+ {
+  "ko": "써모스 보온병",
+  "en": "Thermos stainless steel vacuum bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cup"
+ },
+ {
+  "ko": "써모스 보온병",
+  "en": "Thermos stainless steel vacuum bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cup"
  },
  {
   "ko": "스타벅스 텀블러",
   "en": "Starbucks tumbler with the green siren logo",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cup"
+ },
+ {
+  "ko": "스타벅스 텀블러",
+  "en": "Starbucks tumbler with the green siren logo",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cup"
+ },
+ {
+  "ko": "스타벅스 텀블러",
+  "en": "Starbucks tumbler with the green siren logo",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cup"
+ },
+ {
+  "ko": "스타벅스 텀블러",
+  "en": "Starbucks tumbler with the green siren logo",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cup"
  },
  {
   "ko": "스타벅스 머그컵",
   "en": "Starbucks ceramic mug with the green logo",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "cup_mug"
+ },
+ {
+  "ko": "스타벅스 머그컵",
+  "en": "Starbucks ceramic mug with the green logo",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "cup_mug"
+ },
+ {
+  "ko": "스타벅스 머그컵",
+  "en": "Starbucks ceramic mug with the green logo",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "cup_mug"
+ },
+ {
+  "ko": "스타벅스 머그컵",
+  "en": "Starbucks ceramic mug with the green logo",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "cup_mug"
  },
  {
   "ko": "브리타 정수기 물병",
   "en": "Brita water filter pitcher",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "bottle_2liter"
+ },
+ {
+  "ko": "브리타 정수기 물병",
+  "en": "Brita water filter pitcher",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "bottle_2liter"
+ },
+ {
+  "ko": "브리타 정수기 물병",
+  "en": "Brita water filter pitcher",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "bottle_2liter"
+ },
+ {
+  "ko": "브리타 정수기 물병",
+  "en": "Brita water filter pitcher",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "bottle_2liter"
  },
  {
   "ko": "삼다수",
   "en": "Jeju Samdasoo bottled water with a blue label",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "bottle"
+ },
+ {
+  "ko": "삼다수",
+  "en": "Jeju Samdasoo bottled water with a blue label",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "bottle"
+ },
+ {
+  "ko": "삼다수",
+  "en": "Jeju Samdasoo bottled water with a blue label",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "bottle"
+ },
+ {
+  "ko": "삼다수",
+  "en": "Jeju Samdasoo bottled water with a blue label",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "bottle"
  },
  {
   "ko": "코카콜라 캔",
   "en": "Coca-Cola red aluminum can",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "can"
+ },
+ {
+  "ko": "코카콜라 캔",
+  "en": "Coca-Cola red aluminum can",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "can"
+ },
+ {
+  "ko": "코카콜라 캔",
+  "en": "Coca-Cola red aluminum can",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "can"
+ },
+ {
+  "ko": "코카콜라 캔",
+  "en": "Coca-Cola red aluminum can",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "can"
  },
  {
   "ko": "코카콜라 페트병",
   "en": "Coca-Cola plastic bottle with a red label",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "bottle"
+ },
+ {
+  "ko": "코카콜라 페트병",
+  "en": "Coca-Cola plastic bottle with a red label",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "bottle"
+ },
+ {
+  "ko": "코카콜라 페트병",
+  "en": "Coca-Cola plastic bottle with a red label",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "bottle"
+ },
+ {
+  "ko": "코카콜라 페트병",
+  "en": "Coca-Cola plastic bottle with a red label",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "bottle"
  },
  {
   "ko": "칠성사이다",
   "en": "Chilsung Cider green clear soda bottle or can",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "bottle"
+ },
+ {
+  "ko": "칠성사이다",
+  "en": "Chilsung Cider green clear soda bottle or can",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "bottle"
+ },
+ {
+  "ko": "칠성사이다",
+  "en": "Chilsung Cider green clear soda bottle or can",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "bottle"
+ },
+ {
+  "ko": "칠성사이다",
+  "en": "Chilsung Cider green clear soda bottle or can",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "bottle"
  },
  {
   "ko": "신라면 컵",
   "en": "Shin Ramyun cup noodle, red cup",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "신라면 컵",
+  "en": "Shin Ramyun cup noodle, red cup",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "신라면 컵",
+  "en": "Shin Ramyun cup noodle, red cup",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "신라면 컵",
+  "en": "Shin Ramyun cup noodle, red cup",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "ramen_instant"
  },
  {
   "ko": "신라면 봉지",
   "en": "Shin Ramyun instant noodle pack, red package",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "신라면 봉지",
+  "en": "Shin Ramyun instant noodle pack, red package",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "신라면 봉지",
+  "en": "Shin Ramyun instant noodle pack, red package",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "신라면 봉지",
+  "en": "Shin Ramyun instant noodle pack, red package",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "ramen_instant"
  },
  {
   "ko": "진라면",
   "en": "Jin Ramen instant noodle package",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "진라면",
+  "en": "Jin Ramen instant noodle package",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "진라면",
+  "en": "Jin Ramen instant noodle package",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "ramen_instant"
+ },
+ {
+  "ko": "진라면",
+  "en": "Jin Ramen instant noodle package",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "ramen_instant"
  },
  {
   "ko": "햇반",
   "en": "CJ Hetbahn instant rice container",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "kimbap_lunchbox_egg"
+ },
+ {
+  "ko": "햇반",
+  "en": "CJ Hetbahn instant rice container",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "kimbap_lunchbox_egg"
+ },
+ {
+  "ko": "햇반",
+  "en": "CJ Hetbahn instant rice container",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "kimbap_lunchbox_egg"
+ },
+ {
+  "ko": "햇반",
+  "en": "CJ Hetbahn instant rice container",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "kimbap_lunchbox_egg"
  },
  {
   "ko": "서울우유",
   "en": "Seoul Milk carton",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "milk_carton"
+ },
+ {
+  "ko": "서울우유",
+  "en": "Seoul Milk carton",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "milk_carton"
+ },
+ {
+  "ko": "서울우유",
+  "en": "Seoul Milk carton",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "milk_carton"
+ },
+ {
+  "ko": "서울우유",
+  "en": "Seoul Milk carton",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "milk_carton"
  },
  {
   "ko": "바나나맛 우유",
   "en": "Binggrae banana milk, short yellow round bottle",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "milk_carton"
+ },
+ {
+  "ko": "바나나맛 우유",
+  "en": "Binggrae banana milk, short yellow round bottle",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "milk_carton"
+ },
+ {
+  "ko": "바나나맛 우유",
+  "en": "Binggrae banana milk, short yellow round bottle",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "milk_carton"
+ },
+ {
+  "ko": "바나나맛 우유",
+  "en": "Binggrae banana milk, short yellow round bottle",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "milk_carton"
  },
  {
   "ko": "나이키 운동화",
   "en": "Nike sneakers with the swoosh logo",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "shoe"
+ },
+ {
+  "ko": "나이키 운동화",
+  "en": "Nike sneakers with the swoosh logo",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "shoe"
+ },
+ {
+  "ko": "나이키 운동화",
+  "en": "Nike sneakers with the swoosh logo",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "shoe"
+ },
+ {
+  "ko": "나이키 운동화",
+  "en": "Nike sneakers with the swoosh logo",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "shoe"
  },
  {
   "ko": "아디다스 운동화",
   "en": "Adidas sneakers with three stripes",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "shoe"
+ },
+ {
+  "ko": "아디다스 운동화",
+  "en": "Adidas sneakers with three stripes",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "shoe"
+ },
+ {
+  "ko": "아디다스 운동화",
+  "en": "Adidas sneakers with three stripes",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "shoe"
+ },
+ {
+  "ko": "아디다스 운동화",
+  "en": "Adidas sneakers with three stripes",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "shoe"
  },
  {
   "ko": "뉴발란스 운동화",
   "en": "New Balance sneakers with an N logo, grey suede",
   "cat": "brand_living",
+  "view": 0,
   "preset": "shoe"
  },
  {
-  "ko": "크록스",
-  "en": "Crocs clogs with holes on top",
+  "ko": "뉴발란스 운동화",
+  "en": "New Balance sneakers with an N logo, grey suede",
   "cat": "brand_living",
+  "view": 1,
+  "preset": "shoe"
+ },
+ {
+  "ko": "뉴발란스 운동화",
+  "en": "New Balance sneakers with an N logo, grey suede",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "shoe"
+ },
+ {
+  "ko": "뉴발란스 운동화",
+  "en": "New Balance sneakers with an N logo, grey suede",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "shoe"
  },
  {
   "ko": "노스페이스 패딩",
   "en": "The North Face puffer down jacket",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "clothes"
+ },
+ {
+  "ko": "노스페이스 패딩",
+  "en": "The North Face puffer down jacket",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "clothes"
+ },
+ {
+  "ko": "노스페이스 패딩",
+  "en": "The North Face puffer down jacket",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "clothes"
+ },
+ {
+  "ko": "노스페이스 패딩",
+  "en": "The North Face puffer down jacket",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "clothes"
  },
  {
   "ko": "노스페이스 백팩",
   "en": "The North Face backpack",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "bag"
+ },
+ {
+  "ko": "노스페이스 백팩",
+  "en": "The North Face backpack",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "bag"
+ },
+ {
+  "ko": "노스페이스 백팩",
+  "en": "The North Face backpack",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "bag"
+ },
+ {
+  "ko": "노스페이스 백팩",
+  "en": "The North Face backpack",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "bag"
  },
  {
   "ko": "잔스포츠 백팩",
   "en": "JanSport backpack",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "bag"
+ },
+ {
+  "ko": "잔스포츠 백팩",
+  "en": "JanSport backpack",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "bag"
+ },
+ {
+  "ko": "잔스포츠 백팩",
+  "en": "JanSport backpack",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "bag"
+ },
+ {
+  "ko": "잔스포츠 백팩",
+  "en": "JanSport backpack",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "bag"
  },
  {
   "ko": "샘소나이트 캐리어",
   "en": "Samsonite hard shell suitcase with wheels",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "suitcase"
+ },
+ {
+  "ko": "샘소나이트 캐리어",
+  "en": "Samsonite hard shell suitcase with wheels",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "suitcase"
+ },
+ {
+  "ko": "샘소나이트 캐리어",
+  "en": "Samsonite hard shell suitcase with wheels",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "suitcase"
+ },
+ {
+  "ko": "샘소나이트 캐리어",
+  "en": "Samsonite hard shell suitcase with wheels",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "suitcase"
  },
  {
   "ko": "레이밴 선글라스",
   "en": "Ray-Ban sunglasses",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "hat_glasses"
+ },
+ {
+  "ko": "레이밴 선글라스",
+  "en": "Ray-Ban sunglasses",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "hat_glasses"
+ },
+ {
+  "ko": "레이밴 선글라스",
+  "en": "Ray-Ban sunglasses",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "hat_glasses"
+ },
+ {
+  "ko": "레이밴 선글라스",
+  "en": "Ray-Ban sunglasses",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "hat_glasses"
  },
  {
   "ko": "MLB 모자",
   "en": "MLB baseball cap with a team logo",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "hat_glasses"
+ },
+ {
+  "ko": "MLB 모자",
+  "en": "MLB baseball cap with a team logo",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "hat_glasses"
+ },
+ {
+  "ko": "MLB 모자",
+  "en": "MLB baseball cap with a team logo",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "hat_glasses"
+ },
+ {
+  "ko": "MLB 모자",
+  "en": "MLB baseball cap with a team logo",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "hat_glasses"
  },
  {
   "ko": "레고",
   "en": "LEGO bricks set or box",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "toy_figure"
+ },
+ {
+  "ko": "레고",
+  "en": "LEGO bricks set or box",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "toy_figure"
+ },
+ {
+  "ko": "레고",
+  "en": "LEGO bricks set or box",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "toy_figure"
+ },
+ {
+  "ko": "레고",
+  "en": "LEGO bricks set or box",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "toy_figure"
  },
  {
   "ko": "젤리캣 인형",
   "en": "Jellycat plush stuffed toy",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "toy_figure"
+ },
+ {
+  "ko": "젤리캣 인형",
+  "en": "Jellycat plush stuffed toy",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "toy_figure"
+ },
+ {
+  "ko": "젤리캣 인형",
+  "en": "Jellycat plush stuffed toy",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "toy_figure"
+ },
+ {
+  "ko": "젤리캣 인형",
+  "en": "Jellycat plush stuffed toy",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "toy_figure"
  },
  {
   "ko": "모나미 볼펜",
   "en": "Monami 153 ballpoint pen, white body with black cap",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "pen_ballpoint"
+ },
+ {
+  "ko": "모나미 볼펜",
+  "en": "Monami 153 ballpoint pen, white body with black cap",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "pen_ballpoint"
+ },
+ {
+  "ko": "모나미 볼펜",
+  "en": "Monami 153 ballpoint pen, white body with black cap",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "pen_ballpoint"
+ },
+ {
+  "ko": "모나미 볼펜",
+  "en": "Monami 153 ballpoint pen, white body with black cap",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "pen_ballpoint"
  },
  {
   "ko": "제트스트림 볼펜",
   "en": "Uni Jetstream ballpoint pen",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "pen_ballpoint"
+ },
+ {
+  "ko": "제트스트림 볼펜",
+  "en": "Uni Jetstream ballpoint pen",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "pen_ballpoint"
+ },
+ {
+  "ko": "제트스트림 볼펜",
+  "en": "Uni Jetstream ballpoint pen",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "pen_ballpoint"
+ },
+ {
+  "ko": "제트스트림 볼펜",
+  "en": "Uni Jetstream ballpoint pen",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "pen_ballpoint"
  },
  {
   "ko": "3M 포스트잇",
   "en": "3M Post-it sticky notes pad",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "post_it_memo"
+ },
+ {
+  "ko": "3M 포스트잇",
+  "en": "3M Post-it sticky notes pad",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "post_it_memo"
+ },
+ {
+  "ko": "3M 포스트잇",
+  "en": "3M Post-it sticky notes pad",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "post_it_memo"
+ },
+ {
+  "ko": "3M 포스트잇",
+  "en": "3M Post-it sticky notes pad",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "post_it_memo"
  },
  {
   "ko": "듀라셀 건전지",
   "en": "Duracell AA batteries, black and copper",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "aa_battery_clipper"
+ },
+ {
+  "ko": "듀라셀 건전지",
+  "en": "Duracell AA batteries, black and copper",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "aa_battery_clipper"
+ },
+ {
+  "ko": "듀라셀 건전지",
+  "en": "Duracell AA batteries, black and copper",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "aa_battery_clipper"
+ },
+ {
+  "ko": "듀라셀 건전지",
+  "en": "Duracell AA batteries, black and copper",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "aa_battery_clipper"
  },
  {
   "ko": "에너자이저 건전지",
   "en": "Energizer AA batteries",
   "cat": "brand_living",
+  "view": 0,
+  "preset": "aa_battery_clipper"
+ },
+ {
+  "ko": "에너자이저 건전지",
+  "en": "Energizer AA batteries",
+  "cat": "brand_living",
+  "view": 1,
+  "preset": "aa_battery_clipper"
+ },
+ {
+  "ko": "에너자이저 건전지",
+  "en": "Energizer AA batteries",
+  "cat": "brand_living",
+  "view": 2,
+  "preset": "aa_battery_clipper"
+ },
+ {
+  "ko": "에너자이저 건전지",
+  "en": "Energizer AA batteries",
+  "cat": "brand_living",
+  "view": 3,
   "preset": "aa_battery_clipper"
  }
 ]

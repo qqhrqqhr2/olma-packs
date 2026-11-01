@@ -1,192 +1,362 @@
 [
  {
-  "ko": "스마트폰",
-  "en": "smartphone",
-  "cat": "electronics"
- },
- {
-  "ko": "태블릿",
-  "en": "tablet",
-  "cat": "electronics"
- },
- {
-  "ko": "노트북",
-  "en": "laptop",
-  "cat": "electronics"
- },
- {
-  "ko": "키보드",
-  "en": "keyboard",
-  "cat": "electronics"
- },
- {
-  "ko": "마우스",
-  "en": "computer mouse",
-  "cat": "electronics"
- },
- {
-  "ko": "모니터",
-  "en": "computer monitor",
-  "cat": "electronics"
- },
- {
-  "ko": "무선 이어폰",
-  "en": "wireless earbuds case",
-  "cat": "electronics"
+  "ko": "유선 이어폰",
+  "en": "wired earphones",
+  "cat": "electronics",
+  "view": 0
  },
  {
   "ko": "유선 이어폰",
   "en": "wired earphones",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 1
  },
  {
-  "ko": "헤드폰",
-  "en": "headphones",
-  "cat": "electronics"
+  "ko": "유선 이어폰",
+  "en": "wired earphones",
+  "cat": "electronics",
+  "view": 2
  },
  {
-  "ko": "블루투스 스피커",
-  "en": "bluetooth speaker",
-  "cat": "electronics"
- },
- {
-  "ko": "충전기",
-  "en": "phone charger adapter",
-  "cat": "electronics"
- },
- {
-  "ko": "충전 케이블",
-  "en": "usb charging cable",
-  "cat": "electronics"
- },
- {
-  "ko": "보조배터리",
-  "en": "power bank",
-  "cat": "electronics"
+  "ko": "유선 이어폰",
+  "en": "wired earphones",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "무선 충전기",
   "en": "wireless charging pad",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "스마트워치",
-  "en": "smartwatch",
-  "cat": "electronics"
+  "ko": "무선 충전기",
+  "en": "wireless charging pad",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "무선 충전기",
+  "en": "wireless charging pad",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "무선 충전기",
+  "en": "wireless charging pad",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "스마트밴드",
   "en": "fitness tracker band",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "USB 메모리",
-  "en": "usb flash drive",
-  "cat": "electronics"
+  "ko": "스마트밴드",
+  "en": "fitness tracker band",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "스마트밴드",
+  "en": "fitness tracker band",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "스마트밴드",
+  "en": "fitness tracker band",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "외장 하드",
   "en": "external hard drive",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "외장 하드",
+  "en": "external hard drive",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "외장 하드",
+  "en": "external hard drive",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "외장 하드",
+  "en": "external hard drive",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "SD카드",
   "en": "memory card",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "공유기",
-  "en": "wifi router",
-  "cat": "electronics"
+  "ko": "SD카드",
+  "en": "memory card",
+  "cat": "electronics",
+  "view": 1
  },
  {
-  "ko": "웹캠",
-  "en": "webcam",
-  "cat": "electronics"
+  "ko": "SD카드",
+  "en": "memory card",
+  "cat": "electronics",
+  "view": 2
  },
  {
-  "ko": "마이크",
-  "en": "microphone",
-  "cat": "electronics"
+  "ko": "SD카드",
+  "en": "memory card",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "디지털 카메라",
   "en": "digital camera",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "디지털 카메라",
+  "en": "digital camera",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "디지털 카메라",
+  "en": "digital camera",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "디지털 카메라",
+  "en": "digital camera",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "게임기",
   "en": "game console",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "게임 패드",
-  "en": "game controller",
-  "cat": "electronics"
+  "ko": "게임기",
+  "en": "game console",
+  "cat": "electronics",
+  "view": 1
  },
  {
-  "ko": "리모컨",
-  "en": "remote control",
-  "cat": "electronics"
+  "ko": "게임기",
+  "en": "game console",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "게임기",
+  "en": "game console",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "셋톱박스",
   "en": "set-top box",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "전자책 리더기",
-  "en": "e-book reader",
-  "cat": "electronics"
+  "ko": "셋톱박스",
+  "en": "set-top box",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "셋톱박스",
+  "en": "set-top box",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "셋톱박스",
+  "en": "set-top box",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "휴대용 선풍기",
   "en": "handheld fan",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "휴대용 선풍기",
+  "en": "handheld fan",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "휴대용 선풍기",
+  "en": "handheld fan",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "휴대용 선풍기",
+  "en": "handheld fan",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "스마트 스피커",
   "en": "smart speaker",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "프린터",
-  "en": "printer",
-  "cat": "electronics"
+  "ko": "스마트 스피커",
+  "en": "smart speaker",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "스마트 스피커",
+  "en": "smart speaker",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "스마트 스피커",
+  "en": "smart speaker",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "계산기(공학용)",
   "en": "scientific calculator",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "계산기(공학용)",
+  "en": "scientific calculator",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "계산기(공학용)",
+  "en": "scientific calculator",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "계산기(공학용)",
+  "en": "scientific calculator",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "멀티 어댑터",
   "en": "travel adapter",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "멀티 어댑터",
+  "en": "travel adapter",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "멀티 어댑터",
+  "en": "travel adapter",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "멀티 어댑터",
+  "en": "travel adapter",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "노트북 거치대",
   "en": "laptop stand",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "노트북 거치대",
+  "en": "laptop stand",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "노트북 거치대",
+  "en": "laptop stand",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "노트북 거치대",
+  "en": "laptop stand",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "휴대폰 거치대",
   "en": "phone stand",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
+ },
+ {
+  "ko": "휴대폰 거치대",
+  "en": "phone stand",
+  "cat": "electronics",
+  "view": 1
+ },
+ {
+  "ko": "휴대폰 거치대",
+  "en": "phone stand",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "휴대폰 거치대",
+  "en": "phone stand",
+  "cat": "electronics",
+  "view": 3
  },
  {
   "ko": "셀카봉",
   "en": "selfie stick",
-  "cat": "electronics"
+  "cat": "electronics",
+  "view": 0
  },
  {
-  "ko": "액션캠",
-  "en": "action camera",
-  "cat": "electronics"
+  "ko": "셀카봉",
+  "en": "selfie stick",
+  "cat": "electronics",
+  "view": 1
  },
  {
-  "ko": "드론",
-  "en": "drone",
-  "cat": "electronics"
+  "ko": "셀카봉",
+  "en": "selfie stick",
+  "cat": "electronics",
+  "view": 2
+ },
+ {
+  "ko": "셀카봉",
+  "en": "selfie stick",
+  "cat": "electronics",
+  "view": 3
  }
 ]
