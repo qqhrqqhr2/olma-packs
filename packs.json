@@ -86,8 +86,8 @@
    "files": {
     "labels": {
      "name": "kitchen.json",
-     "size": 4287,
-     "sha256": "1fdcc20065352730d36e37c6dea141c6e1d62179e74dad680bdc8c66d3bda8da"
+     "size": 4011,
+     "sha256": "79c4b758a918cee9863cf9c63b6a9cdb8ef5a9ed151e46cca6cbe8c80bc8366c"
     },
     "bank": {
      "name": "kitchen.bin",
@@ -105,8 +105,8 @@
    "files": {
     "labels": {
      "name": "cleaning.json",
-     "size": 3916,
-     "sha256": "4b3661ef3ad0eb13dfc08646cfe8d1869739db4ef250d9ac03ed6e43b3623ff4"
+     "size": 3680,
+     "sha256": "d6ea9bb04f9a666d8891372b53bc182e9ef5a7d1f4146dace6c6edbe60525686"
     },
     "bank": {
      "name": "cleaning.bin",
@@ -124,8 +124,8 @@
    "files": {
     "labels": {
      "name": "beauty.json",
-     "size": 3116,
-     "sha256": "a7d8d73b6eb3c677aec08a604e1fafe290e0d2331732486314c055d0e1e2010c"
+     "size": 2920,
+     "sha256": "e03c748fb4c25bd80448a9d58bc21ba5c7ada2d1e30f47bc5a51001861fb5cfe"
     },
     "bank": {
      "name": "beauty.bin",
@@ -143,8 +143,8 @@
    "files": {
     "labels": {
      "name": "tools.json",
-     "size": 2835,
-     "sha256": "9516c47e7ed8090f12df6431702906b8ff2bd3a8573c85dd7a3f819bce24585c"
+     "size": 2644,
+     "sha256": "1386393f5a848329d06b18998d37c4229d5cc4e36f4abca4bc3114d75aa3a5eb"
     },
     "bank": {
      "name": "tools.bin",
@@ -162,8 +162,8 @@
    "files": {
     "labels": {
      "name": "stationery.json",
-     "size": 3144,
-     "sha256": "d5b7978a7451436f26654cbaec60fec84be16fc18ea27675c12d86963cfbebff"
+     "size": 2943,
+     "sha256": "e566df5b36c7716c37c2a67c059ad5ad5d698b1028dcde115e282f7f6535a812"
     },
     "bank": {
      "name": "stationery.bin",
@@ -181,8 +181,8 @@
    "files": {
     "labels": {
      "name": "electronics.json",
-     "size": 3229,
-     "sha256": "35ce2cbd52b3ba75345d416da7a49d4e690193273da48d5d8ea3c386022a5a73"
+     "size": 3038,
+     "sha256": "4e314472596958857fcd906d3024535a07a62dd19cb81c9662920515d4125faa"
     },
     "bank": {
      "name": "electronics.bin",
@@ -200,8 +200,8 @@
    "files": {
     "labels": {
      "name": "fashion.json",
-     "size": 2969,
-     "sha256": "30cc37ce310d28748d9ee2ebe42132521515e3e030fbd22e2c0da9d353cb2de3"
+     "size": 2758,
+     "sha256": "67f338a2acf3c7f3ab2ef58b8e94b4e9088ac777abf39faf05b803846efad13f"
     },
     "bank": {
      "name": "fashion.bin",
