@@ -3,4152 +3,5104 @@
   "ko": "세단",
   "en": "sedan car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "세단",
   "en": "sedan car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "세단",
   "en": "sedan car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "세단",
   "en": "sedan car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "SUV",
   "en": "SUV",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "SUV",
   "en": "SUV",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "SUV",
   "en": "SUV",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "SUV",
   "en": "SUV",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "해치백",
   "en": "hatchback car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "해치백",
   "en": "hatchback car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "해치백",
   "en": "hatchback car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "해치백",
   "en": "hatchback car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "경차",
   "en": "small city car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "경차",
   "en": "small city car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "경차",
   "en": "small city car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "경차",
   "en": "small city car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "세단",
+  "path": "탈것/승용차"
  },
  {
   "ko": "미니밴",
   "en": "minivan",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "미니밴",
   "en": "minivan",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "미니밴",
   "en": "minivan",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "미니밴",
   "en": "minivan",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "픽업트럭",
   "en": "pickup truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "픽업트럭",
   "en": "pickup truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "픽업트럭",
   "en": "pickup truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "픽업트럭",
   "en": "pickup truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "스포츠카",
   "en": "sports car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "세단",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "스포츠카",
   "en": "sports car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "세단",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "스포츠카",
   "en": "sports car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "세단",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "스포츠카",
   "en": "sports car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "세단",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "오픈카",
   "en": "convertible car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "오픈카",
   "en": "convertible car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "오픈카",
   "en": "convertible car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "오픈카",
   "en": "convertible car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "전기차",
   "en": "electric car charging",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "전기차",
   "en": "electric car charging",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "전기차",
   "en": "electric car charging",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "전기차",
   "en": "electric car charging",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "트럭",
   "en": "truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트럭",
   "en": "truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트럭",
   "en": "truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트럭",
   "en": "truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "버스",
   "en": "bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "버스",
   "en": "bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "버스",
   "en": "bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "버스",
   "en": "bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "택시",
   "en": "taxi",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "택시",
   "en": "taxi",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "택시",
   "en": "taxi",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "택시",
   "en": "taxi",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "경찰차",
   "en": "police car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경찰차",
   "en": "police car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경찰차",
   "en": "police car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경찰차",
   "en": "police car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "구급차",
   "en": "ambulance",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "구급차",
   "en": "ambulance",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "구급차",
   "en": "ambulance",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "구급차",
   "en": "ambulance",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "소방차",
   "en": "fire truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "소방차",
   "en": "fire truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "소방차",
   "en": "fire truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "소방차",
   "en": "fire truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "오토바이",
   "en": "motorcycle",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "오토바이",
   "en": "motorcycle",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "오토바이",
   "en": "motorcycle",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "오토바이",
   "en": "motorcycle",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "스쿠터",
   "en": "scooter",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "스쿠터",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "스쿠터",
   "en": "scooter",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "스쿠터",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "스쿠터",
   "en": "scooter",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "스쿠터",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "스쿠터",
   "en": "scooter",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "스쿠터",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "굴착기",
   "en": "excavator",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "굴착기",
   "en": "excavator",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "굴착기",
   "en": "excavator",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "굴착기",
   "en": "excavator",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "지게차",
   "en": "forklift",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "지게차",
   "en": "forklift",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "지게차",
   "en": "forklift",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "지게차",
   "en": "forklift",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "캠핑카",
   "en": "camper van",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캠핑카",
   "en": "camper van",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캠핑카",
   "en": "camper van",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캠핑카",
   "en": "camper van",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 쏘나타",
   "en": "Hyundai Sonata",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 쏘나타",
   "en": "Hyundai Sonata",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 쏘나타",
   "en": "Hyundai Sonata",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 쏘나타",
   "en": "Hyundai Sonata",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아반떼",
   "en": "Hyundai Avante Elantra",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아반떼",
   "en": "Hyundai Avante Elantra",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아반떼",
   "en": "Hyundai Avante Elantra",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아반떼",
   "en": "Hyundai Avante Elantra",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저",
   "en": "Hyundai Grandeur",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저",
   "en": "Hyundai Grandeur",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저",
   "en": "Hyundai Grandeur",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저",
   "en": "Hyundai Grandeur",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 투싼",
   "en": "Hyundai Tucson",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 투싼",
   "en": "Hyundai Tucson",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 투싼",
   "en": "Hyundai Tucson",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 투싼",
   "en": "Hyundai Tucson",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 싼타페",
   "en": "Hyundai Santa Fe",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 싼타페",
   "en": "Hyundai Santa Fe",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 싼타페",
   "en": "Hyundai Santa Fe",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 싼타페",
   "en": "Hyundai Santa Fe",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 팰리세이드",
   "en": "Hyundai Palisade",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 팰리세이드",
   "en": "Hyundai Palisade",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 팰리세이드",
   "en": "Hyundai Palisade",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 팰리세이드",
   "en": "Hyundai Palisade",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 아이오닉 5",
   "en": "Hyundai Ioniq 5",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아이오닉 5",
   "en": "Hyundai Ioniq 5",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아이오닉 5",
   "en": "Hyundai Ioniq 5",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아이오닉 5",
   "en": "Hyundai Ioniq 5",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 포터",
   "en": "Hyundai Porter truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 포터",
   "en": "Hyundai Porter truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 포터",
   "en": "Hyundai Porter truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 포터",
   "en": "Hyundai Porter truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 캐스퍼",
   "en": "Hyundai Casper",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 캐스퍼",
   "en": "Hyundai Casper",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 캐스퍼",
   "en": "Hyundai Casper",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 캐스퍼",
   "en": "Hyundai Casper",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 K5",
   "en": "Kia K5 Optima",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 K5",
   "en": "Kia K5 Optima",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 K5",
   "en": "Kia K5 Optima",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 K5",
   "en": "Kia K5 Optima",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 K8",
   "en": "Kia K8",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K8",
   "en": "Kia K8",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K8",
   "en": "Kia K8",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K8",
   "en": "Kia K8",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 쏘렌토",
   "en": "Kia Sorento",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 쏘렌토",
   "en": "Kia Sorento",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 쏘렌토",
   "en": "Kia Sorento",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 쏘렌토",
   "en": "Kia Sorento",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 스포티지",
   "en": "Kia Sportage",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 스포티지",
   "en": "Kia Sportage",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 스포티지",
   "en": "Kia Sportage",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 스포티지",
   "en": "Kia Sportage",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 카니발",
   "en": "Kia Carnival",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 카니발",
   "en": "Kia Carnival",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 카니발",
   "en": "Kia Carnival",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 카니발",
   "en": "Kia Carnival",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모닝",
   "en": "Kia Morning Picanto",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모닝",
   "en": "Kia Morning Picanto",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모닝",
   "en": "Kia Morning Picanto",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모닝",
   "en": "Kia Morning Picanto",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 레이",
   "en": "Kia Ray",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이",
   "en": "Kia Ray",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이",
   "en": "Kia Ray",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이",
   "en": "Kia Ray",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV6",
   "en": "Kia EV6",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV6",
   "en": "Kia EV6",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV6",
   "en": "Kia EV6",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV6",
   "en": "Kia EV6",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 셀토스",
   "en": "Kia Seltos",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 셀토스",
   "en": "Kia Seltos",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 셀토스",
   "en": "Kia Seltos",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 셀토스",
   "en": "Kia Seltos",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "제네시스 G80",
   "en": "Genesis G80",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G80",
   "en": "Genesis G80",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G80",
   "en": "Genesis G80",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G80",
   "en": "Genesis G80",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 GV80",
   "en": "Genesis GV80",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV80",
   "en": "Genesis GV80",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV80",
   "en": "Genesis GV80",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV80",
   "en": "Genesis GV80",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "테슬라 모델 3",
   "en": "Tesla Model 3",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 3",
   "en": "Tesla Model 3",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 3",
   "en": "Tesla Model 3",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 3",
   "en": "Tesla Model 3",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 Y",
   "en": "Tesla Model Y",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 Y",
   "en": "Tesla Model Y",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 Y",
   "en": "Tesla Model Y",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 Y",
   "en": "Tesla Model Y",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 5시리즈",
   "en": "BMW 5 Series",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 5시리즈",
   "en": "BMW 5 Series",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 5시리즈",
   "en": "BMW 5 Series",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 5시리즈",
   "en": "BMW 5 Series",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 E클래스",
   "en": "Mercedes-Benz E-Class",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 E클래스",
   "en": "Mercedes-Benz E-Class",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 E클래스",
   "en": "Mercedes-Benz E-Class",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 E클래스",
   "en": "Mercedes-Benz E-Class",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A6",
   "en": "Audi A6",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A6",
   "en": "Audi A6",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A6",
   "en": "Audi A6",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A6",
   "en": "Audi A6",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 골프",
   "en": "Volkswagen Golf",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 골프",
   "en": "Volkswagen Golf",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 골프",
   "en": "Volkswagen Golf",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 골프",
   "en": "Volkswagen Golf",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 캠리",
   "en": "Toyota Camry",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 캠리",
   "en": "Toyota Camry",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 캠리",
   "en": "Toyota Camry",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 캠리",
   "en": "Toyota Camry",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "볼보 XC60",
   "en": "Volvo XC60",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC60",
   "en": "Volvo XC60",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC60",
   "en": "Volvo XC60",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC60",
   "en": "Volvo XC60",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 911",
   "en": "Porsche 911",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "포르쉐 911",
   "en": "Porsche 911",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "포르쉐 911",
   "en": "Porsche 911",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "포르쉐 911",
   "en": "Porsche 911",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "미니 쿠퍼",
   "en": "Mini Cooper",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "미니 쿠퍼",
   "en": "Mini Cooper",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "미니 쿠퍼",
   "en": "Mini Cooper",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "미니 쿠퍼",
   "en": "Mini Cooper",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 코나",
   "en": "Hyundai Kona",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 코나",
   "en": "Hyundai Kona",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 코나",
   "en": "Hyundai Kona",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 코나",
   "en": "Hyundai Kona",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 베뉴",
   "en": "Hyundai Venue",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 베뉴",
   "en": "Hyundai Venue",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 베뉴",
   "en": "Hyundai Venue",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 베뉴",
   "en": "Hyundai Venue",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 스타리아",
   "en": "Hyundai Staria van",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 스타리아",
   "en": "Hyundai Staria van",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 스타리아",
   "en": "Hyundai Staria van",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 스타리아",
   "en": "Hyundai Staria van",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 아이오닉 6",
   "en": "Hyundai Ioniq 6",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아이오닉 6",
   "en": "Hyundai Ioniq 6",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아이오닉 6",
   "en": "Hyundai Ioniq 6",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 아이오닉 6",
   "en": "Hyundai Ioniq 6",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "현대 아이오닉 5",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 넥쏘",
   "en": "Hyundai Nexo",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 넥쏘",
   "en": "Hyundai Nexo",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 넥쏘",
   "en": "Hyundai Nexo",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 넥쏘",
   "en": "Hyundai Nexo",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 쏘나타 택시",
   "en": "Hyundai Sonata taxi",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 쏘나타 택시",
   "en": "Hyundai Sonata taxi",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 쏘나타 택시",
   "en": "Hyundai Sonata taxi",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 쏘나타 택시",
   "en": "Hyundai Sonata taxi",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "현대 쏘나타",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 엑시언트",
   "en": "Hyundai Xcient truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 엑시언트",
   "en": "Hyundai Xcient truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 엑시언트",
   "en": "Hyundai Xcient truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 엑시언트",
   "en": "Hyundai Xcient truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 유니버스",
   "en": "Hyundai Universe bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 유니버스",
   "en": "Hyundai Universe bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 유니버스",
   "en": "Hyundai Universe bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 유니버스",
   "en": "Hyundai Universe bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "현대 마이티",
   "en": "Hyundai Mighty truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 마이티",
   "en": "Hyundai Mighty truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 마이티",
   "en": "Hyundai Mighty truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 마이티",
   "en": "Hyundai Mighty truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "현대 i30",
   "en": "Hyundai i30",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 i30",
   "en": "Hyundai i30",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 i30",
   "en": "Hyundai i30",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 i30",
   "en": "Hyundai i30",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 벨로스터",
   "en": "Hyundai Veloster",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 벨로스터",
   "en": "Hyundai Veloster",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 벨로스터",
   "en": "Hyundai Veloster",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 벨로스터",
   "en": "Hyundai Veloster",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저 택시",
   "en": "Hyundai Grandeur taxi",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저 택시",
   "en": "Hyundai Grandeur taxi",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저 택시",
   "en": "Hyundai Grandeur taxi",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "현대 그랜저 택시",
   "en": "Hyundai Grandeur taxi",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "현대 그랜저",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 K3",
   "en": "Kia K3",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K3",
   "en": "Kia K3",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K3",
   "en": "Kia K3",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K3",
   "en": "Kia K3",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K9",
   "en": "Kia K9",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K9",
   "en": "Kia K9",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K9",
   "en": "Kia K9",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 K9",
   "en": "Kia K9",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 K8",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기아 니로",
   "en": "Kia Niro",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 니로",
   "en": "Kia Niro",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 니로",
   "en": "Kia Niro",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 니로",
   "en": "Kia Niro",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV9",
   "en": "Kia EV9",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV9",
   "en": "Kia EV9",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV9",
   "en": "Kia EV9",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV9",
   "en": "Kia EV9",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV3",
   "en": "Kia EV3",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV3",
   "en": "Kia EV3",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV3",
   "en": "Kia EV3",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 EV3",
   "en": "Kia EV3",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 봉고",
   "en": "Kia Bongo truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 봉고",
   "en": "Kia Bongo truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 봉고",
   "en": "Kia Bongo truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 봉고",
   "en": "Kia Bongo truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모하비",
   "en": "Kia Mohave",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모하비",
   "en": "Kia Mohave",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모하비",
   "en": "Kia Mohave",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 모하비",
   "en": "Kia Mohave",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "기아 스팅어",
   "en": "Kia Stinger",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 스팅어",
   "en": "Kia Stinger",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 스팅어",
   "en": "Kia Stinger",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 스팅어",
   "en": "Kia Stinger",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이 EV",
   "en": "Kia Ray EV",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이 EV",
   "en": "Kia Ray EV",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이 EV",
   "en": "Kia Ray EV",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "기아 레이 EV",
   "en": "Kia Ray EV",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기아 EV6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G70",
   "en": "Genesis G70",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G70",
   "en": "Genesis G70",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G70",
   "en": "Genesis G70",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G70",
   "en": "Genesis G70",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G90",
   "en": "Genesis G90",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G90",
   "en": "Genesis G90",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G90",
   "en": "Genesis G90",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 G90",
   "en": "Genesis G90",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "제네시스 G80",
+  "path": "탈것/승용차"
  },
  {
   "ko": "제네시스 GV70",
   "en": "Genesis GV70",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV70",
   "en": "Genesis GV70",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV70",
   "en": "Genesis GV70",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV70",
   "en": "Genesis GV70",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV60",
   "en": "Genesis GV60",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV60",
   "en": "Genesis GV60",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV60",
   "en": "Genesis GV60",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "제네시스 GV60",
   "en": "Genesis GV60",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "제네시스 GV80",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "쉐보레 트랙스",
   "en": "Chevrolet Trax",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트랙스",
   "en": "Chevrolet Trax",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트랙스",
   "en": "Chevrolet Trax",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트랙스",
   "en": "Chevrolet Trax",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트레일블레이저",
   "en": "Chevrolet Trailblazer",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트레일블레이저",
   "en": "Chevrolet Trailblazer",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트레일블레이저",
   "en": "Chevrolet Trailblazer",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 트레일블레이저",
   "en": "Chevrolet Trailblazer",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 스파크",
   "en": "Chevrolet Spark",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 스파크",
   "en": "Chevrolet Spark",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 스파크",
   "en": "Chevrolet Spark",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 스파크",
   "en": "Chevrolet Spark",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 콜로라도",
   "en": "Chevrolet Colorado pickup",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 콜로라도",
   "en": "Chevrolet Colorado pickup",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 콜로라도",
   "en": "Chevrolet Colorado pickup",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 콜로라도",
   "en": "Chevrolet Colorado pickup",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 말리부",
   "en": "Chevrolet Malibu",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "쉐보레 말리부",
   "en": "Chevrolet Malibu",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "쉐보레 말리부",
   "en": "Chevrolet Malibu",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "쉐보레 말리부",
   "en": "Chevrolet Malibu",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "쉐보레 타호",
   "en": "Chevrolet Tahoe",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 타호",
   "en": "Chevrolet Tahoe",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 타호",
   "en": "Chevrolet Tahoe",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "쉐보레 타호",
   "en": "Chevrolet Tahoe",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 QM6",
   "en": "Renault QM6",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 QM6",
   "en": "Renault QM6",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 QM6",
   "en": "Renault QM6",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 QM6",
   "en": "Renault QM6",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 XM3",
   "en": "Renault XM3 Arkana",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "르노 XM3",
   "en": "Renault XM3 Arkana",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "르노 XM3",
   "en": "Renault XM3 Arkana",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "르노 XM3",
   "en": "Renault XM3 Arkana",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "르노 그랑 콜레오스",
   "en": "Renault Grand Koleos",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 그랑 콜레오스",
   "en": "Renault Grand Koleos",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 그랑 콜레오스",
   "en": "Renault Grand Koleos",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "르노 그랑 콜레오스",
   "en": "Renault Grand Koleos",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 토레스",
   "en": "KG Mobility Torres",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "KG 토레스",
   "en": "KG Mobility Torres",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "KG 토레스",
   "en": "KG Mobility Torres",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "KG 토레스",
   "en": "KG Mobility Torres",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "KG 렉스턴",
   "en": "SsangYong Rexton",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴",
   "en": "SsangYong Rexton",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴",
   "en": "SsangYong Rexton",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴",
   "en": "SsangYong Rexton",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 티볼리",
   "en": "SsangYong Tivoli",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 티볼리",
   "en": "SsangYong Tivoli",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 티볼리",
   "en": "SsangYong Tivoli",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 티볼리",
   "en": "SsangYong Tivoli",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴 스포츠",
   "en": "SsangYong Rexton Sports pickup",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴 스포츠",
   "en": "SsangYong Rexton Sports pickup",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴 스포츠",
   "en": "SsangYong Rexton Sports pickup",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "KG 렉스턴 스포츠",
   "en": "SsangYong Rexton Sports pickup",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "KG 렉스턴",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "테슬라 모델 S",
   "en": "Tesla Model S",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 S",
   "en": "Tesla Model S",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 S",
   "en": "Tesla Model S",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 S",
   "en": "Tesla Model S",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "테슬라 모델 3",
+  "path": "탈것/승용차"
  },
  {
   "ko": "테슬라 모델 X",
   "en": "Tesla Model X",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "테슬라 모델 3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "테슬라 모델 X",
   "en": "Tesla Model X",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "테슬라 모델 3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "테슬라 모델 X",
   "en": "Tesla Model X",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "테슬라 모델 3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "테슬라 모델 X",
   "en": "Tesla Model X",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "테슬라 모델 3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "테슬라 사이버트럭",
   "en": "Tesla Cybertruck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "테슬라 사이버트럭",
   "en": "Tesla Cybertruck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "테슬라 사이버트럭",
   "en": "Tesla Cybertruck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "테슬라 사이버트럭",
   "en": "Tesla Cybertruck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "BMW 3시리즈",
   "en": "BMW 3 Series",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 3시리즈",
   "en": "BMW 3 Series",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 3시리즈",
   "en": "BMW 3 Series",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 3시리즈",
   "en": "BMW 3 Series",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 7시리즈",
   "en": "BMW 7 Series",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 7시리즈",
   "en": "BMW 7 Series",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 7시리즈",
   "en": "BMW 7 Series",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 7시리즈",
   "en": "BMW 7 Series",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "BMW 5시리즈",
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW X3",
   "en": "BMW X3",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X3",
   "en": "BMW X3",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X3",
   "en": "BMW X3",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X3",
   "en": "BMW X3",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X5",
   "en": "BMW X5",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X5",
   "en": "BMW X5",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X5",
   "en": "BMW X5",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X5",
   "en": "BMW X5",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X7",
   "en": "BMW X7",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X7",
   "en": "BMW X7",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X7",
   "en": "BMW X7",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW X7",
   "en": "BMW X7",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "BMW X3",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW i4",
   "en": "BMW i4",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW i4",
   "en": "BMW i4",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW i4",
   "en": "BMW i4",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW i4",
   "en": "BMW i4",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW Z4",
   "en": "BMW Z4 roadster",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW Z4",
   "en": "BMW Z4 roadster",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW Z4",
   "en": "BMW Z4 roadster",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW Z4",
   "en": "BMW Z4 roadster",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BMW 미니 컨트리맨",
   "en": "Mini Countryman",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW 미니 컨트리맨",
   "en": "Mini Countryman",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW 미니 컨트리맨",
   "en": "Mini Countryman",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "BMW 미니 컨트리맨",
   "en": "Mini Countryman",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 C클래스",
   "en": "Mercedes-Benz C-Class",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 C클래스",
   "en": "Mercedes-Benz C-Class",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 C클래스",
   "en": "Mercedes-Benz C-Class",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 C클래스",
   "en": "Mercedes-Benz C-Class",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 S클래스",
   "en": "Mercedes-Benz S-Class",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 S클래스",
   "en": "Mercedes-Benz S-Class",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 S클래스",
   "en": "Mercedes-Benz S-Class",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 S클래스",
   "en": "Mercedes-Benz S-Class",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "벤츠 E클래스",
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤츠 GLC",
   "en": "Mercedes-Benz GLC",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLC",
   "en": "Mercedes-Benz GLC",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLC",
   "en": "Mercedes-Benz GLC",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLC",
   "en": "Mercedes-Benz GLC",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLE",
   "en": "Mercedes-Benz GLE",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLE",
   "en": "Mercedes-Benz GLE",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLE",
   "en": "Mercedes-Benz GLE",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 GLE",
   "en": "Mercedes-Benz GLE",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "벤츠 GLC",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 G클래스",
   "en": "Mercedes-Benz G-Class",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 G클래스",
   "en": "Mercedes-Benz G-Class",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 G클래스",
   "en": "Mercedes-Benz G-Class",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 G클래스",
   "en": "Mercedes-Benz G-Class",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 EQE",
   "en": "Mercedes-Benz EQE",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "벤츠 EQE",
   "en": "Mercedes-Benz EQE",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "벤츠 EQE",
   "en": "Mercedes-Benz EQE",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "벤츠 EQE",
   "en": "Mercedes-Benz EQE",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "벤츠 스프린터",
   "en": "Mercedes-Benz Sprinter van",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 스프린터",
   "en": "Mercedes-Benz Sprinter van",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 스프린터",
   "en": "Mercedes-Benz Sprinter van",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "벤츠 스프린터",
   "en": "Mercedes-Benz Sprinter van",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 A4",
   "en": "Audi A4",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A4",
   "en": "Audi A4",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A4",
   "en": "Audi A4",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 A4",
   "en": "Audi A4",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "아우디 A6",
+  "path": "탈것/승용차"
  },
  {
   "ko": "아우디 Q5",
   "en": "Audi Q5",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q5",
   "en": "Audi Q5",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q5",
   "en": "Audi Q5",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q5",
   "en": "Audi Q5",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q7",
   "en": "Audi Q7",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q7",
   "en": "Audi Q7",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q7",
   "en": "Audi Q7",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 Q7",
   "en": "Audi Q7",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "아우디 Q5",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "아우디 e-트론",
   "en": "Audi e-tron",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "아우디 e-트론",
   "en": "Audi e-tron",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "아우디 e-트론",
   "en": "Audi e-tron",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "아우디 e-트론",
   "en": "Audi e-tron",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "폭스바겐 티구안",
   "en": "Volkswagen Tiguan",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 티구안",
   "en": "Volkswagen Tiguan",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 티구안",
   "en": "Volkswagen Tiguan",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 티구안",
   "en": "Volkswagen Tiguan",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 제타",
   "en": "Volkswagen Jetta",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 제타",
   "en": "Volkswagen Jetta",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 제타",
   "en": "Volkswagen Jetta",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 제타",
   "en": "Volkswagen Jetta",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 비틀",
   "en": "Volkswagen Beetle",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 비틀",
   "en": "Volkswagen Beetle",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 비틀",
   "en": "Volkswagen Beetle",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 비틀",
   "en": "Volkswagen Beetle",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폭스바겐 ID.4",
   "en": "Volkswagen ID.4",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 ID.4",
   "en": "Volkswagen ID.4",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 ID.4",
   "en": "Volkswagen ID.4",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "폭스바겐 ID.4",
   "en": "Volkswagen ID.4",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 카이엔",
   "en": "Porsche Cayenne",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 카이엔",
   "en": "Porsche Cayenne",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 카이엔",
   "en": "Porsche Cayenne",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 카이엔",
   "en": "Porsche Cayenne",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 타이칸",
   "en": "Porsche Taycan",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 타이칸",
   "en": "Porsche Taycan",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 타이칸",
   "en": "Porsche Taycan",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 타이칸",
   "en": "Porsche Taycan",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 마칸",
   "en": "Porsche Macan",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 마칸",
   "en": "Porsche Macan",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 마칸",
   "en": "Porsche Macan",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포르쉐 마칸",
   "en": "Porsche Macan",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "포르쉐 카이엔",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC90",
   "en": "Volvo XC90",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC90",
   "en": "Volvo XC90",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC90",
   "en": "Volvo XC90",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC90",
   "en": "Volvo XC90",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC40",
   "en": "Volvo XC40",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC40",
   "en": "Volvo XC40",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC40",
   "en": "Volvo XC40",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 XC40",
   "en": "Volvo XC40",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "볼보 XC60",
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "볼보 S90",
   "en": "Volvo S90",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "볼보 S90",
   "en": "Volvo S90",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "볼보 S90",
   "en": "Volvo S90",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "볼보 S90",
   "en": "Volvo S90",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "렉서스 ES",
   "en": "Lexus ES",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "렉서스 ES",
   "en": "Lexus ES",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "렉서스 ES",
   "en": "Lexus ES",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "렉서스 ES",
   "en": "Lexus ES",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "렉서스 RX",
   "en": "Lexus RX",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "렉서스 RX",
   "en": "Lexus RX",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "렉서스 RX",
   "en": "Lexus RX",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "렉서스 RX",
   "en": "Lexus RX",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 라브4",
   "en": "Toyota RAV4",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 라브4",
   "en": "Toyota RAV4",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 라브4",
   "en": "Toyota RAV4",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 라브4",
   "en": "Toyota RAV4",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 프리우스",
   "en": "Toyota Prius",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 프리우스",
   "en": "Toyota Prius",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 프리우스",
   "en": "Toyota Prius",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 프리우스",
   "en": "Toyota Prius",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "토요타 시에나",
   "en": "Toyota Sienna",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 시에나",
   "en": "Toyota Sienna",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 시에나",
   "en": "Toyota Sienna",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 시에나",
   "en": "Toyota Sienna",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 랜드크루저",
   "en": "Toyota Land Cruiser",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 랜드크루저",
   "en": "Toyota Land Cruiser",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 랜드크루저",
   "en": "Toyota Land Cruiser",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "토요타 랜드크루저",
   "en": "Toyota Land Cruiser",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 어코드",
   "en": "Honda Accord",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "혼다 어코드",
   "en": "Honda Accord",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "혼다 어코드",
   "en": "Honda Accord",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "혼다 어코드",
   "en": "Honda Accord",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "혼다 CR-V",
   "en": "Honda CR-V",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 CR-V",
   "en": "Honda CR-V",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 CR-V",
   "en": "Honda CR-V",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 CR-V",
   "en": "Honda CR-V",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 오딧세이",
   "en": "Honda Odyssey",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 오딧세이",
   "en": "Honda Odyssey",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 오딧세이",
   "en": "Honda Odyssey",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "혼다 오딧세이",
   "en": "Honda Odyssey",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "닛산 리프",
   "en": "Nissan Leaf",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 리프",
   "en": "Nissan Leaf",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 리프",
   "en": "Nissan Leaf",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 리프",
   "en": "Nissan Leaf",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 GT-R",
   "en": "Nissan GT-R",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 GT-R",
   "en": "Nissan GT-R",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 GT-R",
   "en": "Nissan GT-R",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "닛산 GT-R",
   "en": "Nissan GT-R",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "포드 머스탱",
   "en": "Ford Mustang",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "포드 머스탱",
   "en": "Ford Mustang",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "포드 머스탱",
   "en": "Ford Mustang",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "포드 머스탱",
   "en": "Ford Mustang",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "포드 익스플로러",
   "en": "Ford Explorer",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 익스플로러",
   "en": "Ford Explorer",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 익스플로러",
   "en": "Ford Explorer",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 익스플로러",
   "en": "Ford Explorer",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 F-150",
   "en": "Ford F-150 pickup",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 F-150",
   "en": "Ford F-150 pickup",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 F-150",
   "en": "Ford F-150 pickup",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 F-150",
   "en": "Ford F-150 pickup",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 브롱코",
   "en": "Ford Bronco",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 브롱코",
   "en": "Ford Bronco",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 브롱코",
   "en": "Ford Bronco",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "포드 브롱코",
   "en": "Ford Bronco",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 랭글러",
   "en": "Jeep Wrangler",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 랭글러",
   "en": "Jeep Wrangler",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 랭글러",
   "en": "Jeep Wrangler",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 랭글러",
   "en": "Jeep Wrangler",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 그랜드 체로키",
   "en": "Jeep Grand Cherokee",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 그랜드 체로키",
   "en": "Jeep Grand Cherokee",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 그랜드 체로키",
   "en": "Jeep Grand Cherokee",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "지프 그랜드 체로키",
   "en": "Jeep Grand Cherokee",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "랜드로버 디펜더",
   "en": "Land Rover Defender",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "랜드로버 디펜더",
   "en": "Land Rover Defender",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "랜드로버 디펜더",
   "en": "Land Rover Defender",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "랜드로버 디펜더",
   "en": "Land Rover Defender",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "레인지로버",
   "en": "Range Rover",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "레인지로버",
   "en": "Range Rover",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "레인지로버",
   "en": "Range Rover",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "레인지로버",
   "en": "Range Rover",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "링컨 에비에이터",
   "en": "Lincoln Aviator",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "링컨 에비에이터",
   "en": "Lincoln Aviator",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "링컨 에비에이터",
   "en": "Lincoln Aviator",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "링컨 에비에이터",
   "en": "Lincoln Aviator",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캐딜락 에스컬레이드",
   "en": "Cadillac Escalade",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캐딜락 에스컬레이드",
   "en": "Cadillac Escalade",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캐딜락 에스컬레이드",
   "en": "Cadillac Escalade",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "캐딜락 에스컬레이드",
   "en": "Cadillac Escalade",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "페라리",
   "en": "Ferrari sports car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "페라리",
   "en": "Ferrari sports car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "페라리",
   "en": "Ferrari sports car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "페라리",
   "en": "Ferrari sports car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "람보르기니",
   "en": "Lamborghini sports car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "람보르기니",
   "en": "Lamborghini sports car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "람보르기니",
   "en": "Lamborghini sports car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "람보르기니",
   "en": "Lamborghini sports car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤틀리",
   "en": "Bentley luxury car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤틀리",
   "en": "Bentley luxury car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤틀리",
   "en": "Bentley luxury car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "벤틀리",
   "en": "Bentley luxury car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "롤스로이스",
   "en": "Rolls-Royce luxury car",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "롤스로이스",
   "en": "Rolls-Royce luxury car",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "롤스로이스",
   "en": "Rolls-Royce luxury car",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "롤스로이스",
   "en": "Rolls-Royce luxury car",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "마세라티",
   "en": "Maserati",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "마세라티",
   "en": "Maserati",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "마세라티",
   "en": "Maserati",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "마세라티",
   "en": "Maserati",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "맥라렌",
   "en": "McLaren supercar",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "맥라렌",
   "en": "McLaren supercar",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "맥라렌",
   "en": "McLaren supercar",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "맥라렌",
   "en": "McLaren supercar",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "BYD 아토3",
   "en": "BYD Atto 3",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "BYD 아토3",
   "en": "BYD Atto 3",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "BYD 아토3",
   "en": "BYD Atto 3",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "BYD 아토3",
   "en": "BYD Atto 3",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "폴스타 2",
   "en": "Polestar 2",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폴스타 2",
   "en": "Polestar 2",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폴스타 2",
   "en": "Polestar 2",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/승용차"
  },
  {
   "ko": "폴스타 2",
   "en": "Polestar 2",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/승용차"
  },
  {
   "ko": "푸조 3008",
   "en": "Peugeot 3008",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "푸조 3008",
   "en": "Peugeot 3008",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "푸조 3008",
   "en": "Peugeot 3008",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "푸조 3008",
   "en": "Peugeot 3008",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/SUV·승합"
  },
  {
   "ko": "마을버스",
   "en": "small town bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "마을버스",
   "en": "small town bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "마을버스",
   "en": "small town bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "마을버스",
   "en": "small town bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "시내버스",
   "en": "city bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "시내버스",
   "en": "city bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "시내버스",
   "en": "city bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "시내버스",
   "en": "city bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "고속버스",
   "en": "intercity coach bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "고속버스",
   "en": "intercity coach bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "고속버스",
   "en": "intercity coach bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "고속버스",
   "en": "intercity coach bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "2층 버스",
   "en": "double-decker bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "2층 버스",
   "en": "double-decker bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "2층 버스",
   "en": "double-decker bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "2층 버스",
   "en": "double-decker bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "버스",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "통학버스",
   "en": "yellow school bus",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "통학버스",
   "en": "yellow school bus",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "통학버스",
   "en": "yellow school bus",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "통학버스",
   "en": "yellow school bus",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "트레일러",
   "en": "semi-trailer truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트레일러",
   "en": "semi-trailer truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트레일러",
   "en": "semi-trailer truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트레일러",
   "en": "semi-trailer truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "탑차",
   "en": "box truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "탑차",
   "en": "box truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "탑차",
   "en": "box truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "탑차",
   "en": "box truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "픽업트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "덤프트럭",
   "en": "dump truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "덤프트럭",
   "en": "dump truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "덤프트럭",
   "en": "dump truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "덤프트럭",
   "en": "dump truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "레미콘",
   "en": "concrete mixer truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "레미콘",
   "en": "concrete mixer truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "레미콘",
   "en": "concrete mixer truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "레미콘",
   "en": "concrete mixer truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "크레인",
   "en": "crane truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "크레인",
   "en": "crane truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "크레인",
   "en": "crane truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "크레인",
   "en": "crane truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "견인차",
   "en": "tow truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "견인차",
   "en": "tow truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "견인차",
   "en": "tow truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "견인차",
   "en": "tow truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "청소차",
   "en": "garbage truck",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "청소차",
   "en": "garbage truck",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "청소차",
   "en": "garbage truck",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "청소차",
   "en": "garbage truck",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "덤프트럭",
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경운기",
   "en": "power tiller",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경운기",
   "en": "power tiller",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경운기",
   "en": "power tiller",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "경운기",
   "en": "power tiller",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트랙터",
   "en": "tractor",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트랙터",
   "en": "tractor",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트랙터",
   "en": "tractor",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "트랙터",
   "en": "tractor",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "배달 오토바이",
   "en": "delivery motorcycle",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "배달 오토바이",
   "en": "delivery motorcycle",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "배달 오토바이",
   "en": "delivery motorcycle",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "배달 오토바이",
   "en": "delivery motorcycle",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "오토바이",
+  "path": "탈것/오토바이"
  },
  {
   "ko": "전동 킥보드",
   "en": "electric kick scooter",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "스쿠터",
+  "path": "탈것/자전거·킥보드"
  },
  {
   "ko": "전동 킥보드",
   "en": "electric kick scooter",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "스쿠터",
+  "path": "탈것/자전거·킥보드"
  },
  {
   "ko": "전동 킥보드",
   "en": "electric kick scooter",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "스쿠터",
+  "path": "탈것/자전거·킥보드"
  },
  {
   "ko": "전동 킥보드",
   "en": "electric kick scooter",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "스쿠터",
+  "path": "탈것/자전거·킥보드"
  },
  {
   "ko": "전기자전거",
   "en": "electric bicycle",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/오토바이"
  },
  {
   "ko": "전기자전거",
   "en": "electric bicycle",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/오토바이"
  },
  {
   "ko": "전기자전거",
   "en": "electric bicycle",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/오토바이"
  },
  {
   "ko": "전기자전거",
   "en": "electric bicycle",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/오토바이"
  },
  {
   "ko": "로드 자전거",
   "en": "road bicycle",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "로드 자전거",
   "en": "road bicycle",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "로드 자전거",
   "en": "road bicycle",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "로드 자전거",
   "en": "road bicycle",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/트럭·특수차"
  },
  {
   "ko": "기차",
   "en": "train",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "기차",
   "en": "train",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "기차",
   "en": "train",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "기차",
   "en": "train",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "지하철",
   "en": "subway train",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "지하철",
   "en": "subway train",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "지하철",
   "en": "subway train",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "지하철",
   "en": "subway train",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "group": "기차",
+  "path": "탈것/대중교통"
  },
  {
   "ko": "KTX",
   "en": "KTX high-speed train",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "KTX",
   "en": "KTX high-speed train",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "KTX",
   "en": "KTX high-speed train",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "KTX",
   "en": "KTX high-speed train",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/대중교통"
  },
  {
   "ko": "비행기",
   "en": "airplane",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "비행기",
   "en": "airplane",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "비행기",
   "en": "airplane",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "비행기",
   "en": "airplane",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "선박",
   "en": "ship",
   "cat": "car",
-  "view": 0
+  "view": 0,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "선박",
   "en": "ship",
   "cat": "car",
-  "view": 1
+  "view": 1,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "선박",
   "en": "ship",
   "cat": "car",
-  "view": 2
+  "view": 2,
+  "path": "탈것/비행기·배"
  },
  {
   "ko": "선박",
   "en": "ship",
   "cat": "car",
-  "view": 3
+  "view": 3,
+  "path": "탈것/비행기·배"
  }
 ]

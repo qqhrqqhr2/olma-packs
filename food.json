@@ -3,6948 +3,8217 @@
   "ko": "김치",
   "en": "kimchi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치",
   "en": "kimchi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치",
   "en": "kimchi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치찌개",
   "en": "kimchi stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "김치찌개",
   "en": "kimchi stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "김치찌개",
   "en": "kimchi stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "된장찌개",
   "en": "doenjang soybean paste stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "된장찌개",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "된장찌개",
   "en": "doenjang soybean paste stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "된장찌개",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "된장찌개",
   "en": "doenjang soybean paste stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "된장찌개",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "순두부찌개",
   "en": "soft tofu stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "순두부찌개",
   "en": "soft tofu stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "순두부찌개",
   "en": "soft tofu stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "부대찌개",
   "en": "army base stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "부대찌개",
   "en": "army base stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "부대찌개",
   "en": "army base stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "비빔밥",
   "en": "bibimbap",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "비빔밥",
   "en": "bibimbap",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "비빔밥",
   "en": "bibimbap",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김밥",
   "en": "kimbap seaweed rice roll",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김밥",
   "en": "kimbap seaweed rice roll",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김밥",
   "en": "kimbap seaweed rice roll",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "떡볶이",
   "en": "tteokbokki spicy rice cakes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "떡볶이",
   "en": "tteokbokki spicy rice cakes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "떡볶이",
   "en": "tteokbokki spicy rice cakes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "라면",
   "en": "ramen noodle soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라면",
   "en": "ramen noodle soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라면",
   "en": "ramen noodle soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짜장면",
   "en": "jajangmyeon black bean noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짜장면",
   "en": "jajangmyeon black bean noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짜장면",
   "en": "jajangmyeon black bean noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짬뽕",
   "en": "jjamppong spicy seafood noodle soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짬뽕",
   "en": "jjamppong spicy seafood noodle soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짬뽕",
   "en": "jjamppong spicy seafood noodle soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "냉면",
   "en": "naengmyeon cold noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "냉면",
   "en": "naengmyeon cold noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "냉면",
   "en": "naengmyeon cold noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "칼국수",
   "en": "kalguksu knife-cut noodle soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "칼국수",
+  "path": "음식/밥·면"
  },
  {
   "ko": "칼국수",
   "en": "kalguksu knife-cut noodle soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "칼국수",
+  "path": "음식/밥·면"
  },
  {
   "ko": "칼국수",
   "en": "kalguksu knife-cut noodle soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "칼국수",
+  "path": "음식/밥·면"
  },
  {
   "ko": "불고기",
   "en": "bulgogi marinated beef",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "불고기",
   "en": "bulgogi marinated beef",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "불고기",
   "en": "bulgogi marinated beef",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "삼겹살",
   "en": "grilled pork belly samgyeopsal",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "삼겹살",
   "en": "grilled pork belly samgyeopsal",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "삼겹살",
   "en": "grilled pork belly samgyeopsal",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "갈비",
   "en": "grilled short ribs galbi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "갈비",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "갈비",
   "en": "grilled short ribs galbi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "갈비",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "갈비",
   "en": "grilled short ribs galbi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "갈비",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭갈비",
   "en": "dakgalbi spicy stir-fried chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "닭갈비",
   "en": "dakgalbi spicy stir-fried chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "닭갈비",
   "en": "dakgalbi spicy stir-fried chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "치킨",
   "en": "korean fried chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "치킨",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "치킨",
   "en": "korean fried chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "치킨",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "치킨",
   "en": "korean fried chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "치킨",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "양념치킨",
   "en": "korean seasoned fried chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "치킨",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "양념치킨",
   "en": "korean seasoned fried chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "치킨",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "양념치킨",
   "en": "korean seasoned fried chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "치킨",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "삼계탕",
   "en": "samgyetang ginseng chicken soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "삼계탕",
   "en": "samgyetang ginseng chicken soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "삼계탕",
   "en": "samgyetang ginseng chicken soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "제육볶음",
   "en": "spicy stir-fried pork",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "제육볶음",
   "en": "spicy stir-fried pork",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "제육볶음",
   "en": "spicy stir-fried pork",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "잡채",
   "en": "japchae glass noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "잡채",
   "en": "japchae glass noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "잡채",
   "en": "japchae glass noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "파전",
   "en": "pajeon green onion pancake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "파전",
   "en": "pajeon green onion pancake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "파전",
   "en": "pajeon green onion pancake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "만두",
   "en": "dumplings",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "만두",
+  "path": "음식/국·찌개"
  },
  {
   "ko": "만두",
   "en": "dumplings",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "만두",
+  "path": "음식/국·찌개"
  },
  {
   "ko": "만두",
   "en": "dumplings",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "만두",
+  "path": "음식/국·찌개"
  },
  {
   "ko": "순대",
   "en": "sundae korean blood sausage",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "순대",
   "en": "sundae korean blood sausage",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "순대",
   "en": "sundae korean blood sausage",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "어묵",
   "en": "fish cake skewers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "어묵",
   "en": "fish cake skewers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "어묵",
   "en": "fish cake skewers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "호떡",
   "en": "hotteok sweet pancake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "호떡",
   "en": "hotteok sweet pancake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "호떡",
   "en": "hotteok sweet pancake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "붕어빵",
   "en": "bungeoppang fish-shaped bread",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "붕어빵",
   "en": "bungeoppang fish-shaped bread",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "붕어빵",
   "en": "bungeoppang fish-shaped bread",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "떡",
   "en": "rice cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "떡",
   "en": "rice cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "떡",
   "en": "rice cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치볶음밥",
   "en": "kimchi fried rice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치볶음밥",
   "en": "kimchi fried rice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치볶음밥",
   "en": "kimchi fried rice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음밥",
   "en": "fried rice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음밥",
   "en": "fried rice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음밥",
   "en": "fried rice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오므라이스",
   "en": "omurice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오므라이스",
   "en": "omurice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오므라이스",
   "en": "omurice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "카레라이스",
   "en": "curry rice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "카레라이스",
   "en": "curry rice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "카레라이스",
   "en": "curry rice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "돈가스",
   "en": "tonkatsu pork cutlet",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "돈가스",
   "en": "tonkatsu pork cutlet",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "돈가스",
   "en": "tonkatsu pork cutlet",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "초밥",
   "en": "sushi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "초밥",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "초밥",
   "en": "sushi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "초밥",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "초밥",
   "en": "sushi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "초밥",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "회",
   "en": "sashimi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "회",
   "en": "sashimi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "회",
   "en": "sashimi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "우동",
   "en": "udon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "우동",
   "en": "udon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "우동",
   "en": "udon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쌀국수",
   "en": "pho",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쌀국수",
   "en": "pho",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쌀국수",
   "en": "pho",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "팟타이",
   "en": "pad thai",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "팟타이",
   "en": "pad thai",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "팟타이",
   "en": "pad thai",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "탕수육",
   "en": "sweet and sour pork",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "탕수육",
   "en": "sweet and sour pork",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "탕수육",
   "en": "sweet and sour pork",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "마라탕",
   "en": "malatang",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "마라탕",
   "en": "malatang",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "마라탕",
   "en": "malatang",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "피자",
   "en": "pizza",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "피자",
   "en": "pizza",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "피자",
   "en": "pizza",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "햄버거",
   "en": "hamburger",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "햄버거",
   "en": "hamburger",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "햄버거",
   "en": "hamburger",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "감자튀김",
   "en": "french fries",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "감자튀김",
   "en": "french fries",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "감자튀김",
   "en": "french fries",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "핫도그",
   "en": "hot dog",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "핫도그",
   "en": "hot dog",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "핫도그",
   "en": "hot dog",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "샌드위치",
   "en": "sandwich",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "샌드위치",
   "en": "sandwich",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "샌드위치",
   "en": "sandwich",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "파스타",
   "en": "spaghetti pasta",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "파스타",
   "en": "spaghetti pasta",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "파스타",
   "en": "spaghetti pasta",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "스테이크",
   "en": "steak",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "스테이크",
   "en": "steak",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "스테이크",
   "en": "steak",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "샐러드",
   "en": "salad",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "샐러드",
   "en": "salad",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "샐러드",
   "en": "salad",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "수프",
   "en": "soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "수프",
   "en": "soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "수프",
   "en": "soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "토스트",
   "en": "toast",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "토스트",
   "en": "toast",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "토스트",
   "en": "toast",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "타코",
   "en": "taco",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "타코",
   "en": "taco",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "타코",
   "en": "taco",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "부리토",
   "en": "burrito",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "부리토",
   "en": "burrito",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "부리토",
   "en": "burrito",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "쌀밥",
   "en": "bowl of white rice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쌀밥",
   "en": "bowl of white rice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쌀밥",
   "en": "bowl of white rice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "계란후라이",
   "en": "fried egg",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "계란후라이",
   "en": "fried egg",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "계란후라이",
   "en": "fried egg",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "삶은 달걀",
   "en": "boiled egg",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "삶은 달걀",
   "en": "boiled egg",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "삶은 달걀",
   "en": "boiled egg",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "두부",
   "en": "tofu",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "두부",
   "en": "tofu",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "두부",
   "en": "tofu",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "케이크",
   "en": "cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "케이크",
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "케이크",
   "en": "cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "케이크",
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "케이크",
   "en": "cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "케이크",
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "조각 케이크",
   "en": "slice of cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "케이크",
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "조각 케이크",
   "en": "slice of cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "케이크",
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "조각 케이크",
   "en": "slice of cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "케이크",
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "마카롱",
   "en": "macaron",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "마카롱",
   "en": "macaron",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "마카롱",
   "en": "macaron",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "도넛",
   "en": "donut",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "도넛",
   "en": "donut",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "도넛",
   "en": "donut",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "쿠키",
   "en": "cookie",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "쿠키",
   "en": "cookie",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "쿠키",
   "en": "cookie",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "크루아상",
   "en": "croissant",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "크루아상",
   "en": "croissant",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "크루아상",
   "en": "croissant",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "식빵",
   "en": "loaf of bread",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "식빵",
   "en": "loaf of bread",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "식빵",
   "en": "loaf of bread",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "베이글",
   "en": "bagel",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "베이글",
   "en": "bagel",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "베이글",
   "en": "bagel",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "와플",
   "en": "waffle",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "와플",
   "en": "waffle",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "와플",
   "en": "waffle",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "팬케이크",
   "en": "pancakes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "팬케이크",
   "en": "pancakes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "팬케이크",
   "en": "pancakes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "아이스크림",
   "en": "ice cream",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "아이스크림",
   "en": "ice cream",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "아이스크림",
   "en": "ice cream",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "빙수",
   "en": "bingsu shaved ice dessert",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "빙수",
   "en": "bingsu shaved ice dessert",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "빙수",
   "en": "bingsu shaved ice dessert",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "초콜릿",
   "en": "chocolate bar",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "초콜릿",
   "en": "chocolate bar",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "초콜릿",
   "en": "chocolate bar",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "사탕",
   "en": "candy",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "사탕",
   "en": "candy",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "사탕",
   "en": "candy",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "젤리",
   "en": "gummy candy",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "젤리",
   "en": "gummy candy",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "젤리",
   "en": "gummy candy",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "과자",
   "en": "snack crackers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "과자",
   "en": "snack crackers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "과자",
   "en": "snack crackers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "팝콘",
   "en": "popcorn",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "팝콘",
   "en": "popcorn",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "팝콘",
   "en": "popcorn",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "커피",
   "en": "cup of coffee",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "커피",
+  "path": "음식/음료"
  },
  {
   "ko": "커피",
   "en": "cup of coffee",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "커피",
+  "path": "음식/음료"
  },
  {
   "ko": "커피",
   "en": "cup of coffee",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "커피",
+  "path": "음식/음료"
  },
  {
   "ko": "아이스 아메리카노",
   "en": "iced americano coffee",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "아이스 아메리카노",
   "en": "iced americano coffee",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "아이스 아메리카노",
   "en": "iced americano coffee",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "라테",
   "en": "latte",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "라테",
+  "path": "음식/음료"
  },
  {
   "ko": "라테",
   "en": "latte",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "라테",
+  "path": "음식/음료"
  },
  {
   "ko": "라테",
   "en": "latte",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "라테",
+  "path": "음식/음료"
  },
  {
   "ko": "녹차",
   "en": "green tea",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "녹차",
   "en": "green tea",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "녹차",
   "en": "green tea",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "버블티",
   "en": "bubble tea",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "버블티",
   "en": "bubble tea",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "버블티",
   "en": "bubble tea",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "주스",
   "en": "orange juice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "주스",
   "en": "orange juice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "주스",
   "en": "orange juice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "우유",
   "en": "glass of milk",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "우유",
   "en": "glass of milk",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "우유",
   "en": "glass of milk",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "맥주",
   "en": "glass of beer",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "맥주",
   "en": "glass of beer",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "맥주",
   "en": "glass of beer",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "소주",
   "en": "soju bottle",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "소주",
   "en": "soju bottle",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "소주",
   "en": "soju bottle",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "와인",
   "en": "glass of wine",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "와인",
   "en": "glass of wine",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "와인",
   "en": "glass of wine",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "사과",
   "en": "apple",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "사과",
   "en": "apple",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "사과",
   "en": "apple",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "배",
   "en": "asian pear",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "배",
   "en": "asian pear",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "배",
   "en": "asian pear",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "바나나",
   "en": "banana",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "바나나",
   "en": "banana",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "바나나",
   "en": "banana",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "귤",
   "en": "mandarin orange",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "귤",
   "en": "mandarin orange",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "귤",
   "en": "mandarin orange",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "오렌지",
   "en": "orange",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "오렌지",
   "en": "orange",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "오렌지",
   "en": "orange",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "포도",
   "en": "grapes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "포도",
   "en": "grapes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "포도",
   "en": "grapes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "딸기",
   "en": "strawberries",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "딸기",
   "en": "strawberries",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "딸기",
   "en": "strawberries",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "수박",
   "en": "watermelon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "수박",
   "en": "watermelon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "수박",
   "en": "watermelon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "참외",
   "en": "korean melon chamoe",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "참외",
   "en": "korean melon chamoe",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "참외",
   "en": "korean melon chamoe",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "복숭아",
   "en": "peach",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "복숭아",
   "en": "peach",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "복숭아",
   "en": "peach",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "감",
   "en": "persimmon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "감",
   "en": "persimmon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "감",
   "en": "persimmon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "키위",
   "en": "kiwi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "키위",
   "en": "kiwi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "키위",
   "en": "kiwi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "파인애플",
   "en": "pineapple",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "파인애플",
   "en": "pineapple",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "파인애플",
   "en": "pineapple",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "망고",
   "en": "mango",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "망고",
   "en": "mango",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "망고",
   "en": "mango",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "블루베리",
   "en": "blueberries",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "블루베리",
   "en": "blueberries",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "블루베리",
   "en": "blueberries",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "토마토",
   "en": "tomato",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "토마토",
   "en": "tomato",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "토마토",
   "en": "tomato",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "오이",
   "en": "cucumber",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "오이",
   "en": "cucumber",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "오이",
   "en": "cucumber",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "당근",
   "en": "carrot",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "당근",
   "en": "carrot",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "당근",
   "en": "carrot",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "감자",
   "en": "potato",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "감자",
   "en": "potato",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "감자",
   "en": "potato",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "고구마",
   "en": "sweet potato",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "고구마",
   "en": "sweet potato",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "고구마",
   "en": "sweet potato",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "양파",
   "en": "onion",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "양파",
   "en": "onion",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "양파",
   "en": "onion",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "마늘",
   "en": "garlic",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "마늘",
   "en": "garlic",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "마늘",
   "en": "garlic",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "대파",
   "en": "green onion",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "대파",
   "en": "green onion",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "대파",
   "en": "green onion",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "배추",
   "en": "napa cabbage",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "배추",
   "en": "napa cabbage",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "배추",
   "en": "napa cabbage",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "양배추",
   "en": "cabbage",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "양배추",
   "en": "cabbage",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "양배추",
   "en": "cabbage",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "브로콜리",
   "en": "broccoli",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "브로콜리",
   "en": "broccoli",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "브로콜리",
   "en": "broccoli",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "버섯",
   "en": "mushrooms",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "버섯",
   "en": "mushrooms",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "버섯",
   "en": "mushrooms",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "고추",
   "en": "chili peppers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "고추",
   "en": "chili peppers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "고추",
   "en": "chili peppers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "파프리카",
   "en": "bell pepper",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "파프리카",
   "en": "bell pepper",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "파프리카",
   "en": "bell pepper",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "옥수수",
   "en": "corn",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "옥수수",
   "en": "corn",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "옥수수",
   "en": "corn",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "호박",
   "en": "pumpkin",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "호박",
   "en": "pumpkin",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "호박",
   "en": "pumpkin",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "가지",
   "en": "eggplant",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "가지",
   "en": "eggplant",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "가지",
   "en": "eggplant",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "시금치",
   "en": "spinach",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "시금치",
   "en": "spinach",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "시금치",
   "en": "spinach",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "상추",
   "en": "lettuce",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "상추",
   "en": "lettuce",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "상추",
   "en": "lettuce",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "달걀",
   "en": "eggs",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "달걀",
   "en": "eggs",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "달걀",
   "en": "eggs",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "생선",
   "en": "fish",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "생선",
   "en": "fish",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "생선",
   "en": "fish",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새우",
   "en": "shrimp",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새우",
   "en": "shrimp",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새우",
   "en": "shrimp",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오징어",
   "en": "squid",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오징어",
   "en": "squid",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오징어",
   "en": "squid",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "게",
   "en": "crab",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "게",
   "en": "crab",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "게",
   "en": "crab",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "소고기",
   "en": "raw beef",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "소고기",
   "en": "raw beef",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "소고기",
   "en": "raw beef",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "돼지고기",
   "en": "raw pork",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "돼지고기",
   "en": "raw pork",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "돼지고기",
   "en": "raw pork",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭고기",
   "en": "raw chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭고기",
   "en": "raw chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭고기",
   "en": "raw chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "햄",
   "en": "ham",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "햄",
   "en": "ham",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "햄",
   "en": "ham",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "소시지",
   "en": "sausage",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "소시지",
   "en": "sausage",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "소시지",
   "en": "sausage",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "치즈",
   "en": "cheese",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "치즈",
   "en": "cheese",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "치즈",
   "en": "cheese",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "견과류",
   "en": "mixed nuts",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "견과류",
   "en": "mixed nuts",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "견과류",
   "en": "mixed nuts",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "잡곡밥",
   "en": "multigrain rice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "잡곡밥",
   "en": "multigrain rice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "잡곡밥",
   "en": "multigrain rice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "누룽지",
   "en": "nurungji scorched rice",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "누룽지",
   "en": "nurungji scorched rice",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "누룽지",
   "en": "nurungji scorched rice",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "죽",
   "en": "rice porridge",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "죽",
   "en": "rice porridge",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "죽",
   "en": "rice porridge",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "전복죽",
   "en": "abalone porridge",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "전복죽",
   "en": "abalone porridge",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "전복죽",
   "en": "abalone porridge",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "미역국",
   "en": "seaweed soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "미역국",
   "en": "seaweed soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "미역국",
   "en": "seaweed soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "콩나물국",
   "en": "bean sprout soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "콩나물국",
   "en": "bean sprout soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "콩나물국",
   "en": "bean sprout soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "떡국",
   "en": "tteokguk rice cake soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "떡국",
   "en": "tteokguk rice cake soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "떡국",
   "en": "tteokguk rice cake soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "육개장",
   "en": "yukgaejang spicy beef soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "육개장",
   "en": "yukgaejang spicy beef soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "육개장",
   "en": "yukgaejang spicy beef soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "갈비탕",
   "en": "galbitang short rib soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "갈비탕",
   "en": "galbitang short rib soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "갈비탕",
   "en": "galbitang short rib soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "설렁탕",
   "en": "seolleongtang ox bone soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "설렁탕",
   "en": "seolleongtang ox bone soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "설렁탕",
   "en": "seolleongtang ox bone soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "감자탕",
   "en": "gamjatang pork bone stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "감자탕",
   "en": "gamjatang pork bone stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "감자탕",
   "en": "gamjatang pork bone stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "해장국",
   "en": "haejangguk hangover soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "해장국",
   "en": "haejangguk hangover soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "해장국",
   "en": "haejangguk hangover soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "곰탕",
   "en": "gomtang beef soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "곰탕",
   "en": "gomtang beef soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "곰탕",
   "en": "gomtang beef soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "추어탕",
   "en": "loach soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "추어탕",
   "en": "loach soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "추어탕",
   "en": "loach soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "매운탕",
   "en": "spicy fish stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "매운탕",
   "en": "spicy fish stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "매운탕",
   "en": "spicy fish stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "청국장",
   "en": "cheonggukjang fermented soybean stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "된장찌개",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "청국장",
   "en": "cheonggukjang fermented soybean stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "된장찌개",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "청국장",
   "en": "cheonggukjang fermented soybean stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "된장찌개",
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "동태찌개",
   "en": "pollock stew",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "동태찌개",
   "en": "pollock stew",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "동태찌개",
   "en": "pollock stew",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "감자조림",
   "en": "braised potatoes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "감자조림",
   "en": "braised potatoes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "감자조림",
   "en": "braised potatoes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "멸치볶음",
   "en": "stir-fried anchovies",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "멸치볶음",
   "en": "stir-fried anchovies",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "멸치볶음",
   "en": "stir-fried anchovies",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "시금치나물",
   "en": "seasoned spinach namul",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "시금치나물",
   "en": "seasoned spinach namul",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "시금치나물",
   "en": "seasoned spinach namul",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "콩나물무침",
   "en": "seasoned bean sprouts",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "콩나물무침",
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩나물무침",
   "en": "seasoned bean sprouts",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "콩나물무침",
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩나물무침",
   "en": "seasoned bean sprouts",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "콩나물무침",
+  "path": "음식/밥·면"
  },
  {
   "ko": "깍두기",
   "en": "kkakdugi radish kimchi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "깍두기",
   "en": "kkakdugi radish kimchi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "깍두기",
   "en": "kkakdugi radish kimchi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "총각김치",
   "en": "chonggak kimchi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "총각김치",
   "en": "chonggak kimchi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "총각김치",
   "en": "chonggak kimchi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "오이소박이",
   "en": "cucumber kimchi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "오이소박이",
   "en": "cucumber kimchi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "오이소박이",
   "en": "cucumber kimchi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "계란말이",
   "en": "rolled omelette",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "계란말이",
   "en": "rolled omelette",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "계란말이",
   "en": "rolled omelette",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "계란찜",
   "en": "steamed egg",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "계란찜",
   "en": "steamed egg",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "계란찜",
   "en": "steamed egg",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "두부조림",
   "en": "braised tofu",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "두부조림",
   "en": "braised tofu",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "두부조림",
   "en": "braised tofu",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "장조림",
   "en": "jangjorim braised beef",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "장조림",
   "en": "jangjorim braised beef",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "장조림",
   "en": "jangjorim braised beef",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "고등어구이",
   "en": "grilled mackerel",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "고등어구이",
   "en": "grilled mackerel",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "고등어구이",
   "en": "grilled mackerel",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "갈치조림",
   "en": "braised hairtail",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "갈치조림",
   "en": "braised hairtail",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "갈치조림",
   "en": "braised hairtail",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "생선구이",
   "en": "grilled fish",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "생선구이",
   "en": "grilled fish",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "생선구이",
   "en": "grilled fish",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오징어볶음",
   "en": "spicy stir-fried squid",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "오징어볶음",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오징어볶음",
   "en": "spicy stir-fried squid",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "오징어볶음",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오징어볶음",
   "en": "spicy stir-fried squid",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "오징어볶음",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "낙지볶음",
   "en": "spicy stir-fried octopus",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "오징어볶음",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "낙지볶음",
   "en": "spicy stir-fried octopus",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "오징어볶음",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "낙지볶음",
   "en": "spicy stir-fried octopus",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "오징어볶음",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "쭈꾸미볶음",
   "en": "spicy webfoot octopus",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "쭈꾸미볶음",
   "en": "spicy webfoot octopus",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "쭈꾸미볶음",
   "en": "spicy webfoot octopus",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "아귀찜",
   "en": "braised monkfish",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "아귀찜",
   "en": "braised monkfish",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "아귀찜",
   "en": "braised monkfish",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "해물파전",
   "en": "seafood pancake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "해물파전",
   "en": "seafood pancake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "해물파전",
   "en": "seafood pancake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "김치전",
   "en": "kimchi pancake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치전",
   "en": "kimchi pancake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "김치전",
   "en": "kimchi pancake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "감자전",
   "en": "potato pancake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "감자전",
   "en": "potato pancake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "감자전",
   "en": "potato pancake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "빈대떡",
   "en": "mung bean pancake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "빈대떡",
   "en": "mung bean pancake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "빈대떡",
   "en": "mung bean pancake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "족발",
   "en": "jokbal braised pig trotters",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "족발",
   "en": "jokbal braised pig trotters",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "족발",
   "en": "jokbal braised pig trotters",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "보쌈",
   "en": "bossam boiled pork",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "보쌈",
   "en": "bossam boiled pork",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "보쌈",
   "en": "bossam boiled pork",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "수육",
   "en": "boiled pork slices",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "수육",
   "en": "boiled pork slices",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "수육",
   "en": "boiled pork slices",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "곱창",
   "en": "grilled beef intestines",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "곱창",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "곱창",
   "en": "grilled beef intestines",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "곱창",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "곱창",
   "en": "grilled beef intestines",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "곱창",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "막창",
   "en": "grilled pork intestines",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "곱창",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "막창",
   "en": "grilled pork intestines",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "곱창",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "막창",
   "en": "grilled pork intestines",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "곱창",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭발",
   "en": "spicy chicken feet",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭발",
   "en": "spicy chicken feet",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭발",
   "en": "spicy chicken feet",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "찜닭",
   "en": "jjimdak braised chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "찜닭",
   "en": "jjimdak braised chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "찜닭",
   "en": "jjimdak braised chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "닭강정",
   "en": "dakgangjeong sweet crispy chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "닭강정",
   "en": "dakgangjeong sweet crispy chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "닭강정",
   "en": "dakgangjeong sweet crispy chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "닭꼬치",
   "en": "chicken skewers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭꼬치",
   "en": "chicken skewers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "닭꼬치",
   "en": "chicken skewers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "LA갈비",
   "en": "la galbi beef ribs",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "갈비",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "LA갈비",
   "en": "la galbi beef ribs",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "갈비",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "LA갈비",
   "en": "la galbi beef ribs",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "갈비",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "육회",
   "en": "yukhoe beef tartare",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "육회",
   "en": "yukhoe beef tartare",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "육회",
   "en": "yukhoe beef tartare",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "한우 등심",
   "en": "korean beef sirloin steak",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "한우 등심",
   "en": "korean beef sirloin steak",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "한우 등심",
   "en": "korean beef sirloin steak",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "양꼬치",
   "en": "lamb skewers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "양꼬치",
   "en": "lamb skewers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "양꼬치",
   "en": "lamb skewers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "훠궈",
   "en": "hot pot",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "훠궈",
   "en": "hot pot",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "훠궈",
   "en": "hot pot",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "샤브샤브",
   "en": "shabu shabu",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "샤브샤브",
   "en": "shabu shabu",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "샤브샤브",
   "en": "shabu shabu",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "월남쌈",
   "en": "vietnamese spring rolls",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "월남쌈",
   "en": "vietnamese spring rolls",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "월남쌈",
   "en": "vietnamese spring rolls",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "물냉면",
   "en": "mul naengmyeon cold broth noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "물냉면",
   "en": "mul naengmyeon cold broth noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "물냉면",
   "en": "mul naengmyeon cold broth noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "비빔냉면",
   "en": "bibim naengmyeon spicy cold noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "비빔냉면",
   "en": "bibim naengmyeon spicy cold noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "비빔냉면",
   "en": "bibim naengmyeon spicy cold noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "냉면",
+  "path": "음식/밥·면"
  },
  {
   "ko": "쫄면",
   "en": "jjolmyeon chewy spicy noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쫄면",
   "en": "jjolmyeon chewy spicy noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "쫄면",
   "en": "jjolmyeon chewy spicy noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩국수",
   "en": "kongguksu cold soy milk noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩국수",
   "en": "kongguksu cold soy milk noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩국수",
   "en": "kongguksu cold soy milk noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "잔치국수",
   "en": "janchi guksu noodle soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "칼국수",
+  "path": "음식/밥·면"
  },
  {
   "ko": "잔치국수",
   "en": "janchi guksu noodle soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "칼국수",
+  "path": "음식/밥·면"
  },
  {
   "ko": "잔치국수",
   "en": "janchi guksu noodle soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "칼국수",
+  "path": "음식/밥·면"
  },
  {
   "ko": "비빔국수",
   "en": "bibim guksu spicy noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "비빔국수",
   "en": "bibim guksu spicy noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "비빔국수",
   "en": "bibim guksu spicy noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "막국수",
   "en": "makguksu buckwheat noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "막국수",
   "en": "makguksu buckwheat noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "막국수",
   "en": "makguksu buckwheat noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "수제비",
   "en": "sujebi hand-torn noodle soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "수제비",
   "en": "sujebi hand-torn noodle soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "수제비",
   "en": "sujebi hand-torn noodle soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "라볶이",
   "en": "rabokki ramen tteokbokki",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라볶이",
   "en": "rabokki ramen tteokbokki",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라볶이",
   "en": "rabokki ramen tteokbokki",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짜파게티",
   "en": "black bean instant noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짜파게티",
   "en": "black bean instant noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "짜파게티",
   "en": "black bean instant noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음짬뽕",
   "en": "stir-fried spicy seafood noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음짬뽕",
   "en": "stir-fried spicy seafood noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음짬뽕",
   "en": "stir-fried spicy seafood noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "깐풍기",
   "en": "kkanpunggi spicy fried chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "깐풍기",
   "en": "kkanpunggi spicy fried chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "깐풍기",
   "en": "kkanpunggi spicy fried chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "유린기",
   "en": "yuringi fried chicken",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "유린기",
   "en": "yuringi fried chicken",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "유린기",
   "en": "yuringi fried chicken",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "깐쇼새우",
   "en": "chili shrimp",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "깐쇼새우",
   "en": "chili shrimp",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "깐쇼새우",
   "en": "chili shrimp",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "군만두",
   "en": "pan-fried dumplings",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "군만두",
   "en": "pan-fried dumplings",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "군만두",
   "en": "pan-fried dumplings",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "물만두",
   "en": "boiled dumplings",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "만두",
+  "path": "음식/국·찌개"
  },
  {
   "ko": "물만두",
   "en": "boiled dumplings",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "만두",
+  "path": "음식/국·찌개"
  },
  {
   "ko": "물만두",
   "en": "boiled dumplings",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "만두",
+  "path": "음식/국·찌개"
  },
  {
   "ko": "딤섬",
   "en": "dim sum",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "딤섬",
   "en": "dim sum",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "딤섬",
   "en": "dim sum",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "마파두부",
   "en": "mapo tofu",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "마파두부",
   "en": "mapo tofu",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "마파두부",
   "en": "mapo tofu",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "양장피",
   "en": "yangjangpi chinese cold dish",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "양장피",
   "en": "yangjangpi chinese cold dish",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "양장피",
   "en": "yangjangpi chinese cold dish",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "팔보채",
   "en": "palbochae seafood stir-fry",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "팔보채",
   "en": "palbochae seafood stir-fry",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "팔보채",
   "en": "palbochae seafood stir-fry",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "고추잡채",
   "en": "chili japchae with buns",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "고추잡채",
   "en": "chili japchae with buns",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "고추잡채",
   "en": "chili japchae with buns",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "규동",
   "en": "gyudon beef bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "규동",
   "en": "gyudon beef bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "규동",
   "en": "gyudon beef bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "가츠동",
   "en": "katsudon pork cutlet bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "가츠동",
   "en": "katsudon pork cutlet bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "가츠동",
   "en": "katsudon pork cutlet bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "텐동",
   "en": "tendon tempura rice bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "텐동",
   "en": "tendon tempura rice bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "텐동",
   "en": "tendon tempura rice bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오코노미야키",
   "en": "okonomiyaki",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오코노미야키",
   "en": "okonomiyaki",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오코노미야키",
   "en": "okonomiyaki",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "타코야키",
   "en": "takoyaki",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "타코야키",
   "en": "takoyaki",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "타코야키",
   "en": "takoyaki",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "라멘",
   "en": "japanese ramen",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라멘",
   "en": "japanese ramen",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라멘",
   "en": "japanese ramen",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "소바",
   "en": "soba noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "소바",
   "en": "soba noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "소바",
   "en": "soba noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "돈부리",
   "en": "rice bowl donburi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "돈부리",
   "en": "rice bowl donburi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "돈부리",
   "en": "rice bowl donburi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "유부초밥",
   "en": "inari sushi",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "유부초밥",
   "en": "inari sushi",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "유부초밥",
   "en": "inari sushi",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/분식·패스트푸드"
  },
  {
   "ko": "롤초밥",
   "en": "sushi roll",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "초밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "롤초밥",
   "en": "sushi roll",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "초밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "롤초밥",
   "en": "sushi roll",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "초밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "연어덮밥",
   "en": "salmon rice bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "연어덮밥",
   "en": "salmon rice bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "연어덮밥",
   "en": "salmon rice bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "회덮밥",
   "en": "hoedeopbap raw fish rice bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "회덮밥",
   "en": "hoedeopbap raw fish rice bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "회덮밥",
   "en": "hoedeopbap raw fish rice bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "장어덮밥",
   "en": "grilled eel rice bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "장어덮밥",
   "en": "grilled eel rice bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "장어덮밥",
   "en": "grilled eel rice bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "새우튀김",
   "en": "shrimp tempura",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새우튀김",
   "en": "shrimp tempura",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새우튀김",
   "en": "shrimp tempura",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "튀김",
   "en": "assorted fried snacks twigim",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "튀김",
   "en": "assorted fried snacks twigim",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "튀김",
   "en": "assorted fried snacks twigim",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "주먹밥",
   "en": "rice ball",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "주먹밥",
   "en": "rice ball",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "주먹밥",
   "en": "rice ball",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "삼각김밥",
   "en": "triangle kimbap",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "삼각김밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "삼각김밥",
   "en": "triangle kimbap",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "삼각김밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "삼각김밥",
   "en": "triangle kimbap",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "삼각김밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "충무김밥",
   "en": "chungmu kimbap",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "삼각김밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "충무김밥",
   "en": "chungmu kimbap",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "삼각김밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "충무김밥",
   "en": "chungmu kimbap",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "삼각김밥",
+  "path": "음식/밥·면"
  },
  {
   "ko": "컵밥",
   "en": "cup rice bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "컵밥",
   "en": "cup rice bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "컵밥",
   "en": "cup rice bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "도시락",
   "en": "lunch box meal",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "도시락",
   "en": "lunch box meal",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "도시락",
   "en": "lunch box meal",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "햄버그스테이크",
   "en": "hamburg steak",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "햄버그스테이크",
   "en": "hamburg steak",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "햄버그스테이크",
   "en": "hamburg steak",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "오일 파스타",
   "en": "aglio e olio pasta",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오일 파스타",
   "en": "aglio e olio pasta",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오일 파스타",
   "en": "aglio e olio pasta",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "크림 파스타",
   "en": "cream pasta",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "크림 파스타",
   "en": "cream pasta",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "크림 파스타",
   "en": "cream pasta",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "라자냐",
   "en": "lasagna",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "라자냐",
   "en": "lasagna",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "라자냐",
   "en": "lasagna",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "리조또",
   "en": "risotto",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "리조또",
   "en": "risotto",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "리조또",
   "en": "risotto",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "그라탕",
   "en": "gratin",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "그라탕",
   "en": "gratin",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "그라탕",
   "en": "gratin",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "치즈 플래터",
   "en": "cheese platter",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "치즈 플래터",
   "en": "cheese platter",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "치즈 플래터",
   "en": "cheese platter",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "바비큐 립",
   "en": "bbq ribs",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "바비큐 립",
   "en": "bbq ribs",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "바비큐 립",
   "en": "bbq ribs",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "치킨너겟",
   "en": "chicken nuggets",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "치킨너겟",
   "en": "chicken nuggets",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "치킨너겟",
   "en": "chicken nuggets",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "버팔로윙",
   "en": "buffalo wings",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "버팔로윙",
   "en": "buffalo wings",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "버팔로윙",
   "en": "buffalo wings",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "나초",
   "en": "nachos",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "나초",
   "en": "nachos",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "나초",
   "en": "nachos",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "퀘사디아",
   "en": "quesadilla",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "퀘사디아",
   "en": "quesadilla",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "퀘사디아",
   "en": "quesadilla",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "케밥",
   "en": "kebab",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "케밥",
   "en": "kebab",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "케밥",
   "en": "kebab",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "커리",
   "en": "indian curry",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "커리",
   "en": "indian curry",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "커리",
   "en": "indian curry",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "난",
   "en": "naan bread",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "난",
   "en": "naan bread",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "난",
   "en": "naan bread",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음 쌀국수",
   "en": "stir-fried rice noodles",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음 쌀국수",
   "en": "stir-fried rice noodles",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "볶음 쌀국수",
   "en": "stir-fried rice noodles",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "반미",
   "en": "banh mi sandwich",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "반미",
   "en": "banh mi sandwich",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "반미",
   "en": "banh mi sandwich",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "나시고렝",
   "en": "nasi goreng",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "나시고렝",
   "en": "nasi goreng",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "나시고렝",
   "en": "nasi goreng",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "똠얌꿍",
   "en": "tom yum soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "똠얌꿍",
   "en": "tom yum soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "똠얌꿍",
   "en": "tom yum soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "포케",
   "en": "poke bowl",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "포케",
   "en": "poke bowl",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "포케",
   "en": "poke bowl",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "시저 샐러드",
   "en": "caesar salad",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "시저 샐러드",
   "en": "caesar salad",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "시저 샐러드",
   "en": "caesar salad",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "과일 샐러드",
   "en": "fruit salad",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "과일 샐러드",
   "en": "fruit salad",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "과일 샐러드",
   "en": "fruit salad",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "요거트",
   "en": "yogurt",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "요거트",
   "en": "yogurt",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "요거트",
   "en": "yogurt",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "그래놀라",
   "en": "granola",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "그래놀라",
   "en": "granola",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "그래놀라",
   "en": "granola",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "오트밀",
   "en": "oatmeal",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오트밀",
   "en": "oatmeal",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "오트밀",
   "en": "oatmeal",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "스크램블 에그",
   "en": "scrambled eggs",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "스크램블 에그",
   "en": "scrambled eggs",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "스크램블 에그",
   "en": "scrambled eggs",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "에그 베네딕트",
   "en": "eggs benedict",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "에그 베네딕트",
   "en": "eggs benedict",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "에그 베네딕트",
   "en": "eggs benedict",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "프렌치 토스트",
   "en": "french toast",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "프렌치 토스트",
   "en": "french toast",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "프렌치 토스트",
   "en": "french toast",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "핫케이크",
   "en": "hotcakes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "핫케이크",
   "en": "hotcakes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "핫케이크",
   "en": "hotcakes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "소금빵",
   "en": "salt butter roll",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "소금빵",
   "en": "salt butter roll",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "소금빵",
   "en": "salt butter roll",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "단팥빵",
   "en": "red bean bread",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "단팥빵",
   "en": "red bean bread",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "단팥빵",
   "en": "red bean bread",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "소보로빵",
   "en": "soboro streusel bread",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "소보로빵",
   "en": "soboro streusel bread",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "소보로빵",
   "en": "soboro streusel bread",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "크림빵",
   "en": "cream bun",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "크림빵",
   "en": "cream bun",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "크림빵",
   "en": "cream bun",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "모닝빵",
   "en": "dinner roll",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "모닝빵",
   "en": "dinner roll",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "모닝빵",
   "en": "dinner roll",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "바게트",
   "en": "baguette",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "바게트",
   "en": "baguette",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "바게트",
   "en": "baguette",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "치아바타",
   "en": "ciabatta",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "치아바타",
   "en": "ciabatta",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "치아바타",
   "en": "ciabatta",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "머핀",
   "en": "muffin",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "머핀",
   "en": "muffin",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "머핀",
   "en": "muffin",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "스콘",
   "en": "scone",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "스콘",
   "en": "scone",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "스콘",
   "en": "scone",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "마들렌",
   "en": "madeleine",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "마들렌",
   "en": "madeleine",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "마들렌",
   "en": "madeleine",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "에그타르트",
   "en": "egg tart",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "에그타르트",
   "en": "egg tart",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "에그타르트",
   "en": "egg tart",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "치즈케이크",
   "en": "cheesecake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "치즈케이크",
   "en": "cheesecake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "치즈케이크",
   "en": "cheesecake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "티라미수",
   "en": "tiramisu",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "티라미수",
   "en": "tiramisu",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "티라미수",
   "en": "tiramisu",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "롤케이크",
   "en": "roll cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "롤케이크",
   "en": "roll cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "롤케이크",
   "en": "roll cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "생크림 케이크",
   "en": "strawberry cream cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "생크림 케이크",
   "en": "strawberry cream cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "생크림 케이크",
   "en": "strawberry cream cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "초코케이크",
   "en": "chocolate cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "초코케이크",
   "en": "chocolate cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "초코케이크",
   "en": "chocolate cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/빵·디저트"
  },
  {
   "ko": "브라우니",
   "en": "brownie",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "브라우니",
   "en": "brownie",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "브라우니",
   "en": "brownie",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "푸딩",
   "en": "pudding",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "푸딩",
   "en": "pudding",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "푸딩",
   "en": "pudding",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "약과",
   "en": "yakgwa honey cookie",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "약과",
   "en": "yakgwa honey cookie",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "약과",
   "en": "yakgwa honey cookie",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "인절미",
   "en": "injeolmi rice cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "인절미",
   "en": "injeolmi rice cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "인절미",
   "en": "injeolmi rice cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "송편",
   "en": "songpyeon rice cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "송편",
   "en": "songpyeon rice cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "송편",
   "en": "songpyeon rice cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "꿀떡",
   "en": "honey rice cake",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "꿀떡",
   "en": "honey rice cake",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "꿀떡",
   "en": "honey rice cake",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "떡",
+  "path": "음식/밥·면"
  },
  {
   "ko": "떡꼬치",
   "en": "rice cake skewers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "떡꼬치",
   "en": "rice cake skewers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "떡꼬치",
   "en": "rice cake skewers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "달고나",
   "en": "dalgona honeycomb candy",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "달고나",
   "en": "dalgona honeycomb candy",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "달고나",
   "en": "dalgona honeycomb candy",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "탕후루",
   "en": "tanghulu candied fruit",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "탕후루",
   "en": "tanghulu candied fruit",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "탕후루",
   "en": "tanghulu candied fruit",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "츄러스",
   "en": "churros",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "츄러스",
   "en": "churros",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "츄러스",
   "en": "churros",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "솜사탕",
   "en": "cotton candy",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "솜사탕",
   "en": "cotton candy",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "솜사탕",
   "en": "cotton candy",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "붕어싸만코",
   "en": "fish-shaped ice cream sandwich",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "붕어싸만코",
   "en": "fish-shaped ice cream sandwich",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "붕어싸만코",
   "en": "fish-shaped ice cream sandwich",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "아이스크림콘",
   "en": "ice cream cone",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "아이스크림콘",
   "en": "ice cream cone",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "아이스크림콘",
   "en": "ice cream cone",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "셔벗",
   "en": "sorbet",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "셔벗",
   "en": "sorbet",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "셔벗",
   "en": "sorbet",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "젤라또",
   "en": "gelato",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "젤라또",
   "en": "gelato",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "젤라또",
   "en": "gelato",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "감자칩",
   "en": "potato chips",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "감자칩",
   "en": "potato chips",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "감자칩",
   "en": "potato chips",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "새우깡",
   "en": "shrimp crackers",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "새우깡",
   "en": "shrimp crackers",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "새우깡",
   "en": "shrimp crackers",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "초코파이",
   "en": "choco pie",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "초코파이",
   "en": "choco pie",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "초코파이",
   "en": "choco pie",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "빼빼로",
   "en": "pepero chocolate sticks",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "빼빼로",
   "en": "pepero chocolate sticks",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "빼빼로",
   "en": "pepero chocolate sticks",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "젤리곰",
   "en": "gummy bears",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "젤리곰",
   "en": "gummy bears",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "젤리곰",
   "en": "gummy bears",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "마시멜로",
   "en": "marshmallows",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "마시멜로",
   "en": "marshmallows",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "마시멜로",
   "en": "marshmallows",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "땅콩",
   "en": "peanuts",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "땅콩",
   "en": "peanuts",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "땅콩",
   "en": "peanuts",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과자·간식"
  },
  {
   "ko": "아몬드",
   "en": "almonds",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "아몬드",
   "en": "almonds",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "아몬드",
   "en": "almonds",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "호두",
   "en": "walnuts",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "호두",
   "en": "walnuts",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "호두",
   "en": "walnuts",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "밤",
   "en": "chestnuts",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "밤",
   "en": "chestnuts",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "밤",
   "en": "chestnuts",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "고구마 말랭이",
   "en": "dried sweet potato",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "고구마 말랭이",
   "en": "dried sweet potato",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "고구마 말랭이",
   "en": "dried sweet potato",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "육포",
   "en": "beef jerky",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "육포",
   "en": "beef jerky",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "육포",
   "en": "beef jerky",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "에스프레소",
   "en": "espresso",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "커피",
+  "path": "음식/음료"
  },
  {
   "ko": "에스프레소",
   "en": "espresso",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "커피",
+  "path": "음식/음료"
  },
  {
   "ko": "에스프레소",
   "en": "espresso",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "커피",
+  "path": "음식/음료"
  },
  {
   "ko": "카푸치노",
   "en": "cappuccino",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "라테",
+  "path": "음식/음료"
  },
  {
   "ko": "카푸치노",
   "en": "cappuccino",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "라테",
+  "path": "음식/음료"
  },
  {
   "ko": "카푸치노",
   "en": "cappuccino",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "라테",
+  "path": "음식/음료"
  },
  {
   "ko": "카페모카",
   "en": "cafe mocha",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "카페모카",
   "en": "cafe mocha",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "카페모카",
   "en": "cafe mocha",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "콜드브루",
   "en": "cold brew coffee",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "콜드브루",
   "en": "cold brew coffee",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "콜드브루",
   "en": "cold brew coffee",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "믹스커피",
   "en": "instant coffee stick",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "믹스커피",
   "en": "instant coffee stick",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "믹스커피",
   "en": "instant coffee stick",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "홍차",
   "en": "black tea",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "홍차",
   "en": "black tea",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "홍차",
   "en": "black tea",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "밀크티",
   "en": "milk tea",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "밀크티",
   "en": "milk tea",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "밀크티",
   "en": "milk tea",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "유자차",
   "en": "yuja citron tea",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "유자차",
   "en": "yuja citron tea",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "유자차",
   "en": "yuja citron tea",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "보리차",
   "en": "barley tea",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "보리차",
   "en": "barley tea",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "보리차",
   "en": "barley tea",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "식혜",
   "en": "sikhye sweet rice drink",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "식혜",
   "en": "sikhye sweet rice drink",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "식혜",
   "en": "sikhye sweet rice drink",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "수정과",
   "en": "sujeonggwa cinnamon punch",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "수정과",
   "en": "sujeonggwa cinnamon punch",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "수정과",
   "en": "sujeonggwa cinnamon punch",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "에이드",
   "en": "fruit ade",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "에이드",
   "en": "fruit ade",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "에이드",
   "en": "fruit ade",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "스무디",
   "en": "smoothie",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "스무디",
   "en": "smoothie",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "스무디",
   "en": "smoothie",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "요구르트 음료",
   "en": "yakult probiotic drink",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "요구르트 음료",
   "en": "yakult probiotic drink",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "요구르트 음료",
   "en": "yakult probiotic drink",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "콜라",
   "en": "cola",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "콜라",
   "en": "cola",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "콜라",
   "en": "cola",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "사이다",
   "en": "lemon-lime soda",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "사이다",
   "en": "lemon-lime soda",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "사이다",
   "en": "lemon-lime soda",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "탄산수",
   "en": "sparkling water",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "탄산수",
   "en": "sparkling water",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "탄산수",
   "en": "sparkling water",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "생수",
   "en": "bottled water",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "생수",
   "en": "bottled water",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "생수",
   "en": "bottled water",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "이온음료",
   "en": "sports drink",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "이온음료",
   "en": "sports drink",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "이온음료",
   "en": "sports drink",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "에너지드링크",
   "en": "energy drink",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "에너지드링크",
   "en": "energy drink",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "에너지드링크",
   "en": "energy drink",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "두유",
   "en": "soy milk",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "두유",
   "en": "soy milk",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "두유",
   "en": "soy milk",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "초코우유",
   "en": "chocolate milk",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "초코우유",
   "en": "chocolate milk",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "초코우유",
   "en": "chocolate milk",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "바나나우유",
   "en": "banana flavored milk",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "바나나우유",
   "en": "banana flavored milk",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "바나나우유",
   "en": "banana flavored milk",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "막걸리",
   "en": "makgeolli rice wine",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "막걸리",
   "en": "makgeolli rice wine",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "막걸리",
   "en": "makgeolli rice wine",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "위스키",
   "en": "whisky",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "위스키",
   "en": "whisky",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "위스키",
   "en": "whisky",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "칵테일",
   "en": "cocktail",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "칵테일",
   "en": "cocktail",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "칵테일",
   "en": "cocktail",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "하이볼",
   "en": "highball",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "하이볼",
   "en": "highball",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "하이볼",
   "en": "highball",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "샴페인",
   "en": "champagne",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "샴페인",
   "en": "champagne",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "샴페인",
   "en": "champagne",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "레몬",
   "en": "lemon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "레몬",
   "en": "lemon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "레몬",
   "en": "lemon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "라임",
   "en": "lime",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "라임",
   "en": "lime",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "라임",
   "en": "lime",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "자몽",
   "en": "grapefruit",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "자몽",
   "en": "grapefruit",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "자몽",
   "en": "grapefruit",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "체리",
   "en": "cherries",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "체리",
   "en": "cherries",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "체리",
   "en": "cherries",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "자두",
   "en": "plum",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "자두",
   "en": "plum",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "자두",
   "en": "plum",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "살구",
   "en": "apricot",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "살구",
   "en": "apricot",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "살구",
   "en": "apricot",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "석류",
   "en": "pomegranate",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "석류",
   "en": "pomegranate",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "석류",
   "en": "pomegranate",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "무화과",
   "en": "fig",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "무화과",
   "en": "fig",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "무화과",
   "en": "fig",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "아보카도",
   "en": "avocado",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "아보카도",
   "en": "avocado",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "아보카도",
   "en": "avocado",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "코코넛",
   "en": "coconut",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "코코넛",
   "en": "coconut",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "코코넛",
   "en": "coconut",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "멜론",
   "en": "melon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "멜론",
   "en": "melon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "멜론",
   "en": "melon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "한라봉",
   "en": "hallabong citrus",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "한라봉",
   "en": "hallabong citrus",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "한라봉",
   "en": "hallabong citrus",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "샤인머스캣",
   "en": "shine muscat grapes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "샤인머스캣",
   "en": "shine muscat grapes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "샤인머스캣",
   "en": "shine muscat grapes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "방울토마토",
   "en": "cherry tomatoes",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "방울토마토",
   "en": "cherry tomatoes",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "방울토마토",
   "en": "cherry tomatoes",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "대추",
   "en": "jujube",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "대추",
   "en": "jujube",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "대추",
   "en": "jujube",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "무",
   "en": "korean radish",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "무",
   "en": "korean radish",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "무",
   "en": "korean radish",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/반찬·가공식품"
  },
  {
   "ko": "연근",
   "en": "lotus root",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "연근",
   "en": "lotus root",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "연근",
   "en": "lotus root",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "우엉",
   "en": "burdock root",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "우엉",
   "en": "burdock root",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "우엉",
   "en": "burdock root",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "생강",
   "en": "ginger root",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "생강",
   "en": "ginger root",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "생강",
   "en": "ginger root",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "부추",
   "en": "garlic chives",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "부추",
   "en": "garlic chives",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "부추",
   "en": "garlic chives",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "깻잎",
   "en": "perilla leaves",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "깻잎",
   "en": "perilla leaves",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "깻잎",
   "en": "perilla leaves",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "미나리",
   "en": "water parsley",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "미나리",
   "en": "water parsley",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "미나리",
   "en": "water parsley",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "청경채",
   "en": "bok choy",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "청경채",
   "en": "bok choy",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "청경채",
   "en": "bok choy",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "콩나물",
   "en": "bean sprouts",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "콩나물무침",
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩나물",
   "en": "bean sprouts",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "콩나물무침",
+  "path": "음식/밥·면"
  },
  {
   "ko": "콩나물",
   "en": "bean sprouts",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "콩나물무침",
+  "path": "음식/밥·면"
  },
  {
   "ko": "애호박",
   "en": "zucchini",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "애호박",
   "en": "zucchini",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "애호박",
   "en": "zucchini",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "단호박",
   "en": "kabocha squash",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "단호박",
   "en": "kabocha squash",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "단호박",
   "en": "kabocha squash",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "아스파라거스",
   "en": "asparagus",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "아스파라거스",
   "en": "asparagus",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "아스파라거스",
   "en": "asparagus",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "셀러리",
   "en": "celery",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "셀러리",
   "en": "celery",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "셀러리",
   "en": "celery",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "콜리플라워",
   "en": "cauliflower",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "콜리플라워",
   "en": "cauliflower",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "콜리플라워",
   "en": "cauliflower",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "비트",
   "en": "beetroot",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "비트",
   "en": "beetroot",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "비트",
   "en": "beetroot",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "표고버섯",
   "en": "shiitake mushrooms",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "표고버섯",
   "en": "shiitake mushrooms",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "표고버섯",
   "en": "shiitake mushrooms",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  },
  {
   "ko": "팽이버섯",
   "en": "enoki mushrooms",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "팽이버섯",
   "en": "enoki mushrooms",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "팽이버섯",
   "en": "enoki mushrooms",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "새송이버섯",
   "en": "king oyster mushrooms",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새송이버섯",
   "en": "king oyster mushrooms",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "새송이버섯",
   "en": "king oyster mushrooms",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "김",
   "en": "dried seaweed laver",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "김",
   "en": "dried seaweed laver",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "김",
   "en": "dried seaweed laver",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "미역",
   "en": "dried seaweed wakame",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "미역",
   "en": "dried seaweed wakame",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "미역",
   "en": "dried seaweed wakame",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "다시마",
   "en": "kelp",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "다시마",
   "en": "kelp",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "다시마",
   "en": "kelp",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "전복",
   "en": "abalone",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "전복",
   "en": "abalone",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "전복",
   "en": "abalone",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "굴",
   "en": "oysters",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "굴",
   "en": "oysters",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "굴",
   "en": "oysters",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "홍합",
   "en": "mussels",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "홍합",
   "en": "mussels",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "홍합",
   "en": "mussels",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "조개",
   "en": "clams",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "조개",
   "en": "clams",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "조개",
   "en": "clams",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "가리비",
   "en": "scallops",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "가리비",
   "en": "scallops",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "가리비",
   "en": "scallops",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "문어",
   "en": "octopus",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "문어",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "문어",
   "en": "octopus",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "문어",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "문어",
   "en": "octopus",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "문어",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "낙지",
   "en": "small octopus",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "문어",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "낙지",
   "en": "small octopus",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "문어",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "낙지",
   "en": "small octopus",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "문어",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "랍스터",
   "en": "lobster",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "랍스터",
   "en": "lobster",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "랍스터",
   "en": "lobster",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "대게",
   "en": "snow crab",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "대게",
   "en": "snow crab",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "대게",
   "en": "snow crab",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "연어",
   "en": "salmon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "연어",
   "en": "salmon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "연어",
   "en": "salmon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "참치",
   "en": "tuna",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "참치",
   "en": "tuna",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "참치",
   "en": "tuna",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "고등어",
   "en": "mackerel",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "고등어",
   "en": "mackerel",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "고등어",
   "en": "mackerel",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "group": "고등어구이",
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "갈치",
   "en": "hairtail fish",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "갈치",
   "en": "hairtail fish",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "갈치",
   "en": "hairtail fish",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "멸치",
   "en": "dried anchovies",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "멸치",
   "en": "dried anchovies",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "멸치",
   "en": "dried anchovies",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "어묵탕",
   "en": "fish cake soup",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "어묵탕",
   "en": "fish cake soup",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "어묵탕",
   "en": "fish cake soup",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/국·찌개"
  },
  {
   "ko": "베이컨",
   "en": "bacon",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "베이컨",
   "en": "bacon",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "베이컨",
   "en": "bacon",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "살라미",
   "en": "salami",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "살라미",
   "en": "salami",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "살라미",
   "en": "salami",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/고기·해산물"
  },
  {
   "ko": "버터",
   "en": "butter",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "버터",
   "en": "butter",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "버터",
   "en": "butter",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "크림치즈",
   "en": "cream cheese",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "크림치즈",
   "en": "cream cheese",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "크림치즈",
   "en": "cream cheese",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "모짜렐라",
   "en": "mozzarella cheese",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/채소"
  },
  {
   "ko": "모짜렐라",
   "en": "mozzarella cheese",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/채소"
  },
  {
   "ko": "모짜렐라",
   "en": "mozzarella cheese",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/채소"
  },
  {
   "ko": "메추리알",
   "en": "quail eggs",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/밥·면"
  },
  {
   "ko": "메추리알",
   "en": "quail eggs",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/밥·면"
  },
  {
   "ko": "메추리알",
   "en": "quail eggs",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/밥·면"
  },
  {
   "ko": "꿀",
   "en": "honey jar",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "꿀",
   "en": "honey jar",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "꿀",
   "en": "honey jar",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "잼",
   "en": "jam jar",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/음료"
  },
  {
   "ko": "잼",
   "en": "jam jar",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/음료"
  },
  {
   "ko": "잼",
   "en": "jam jar",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/음료"
  },
  {
   "ko": "땅콩버터",
   "en": "peanut butter",
   "cat": "food",
-  "view": 0
+  "view": 0,
+  "path": "음식/과일"
  },
  {
   "ko": "땅콩버터",
   "en": "peanut butter",
   "cat": "food",
-  "view": 1
+  "view": 1,
+  "path": "음식/과일"
  },
  {
   "ko": "땅콩버터",
   "en": "peanut butter",
   "cat": "food",
-  "view": 2
+  "view": 2,
+  "path": "음식/과일"
  }
 ]

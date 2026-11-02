@@ -1,362 +1,94 @@
 [
  {
-  "ko": "네임펜",
-  "en": "permanent marker",
+  "ko": "스카치테이프",
+  "en": "clear tape dispenser",
   "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "네임펜",
-  "en": "permanent marker",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "네임펜",
-  "en": "permanent marker",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "네임펜",
-  "en": "permanent marker",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "보드마커",
-  "en": "whiteboard marker",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "보드마커",
-  "en": "whiteboard marker",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "보드마커",
-  "en": "whiteboard marker",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "보드마커",
-  "en": "whiteboard marker",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "노트",
-  "en": "notebook",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "노트",
-  "en": "notebook",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "노트",
-  "en": "notebook",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "노트",
-  "en": "notebook",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "스프링 노트",
-  "en": "spiral notebook",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "스프링 노트",
-  "en": "spiral notebook",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "스프링 노트",
-  "en": "spiral notebook",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "스프링 노트",
-  "en": "spiral notebook",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "메모지",
-  "en": "memo pad",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "메모지",
-  "en": "memo pad",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "메모지",
-  "en": "memo pad",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "메모지",
-  "en": "memo pad",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "커터칼(문구)",
-  "en": "box cutter",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "커터칼(문구)",
-  "en": "box cutter",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "커터칼(문구)",
-  "en": "box cutter",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "커터칼(문구)",
-  "en": "box cutter",
-  "cat": "stationery",
-  "view": 3
+  "view": 0,
+  "group": "테이프 커터",
+  "path": "문구·사무/사무용품"
  },
  {
   "ko": "스카치테이프",
   "en": "clear tape dispenser",
   "cat": "stationery",
-  "view": 0
+  "view": 1,
+  "group": "테이프 커터",
+  "path": "문구·사무/사무용품"
  },
  {
   "ko": "스카치테이프",
   "en": "clear tape dispenser",
   "cat": "stationery",
-  "view": 1
+  "view": 2,
+  "group": "테이프 커터",
+  "path": "문구·사무/사무용품"
  },
  {
   "ko": "스카치테이프",
   "en": "clear tape dispenser",
   "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "스카치테이프",
-  "en": "clear tape dispenser",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "집게 클립",
-  "en": "binder clips",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "집게 클립",
-  "en": "binder clips",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "집게 클립",
-  "en": "binder clips",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "집게 클립",
-  "en": "binder clips",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "펀치",
-  "en": "hole punch",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "펀치",
-  "en": "hole punch",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "펀치",
-  "en": "hole punch",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "펀치",
-  "en": "hole punch",
-  "cat": "stationery",
-  "view": 3
+  "view": 3,
+  "group": "테이프 커터",
+  "path": "문구·사무/사무용품"
  },
  {
   "ko": "클리어파일",
   "en": "clear file holder",
   "cat": "stationery",
-  "view": 0
+  "view": 0,
+  "group": "클리어 파일",
+  "path": "취미/음반·수집"
  },
  {
   "ko": "클리어파일",
   "en": "clear file holder",
   "cat": "stationery",
-  "view": 1
+  "view": 1,
+  "group": "클리어 파일",
+  "path": "취미/음반·수집"
  },
  {
   "ko": "클리어파일",
   "en": "clear file holder",
   "cat": "stationery",
-  "view": 2
+  "view": 2,
+  "group": "클리어 파일",
+  "path": "취미/음반·수집"
  },
  {
   "ko": "클리어파일",
   "en": "clear file holder",
   "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "바인더",
-  "en": "ring binder",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "바인더",
-  "en": "ring binder",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "바인더",
-  "en": "ring binder",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "바인더",
-  "en": "ring binder",
-  "cat": "stationery",
-  "view": 3
+  "view": 3,
+  "group": "클리어 파일",
+  "path": "취미/음반·수집"
  },
  {
   "ko": "인주",
   "en": "ink pad",
   "cat": "stationery",
-  "view": 0
+  "view": 0,
+  "path": "문구·사무/필기구"
  },
  {
   "ko": "인주",
   "en": "ink pad",
   "cat": "stationery",
-  "view": 1
+  "view": 1,
+  "path": "문구·사무/필기구"
  },
  {
   "ko": "인주",
   "en": "ink pad",
   "cat": "stationery",
-  "view": 2
+  "view": 2,
+  "path": "문구·사무/필기구"
  },
  {
   "ko": "인주",
   "en": "ink pad",
   "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "달력",
-  "en": "desk calendar",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "달력",
-  "en": "desk calendar",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "달력",
-  "en": "desk calendar",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "달력",
-  "en": "desk calendar",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "독서대",
-  "en": "book stand",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "독서대",
-  "en": "book stand",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "독서대",
-  "en": "book stand",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "독서대",
-  "en": "book stand",
-  "cat": "stationery",
-  "view": 3
- },
- {
-  "ko": "연필깎이",
-  "en": "pencil sharpener",
-  "cat": "stationery",
-  "view": 0
- },
- {
-  "ko": "연필깎이",
-  "en": "pencil sharpener",
-  "cat": "stationery",
-  "view": 1
- },
- {
-  "ko": "연필깎이",
-  "en": "pencil sharpener",
-  "cat": "stationery",
-  "view": 2
- },
- {
-  "ko": "연필깎이",
-  "en": "pencil sharpener",
-  "cat": "stationery",
-  "view": 3
+  "view": 3,
+  "path": "문구·사무/필기구"
  }
 ]

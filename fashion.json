@@ -1,122 +1,94 @@
 [
  {
-  "ko": "크록스",
-  "en": "clogs",
+  "ko": "바지",
+  "en": "trousers",
   "cat": "fashion",
-  "view": 0
- },
- {
-  "ko": "크록스",
-  "en": "clogs",
-  "cat": "fashion",
-  "view": 1
- },
- {
-  "ko": "크록스",
-  "en": "clogs",
-  "cat": "fashion",
-  "view": 2
- },
- {
-  "ko": "크록스",
-  "en": "clogs",
-  "cat": "fashion",
-  "view": 3
+  "view": 0,
+  "group": "슬랙스",
+  "path": "패션/의류"
  },
  {
   "ko": "바지",
   "en": "trousers",
   "cat": "fashion",
-  "view": 0
+  "view": 1,
+  "group": "슬랙스",
+  "path": "패션/의류"
  },
  {
   "ko": "바지",
   "en": "trousers",
   "cat": "fashion",
-  "view": 1
+  "view": 2,
+  "group": "슬랙스",
+  "path": "패션/의류"
  },
  {
   "ko": "바지",
   "en": "trousers",
   "cat": "fashion",
-  "view": 2
- },
- {
-  "ko": "바지",
-  "en": "trousers",
-  "cat": "fashion",
-  "view": 3
+  "view": 3,
+  "group": "슬랙스",
+  "path": "패션/의류"
  },
  {
   "ko": "자켓",
   "en": "jacket",
   "cat": "fashion",
-  "view": 0
+  "view": 0,
+  "group": "코트",
+  "path": "패션/의류"
  },
  {
   "ko": "자켓",
   "en": "jacket",
   "cat": "fashion",
-  "view": 1
+  "view": 1,
+  "group": "코트",
+  "path": "패션/의류"
  },
  {
   "ko": "자켓",
   "en": "jacket",
   "cat": "fashion",
-  "view": 2
+  "view": 2,
+  "group": "코트",
+  "path": "패션/의류"
  },
  {
   "ko": "자켓",
   "en": "jacket",
   "cat": "fashion",
-  "view": 3
- },
- {
-  "ko": "카드지갑",
-  "en": "card holder",
-  "cat": "fashion",
-  "view": 0
- },
- {
-  "ko": "카드지갑",
-  "en": "card holder",
-  "cat": "fashion",
-  "view": 1
- },
- {
-  "ko": "카드지갑",
-  "en": "card holder",
-  "cat": "fashion",
-  "view": 2
- },
- {
-  "ko": "카드지갑",
-  "en": "card holder",
-  "cat": "fashion",
-  "view": 3
+  "view": 3,
+  "group": "코트",
+  "path": "패션/의류"
  },
  {
   "ko": "양산",
   "en": "parasol",
   "cat": "fashion",
-  "view": 0
+  "view": 0,
+  "path": "생활/생활잡화"
  },
  {
   "ko": "양산",
   "en": "parasol",
   "cat": "fashion",
-  "view": 1
+  "view": 1,
+  "path": "생활/생활잡화"
  },
  {
   "ko": "양산",
   "en": "parasol",
   "cat": "fashion",
-  "view": 2
+  "view": 2,
+  "path": "생활/생활잡화"
  },
  {
   "ko": "양산",
   "en": "parasol",
   "cat": "fashion",
-  "view": 3
+  "view": 3,
+  "path": "생활/생활잡화"
  }
 ]

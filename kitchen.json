@@ -3,408 +3,176 @@
   "ko": "체망",
   "en": "strainer",
   "cat": "kitchen",
-  "view": 0
+  "view": 0,
+  "path": "주방/조리도구"
  },
  {
   "ko": "체망",
   "en": "strainer",
   "cat": "kitchen",
-  "view": 1
+  "view": 1,
+  "path": "주방/조리도구"
  },
  {
   "ko": "체망",
   "en": "strainer",
   "cat": "kitchen",
-  "view": 2
+  "view": 2,
+  "path": "주방/조리도구"
  },
  {
   "ko": "체망",
   "en": "strainer",
   "cat": "kitchen",
-  "view": 3
+  "view": 3,
+  "path": "주방/조리도구"
  },
  {
   "ko": "유리 밀폐용기",
   "en": "glass food container",
   "cat": "kitchen",
-  "view": 0
+  "view": 0,
+  "path": "주방/보관용기"
  },
  {
   "ko": "유리 밀폐용기",
   "en": "glass food container",
   "cat": "kitchen",
-  "view": 1
+  "view": 1,
+  "path": "주방/보관용기"
  },
  {
   "ko": "유리 밀폐용기",
   "en": "glass food container",
   "cat": "kitchen",
-  "view": 2
+  "view": 2,
+  "path": "주방/보관용기"
  },
  {
   "ko": "유리 밀폐용기",
   "en": "glass food container",
   "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "보온 도시락",
-  "en": "insulated lunch box",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "보온 도시락",
-  "en": "insulated lunch box",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "보온 도시락",
-  "en": "insulated lunch box",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "보온 도시락",
-  "en": "insulated lunch box",
-  "cat": "kitchen",
-  "view": 3
+  "view": 3,
+  "path": "주방/보관용기"
  },
  {
   "ko": "국그릇",
   "en": "soup bowl",
   "cat": "kitchen",
-  "view": 0
+  "view": 0,
+  "path": "주방/식기"
  },
  {
   "ko": "국그릇",
   "en": "soup bowl",
   "cat": "kitchen",
-  "view": 1
+  "view": 1,
+  "path": "주방/식기"
  },
  {
   "ko": "국그릇",
   "en": "soup bowl",
   "cat": "kitchen",
-  "view": 2
+  "view": 2,
+  "path": "주방/식기"
  },
  {
   "ko": "국그릇",
   "en": "soup bowl",
   "cat": "kitchen",
-  "view": 3
+  "view": 3,
+  "path": "주방/식기"
  },
  {
   "ko": "수저 세트",
   "en": "spoon and chopsticks set",
   "cat": "kitchen",
-  "view": 0
+  "view": 0,
+  "group": "일회용 수저",
+  "path": "주방/식기"
  },
  {
   "ko": "수저 세트",
   "en": "spoon and chopsticks set",
   "cat": "kitchen",
-  "view": 1
+  "view": 1,
+  "group": "일회용 수저",
+  "path": "주방/식기"
  },
  {
   "ko": "수저 세트",
   "en": "spoon and chopsticks set",
   "cat": "kitchen",
-  "view": 2
+  "view": 2,
+  "group": "일회용 수저",
+  "path": "주방/식기"
  },
  {
   "ko": "수저 세트",
   "en": "spoon and chopsticks set",
   "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "티스푼",
-  "en": "teaspoon",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "티스푼",
-  "en": "teaspoon",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "티스푼",
-  "en": "teaspoon",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "티스푼",
-  "en": "teaspoon",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "전기밥솥",
-  "en": "rice cooker",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "전기밥솥",
-  "en": "rice cooker",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "전기밥솥",
-  "en": "rice cooker",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "전기밥솥",
-  "en": "rice cooker",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "핸드드립 커피포트",
-  "en": "pour-over coffee kettle",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "핸드드립 커피포트",
-  "en": "pour-over coffee kettle",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "핸드드립 커피포트",
-  "en": "pour-over coffee kettle",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "핸드드립 커피포트",
-  "en": "pour-over coffee kettle",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "커피 드리퍼",
-  "en": "coffee dripper",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "커피 드리퍼",
-  "en": "coffee dripper",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "커피 드리퍼",
-  "en": "coffee dripper",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "커피 드리퍼",
-  "en": "coffee dripper",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "정수기 필터 물병",
-  "en": "water filter pitcher",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "정수기 필터 물병",
-  "en": "water filter pitcher",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "정수기 필터 물병",
-  "en": "water filter pitcher",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "정수기 필터 물병",
-  "en": "water filter pitcher",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "식용유 병",
-  "en": "cooking oil bottle",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "식용유 병",
-  "en": "cooking oil bottle",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "식용유 병",
-  "en": "cooking oil bottle",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "식용유 병",
-  "en": "cooking oil bottle",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "간장 병",
-  "en": "soy sauce bottle",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "간장 병",
-  "en": "soy sauce bottle",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "간장 병",
-  "en": "soy sauce bottle",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "간장 병",
-  "en": "soy sauce bottle",
-  "cat": "kitchen",
-  "view": 3
+  "view": 3,
+  "group": "일회용 수저",
+  "path": "주방/식기"
  },
  {
   "ko": "고추장 통",
   "en": "gochujang container",
   "cat": "kitchen",
-  "view": 0
+  "view": 0,
+  "path": "주방/보관용기"
  },
  {
   "ko": "고추장 통",
   "en": "gochujang container",
   "cat": "kitchen",
-  "view": 1
+  "view": 1,
+  "path": "주방/보관용기"
  },
  {
   "ko": "고추장 통",
   "en": "gochujang container",
   "cat": "kitchen",
-  "view": 2
+  "view": 2,
+  "path": "주방/보관용기"
  },
  {
   "ko": "고추장 통",
   "en": "gochujang container",
   "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "설거지 세제",
-  "en": "dish soap bottle",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "설거지 세제",
-  "en": "dish soap bottle",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "설거지 세제",
-  "en": "dish soap bottle",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "설거지 세제",
-  "en": "dish soap bottle",
-  "cat": "kitchen",
-  "view": 3
+  "view": 3,
+  "path": "주방/보관용기"
  },
  {
   "ko": "주방 타월",
   "en": "kitchen towel",
   "cat": "kitchen",
-  "view": 0
+  "view": 0,
+  "group": "수건",
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 타월",
   "en": "kitchen towel",
   "cat": "kitchen",
-  "view": 1
+  "view": 1,
+  "group": "수건",
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 타월",
   "en": "kitchen towel",
   "cat": "kitchen",
-  "view": 2
+  "view": 2,
+  "group": "수건",
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 타월",
   "en": "kitchen towel",
   "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "식기 건조대",
-  "en": "dish drying rack",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "식기 건조대",
-  "en": "dish drying rack",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "식기 건조대",
-  "en": "dish drying rack",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "식기 건조대",
-  "en": "dish drying rack",
-  "cat": "kitchen",
-  "view": 3
- },
- {
-  "ko": "가위(주방)",
-  "en": "kitchen scissors",
-  "cat": "kitchen",
-  "view": 0
- },
- {
-  "ko": "가위(주방)",
-  "en": "kitchen scissors",
-  "cat": "kitchen",
-  "view": 1
- },
- {
-  "ko": "가위(주방)",
-  "en": "kitchen scissors",
-  "cat": "kitchen",
-  "view": 2
- },
- {
-  "ko": "가위(주방)",
-  "en": "kitchen scissors",
-  "cat": "kitchen",
-  "view": 3
+  "view": 3,
+  "group": "수건",
+  "path": "생활/세탁용품"
  }
 ]

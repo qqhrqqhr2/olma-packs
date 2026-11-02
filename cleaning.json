@@ -1,626 +1,294 @@
 [
  {
-  "ko": "세탁 세제",
-  "en": "laundry detergent bottle",
+  "ko": "가루 세제",
+  "en": "laundry powder box",
   "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "세탁 세제",
-  "en": "laundry detergent bottle",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "세탁 세제",
-  "en": "laundry detergent bottle",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "세탁 세제",
-  "en": "laundry detergent bottle",
-  "cat": "cleaning",
-  "view": 3
+  "view": 0,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "가루 세제",
   "en": "laundry powder box",
   "cat": "cleaning",
-  "view": 0
+  "view": 1,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "가루 세제",
   "en": "laundry powder box",
   "cat": "cleaning",
-  "view": 1
+  "view": 2,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "가루 세제",
   "en": "laundry powder box",
   "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "가루 세제",
-  "en": "laundry powder box",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "표백제",
-  "en": "bleach bottle",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "표백제",
-  "en": "bleach bottle",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "표백제",
-  "en": "bleach bottle",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "표백제",
-  "en": "bleach bottle",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 세제",
   "en": "dishwashing liquid",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 세제",
   "en": "dishwashing liquid",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 세제",
   "en": "dishwashing liquid",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "주방 세제",
   "en": "dishwashing liquid",
   "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "생활/세탁용품"
  },
  {
   "ko": "욕실 세정제",
   "en": "bathroom cleaner spray",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "path": "생활/청소용품"
  },
  {
   "ko": "욕실 세정제",
   "en": "bathroom cleaner spray",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "path": "생활/청소용품"
  },
  {
   "ko": "욕실 세정제",
   "en": "bathroom cleaner spray",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "path": "생활/청소용품"
  },
  {
   "ko": "욕실 세정제",
   "en": "bathroom cleaner spray",
   "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "곰팡이 제거제",
-  "en": "mold remover spray",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "곰팡이 제거제",
-  "en": "mold remover spray",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "곰팡이 제거제",
-  "en": "mold remover spray",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "곰팡이 제거제",
-  "en": "mold remover spray",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "유리 세정제",
-  "en": "glass cleaner spray",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "유리 세정제",
-  "en": "glass cleaner spray",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "유리 세정제",
-  "en": "glass cleaner spray",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "유리 세정제",
-  "en": "glass cleaner spray",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "생활/청소용품"
  },
  {
   "ko": "에어로졸 살충제",
   "en": "aerosol insect spray can",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "group": "스프레이 캔",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "에어로졸 살충제",
   "en": "aerosol insect spray can",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "group": "스프레이 캔",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "에어로졸 살충제",
   "en": "aerosol insect spray can",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "group": "스프레이 캔",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "에어로졸 살충제",
   "en": "aerosol insect spray can",
   "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "group": "스프레이 캔",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "전자 모기향",
   "en": "electric mosquito repellent",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "group": "모기 퇴치기",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "전자 모기향",
   "en": "electric mosquito repellent",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "group": "모기 퇴치기",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "전자 모기향",
   "en": "electric mosquito repellent",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "group": "모기 퇴치기",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "전자 모기향",
   "en": "electric mosquito repellent",
   "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "섬유 탈취제",
-  "en": "fabric deodorizer spray",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "섬유 탈취제",
-  "en": "fabric deodorizer spray",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "섬유 탈취제",
-  "en": "fabric deodorizer spray",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "섬유 탈취제",
-  "en": "fabric deodorizer spray",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "group": "모기 퇴치기",
+  "path": "생활/방역·살충"
  },
  {
   "ko": "미용 티슈",
   "en": "tissue box",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "path": "생활소모품/포장"
  },
  {
   "ko": "미용 티슈",
   "en": "tissue box",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "path": "생활소모품/포장"
  },
  {
   "ko": "미용 티슈",
   "en": "tissue box",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "path": "생활소모품/포장"
  },
  {
   "ko": "미용 티슈",
   "en": "tissue box",
   "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "생활소모품/포장"
  },
  {
   "ko": "손 세정제",
   "en": "hand soap pump bottle",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "path": "뷰티/향수"
  },
  {
   "ko": "손 세정제",
   "en": "hand soap pump bottle",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "path": "뷰티/향수"
  },
  {
   "ko": "손 세정제",
   "en": "hand soap pump bottle",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "path": "뷰티/향수"
  },
  {
   "ko": "손 세정제",
   "en": "hand soap pump bottle",
   "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "손 소독제",
-  "en": "hand sanitizer bottle",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "손 소독제",
-  "en": "hand sanitizer bottle",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "손 소독제",
-  "en": "hand sanitizer bottle",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "손 소독제",
-  "en": "hand sanitizer bottle",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "샴푸",
-  "en": "shampoo bottle",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "샴푸",
-  "en": "shampoo bottle",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "샴푸",
-  "en": "shampoo bottle",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "샴푸",
-  "en": "shampoo bottle",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "구강 청결제",
-  "en": "mouthwash bottle",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "구강 청결제",
-  "en": "mouthwash bottle",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "구강 청결제",
-  "en": "mouthwash bottle",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "구강 청결제",
-  "en": "mouthwash bottle",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "면도 크림",
-  "en": "shaving cream can",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "면도 크림",
-  "en": "shaving cream can",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "면도 크림",
-  "en": "shaving cream can",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "면도 크림",
-  "en": "shaving cream can",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "뷰티/향수"
  },
  {
   "ko": "샤워 타월",
   "en": "shower puff",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "path": "뷰티/헤어·바디"
  },
  {
   "ko": "샤워 타월",
   "en": "shower puff",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "path": "뷰티/헤어·바디"
  },
  {
   "ko": "샤워 타월",
   "en": "shower puff",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "path": "뷰티/헤어·바디"
  },
  {
   "ko": "샤워 타월",
   "en": "shower puff",
   "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "변기 솔",
-  "en": "toilet brush",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "변기 솔",
-  "en": "toilet brush",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "변기 솔",
-  "en": "toilet brush",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "변기 솔",
-  "en": "toilet brush",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "뷰티/헤어·바디"
  },
  {
   "ko": "청소 솔",
   "en": "cleaning brush",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "group": "설거지 솔",
+  "path": "생활/청소용품"
  },
  {
   "ko": "청소 솔",
   "en": "cleaning brush",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "group": "설거지 솔",
+  "path": "생활/청소용품"
  },
  {
   "ko": "청소 솔",
   "en": "cleaning brush",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "group": "설거지 솔",
+  "path": "생활/청소용품"
  },
  {
   "ko": "청소 솔",
   "en": "cleaning brush",
   "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "밀대 걸레",
-  "en": "floor mop",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "밀대 걸레",
-  "en": "floor mop",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "밀대 걸레",
-  "en": "floor mop",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "밀대 걸레",
-  "en": "floor mop",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "돌돌이 테이프 클리너",
-  "en": "lint roller",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "돌돌이 테이프 클리너",
-  "en": "lint roller",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "돌돌이 테이프 클리너",
-  "en": "lint roller",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "돌돌이 테이프 클리너",
-  "en": "lint roller",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "group": "설거지 솔",
+  "path": "생활/청소용품"
  },
  {
   "ko": "쓰레기봉투",
   "en": "garbage bag roll",
   "cat": "cleaning",
-  "view": 0
+  "view": 0,
+  "path": "패션/가방"
  },
  {
   "ko": "쓰레기봉투",
   "en": "garbage bag roll",
   "cat": "cleaning",
-  "view": 1
+  "view": 1,
+  "path": "패션/가방"
  },
  {
   "ko": "쓰레기봉투",
   "en": "garbage bag roll",
   "cat": "cleaning",
-  "view": 2
+  "view": 2,
+  "path": "패션/가방"
  },
  {
   "ko": "쓰레기봉투",
   "en": "garbage bag roll",
   "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "세탁망",
-  "en": "laundry mesh bag",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "세탁망",
-  "en": "laundry mesh bag",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "세탁망",
-  "en": "laundry mesh bag",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "세탁망",
-  "en": "laundry mesh bag",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "빨래 바구니",
-  "en": "laundry basket",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "빨래 바구니",
-  "en": "laundry basket",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "빨래 바구니",
-  "en": "laundry basket",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "빨래 바구니",
-  "en": "laundry basket",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "빨래집게",
-  "en": "clothespin",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "빨래집게",
-  "en": "clothespin",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "빨래집게",
-  "en": "clothespin",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "빨래집게",
-  "en": "clothespin",
-  "cat": "cleaning",
-  "view": 3
- },
- {
-  "ko": "제습제",
-  "en": "moisture absorber",
-  "cat": "cleaning",
-  "view": 0
- },
- {
-  "ko": "제습제",
-  "en": "moisture absorber",
-  "cat": "cleaning",
-  "view": 1
- },
- {
-  "ko": "제습제",
-  "en": "moisture absorber",
-  "cat": "cleaning",
-  "view": 2
- },
- {
-  "ko": "제습제",
-  "en": "moisture absorber",
-  "cat": "cleaning",
-  "view": 3
+  "view": 3,
+  "path": "패션/가방"
  }
 ]

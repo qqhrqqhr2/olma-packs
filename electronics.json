@@ -1,362 +1,190 @@
 [
  {
-  "ko": "유선 이어폰",
-  "en": "wired earphones",
+  "ko": "SD카드",
+  "en": "memory card",
   "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "유선 이어폰",
-  "en": "wired earphones",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "유선 이어폰",
-  "en": "wired earphones",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "유선 이어폰",
-  "en": "wired earphones",
-  "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "무선 충전기",
-  "en": "wireless charging pad",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "무선 충전기",
-  "en": "wireless charging pad",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "무선 충전기",
-  "en": "wireless charging pad",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "무선 충전기",
-  "en": "wireless charging pad",
-  "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "스마트밴드",
-  "en": "fitness tracker band",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "스마트밴드",
-  "en": "fitness tracker band",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "스마트밴드",
-  "en": "fitness tracker band",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "스마트밴드",
-  "en": "fitness tracker band",
-  "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "외장 하드",
-  "en": "external hard drive",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "외장 하드",
-  "en": "external hard drive",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "외장 하드",
-  "en": "external hard drive",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "외장 하드",
-  "en": "external hard drive",
-  "cat": "electronics",
-  "view": 3
+  "view": 0,
+  "group": "SD 카드",
+  "path": "디지털/카메라"
  },
  {
   "ko": "SD카드",
   "en": "memory card",
   "cat": "electronics",
-  "view": 0
+  "view": 1,
+  "group": "SD 카드",
+  "path": "디지털/카메라"
  },
  {
   "ko": "SD카드",
   "en": "memory card",
   "cat": "electronics",
-  "view": 1
+  "view": 2,
+  "group": "SD 카드",
+  "path": "디지털/카메라"
  },
  {
   "ko": "SD카드",
   "en": "memory card",
   "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "SD카드",
-  "en": "memory card",
-  "cat": "electronics",
-  "view": 3
+  "view": 3,
+  "group": "SD 카드",
+  "path": "디지털/카메라"
  },
  {
   "ko": "디지털 카메라",
   "en": "digital camera",
   "cat": "electronics",
-  "view": 0
+  "view": 0,
+  "group": "카메라",
+  "path": "디지털/카메라"
  },
  {
   "ko": "디지털 카메라",
   "en": "digital camera",
   "cat": "electronics",
-  "view": 1
+  "view": 1,
+  "group": "카메라",
+  "path": "디지털/카메라"
  },
  {
   "ko": "디지털 카메라",
   "en": "digital camera",
   "cat": "electronics",
-  "view": 2
+  "view": 2,
+  "group": "카메라",
+  "path": "디지털/카메라"
  },
  {
   "ko": "디지털 카메라",
   "en": "digital camera",
   "cat": "electronics",
-  "view": 3
+  "view": 3,
+  "group": "카메라",
+  "path": "디지털/카메라"
  },
  {
   "ko": "게임기",
   "en": "game console",
   "cat": "electronics",
-  "view": 0
+  "view": 0,
+  "group": "게임 패드",
+  "path": "디지털/게임기"
  },
  {
   "ko": "게임기",
   "en": "game console",
   "cat": "electronics",
-  "view": 1
+  "view": 1,
+  "group": "게임 패드",
+  "path": "디지털/게임기"
  },
  {
   "ko": "게임기",
   "en": "game console",
   "cat": "electronics",
-  "view": 2
+  "view": 2,
+  "group": "게임 패드",
+  "path": "디지털/게임기"
  },
  {
   "ko": "게임기",
   "en": "game console",
   "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "셋톱박스",
-  "en": "set-top box",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "셋톱박스",
-  "en": "set-top box",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "셋톱박스",
-  "en": "set-top box",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "셋톱박스",
-  "en": "set-top box",
-  "cat": "electronics",
-  "view": 3
+  "view": 3,
+  "group": "게임 패드",
+  "path": "디지털/게임기"
  },
  {
   "ko": "휴대용 선풍기",
   "en": "handheld fan",
   "cat": "electronics",
-  "view": 0
+  "view": 0,
+  "group": "손 선풍기",
+  "path": "가전/계절가전"
  },
  {
   "ko": "휴대용 선풍기",
   "en": "handheld fan",
   "cat": "electronics",
-  "view": 1
+  "view": 1,
+  "group": "손 선풍기",
+  "path": "가전/계절가전"
  },
  {
   "ko": "휴대용 선풍기",
   "en": "handheld fan",
   "cat": "electronics",
-  "view": 2
+  "view": 2,
+  "group": "손 선풍기",
+  "path": "가전/계절가전"
  },
  {
   "ko": "휴대용 선풍기",
   "en": "handheld fan",
   "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "스마트 스피커",
-  "en": "smart speaker",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "스마트 스피커",
-  "en": "smart speaker",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "스마트 스피커",
-  "en": "smart speaker",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "스마트 스피커",
-  "en": "smart speaker",
-  "cat": "electronics",
-  "view": 3
+  "view": 3,
+  "group": "손 선풍기",
+  "path": "가전/계절가전"
  },
  {
   "ko": "계산기(공학용)",
   "en": "scientific calculator",
   "cat": "electronics",
-  "view": 0
+  "view": 0,
+  "group": "계산기",
+  "path": "디지털/게임기"
  },
  {
   "ko": "계산기(공학용)",
   "en": "scientific calculator",
   "cat": "electronics",
-  "view": 1
+  "view": 1,
+  "group": "계산기",
+  "path": "디지털/게임기"
  },
  {
   "ko": "계산기(공학용)",
   "en": "scientific calculator",
   "cat": "electronics",
-  "view": 2
+  "view": 2,
+  "group": "계산기",
+  "path": "디지털/게임기"
  },
  {
   "ko": "계산기(공학용)",
   "en": "scientific calculator",
   "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "멀티 어댑터",
-  "en": "travel adapter",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "멀티 어댑터",
-  "en": "travel adapter",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "멀티 어댑터",
-  "en": "travel adapter",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "멀티 어댑터",
-  "en": "travel adapter",
-  "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "노트북 거치대",
-  "en": "laptop stand",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "노트북 거치대",
-  "en": "laptop stand",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "노트북 거치대",
-  "en": "laptop stand",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "노트북 거치대",
-  "en": "laptop stand",
-  "cat": "electronics",
-  "view": 3
+  "view": 3,
+  "group": "계산기",
+  "path": "디지털/게임기"
  },
  {
   "ko": "휴대폰 거치대",
   "en": "phone stand",
   "cat": "electronics",
-  "view": 0
+  "view": 0,
+  "path": "가구·인테리어/가구"
  },
  {
   "ko": "휴대폰 거치대",
   "en": "phone stand",
   "cat": "electronics",
-  "view": 1
+  "view": 1,
+  "path": "가구·인테리어/가구"
  },
  {
   "ko": "휴대폰 거치대",
   "en": "phone stand",
   "cat": "electronics",
-  "view": 2
+  "view": 2,
+  "path": "가구·인테리어/가구"
  },
  {
   "ko": "휴대폰 거치대",
   "en": "phone stand",
   "cat": "electronics",
-  "view": 3
- },
- {
-  "ko": "셀카봉",
-  "en": "selfie stick",
-  "cat": "electronics",
-  "view": 0
- },
- {
-  "ko": "셀카봉",
-  "en": "selfie stick",
-  "cat": "electronics",
-  "view": 1
- },
- {
-  "ko": "셀카봉",
-  "en": "selfie stick",
-  "cat": "electronics",
-  "view": 2
- },
- {
-  "ko": "셀카봉",
-  "en": "selfie stick",
-  "cat": "electronics",
-  "view": 3
+  "view": 3,
+  "path": "가구·인테리어/가구"
  }
 ]

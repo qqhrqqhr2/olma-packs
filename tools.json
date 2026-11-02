@@ -1,554 +1,262 @@
 [
  {
-  "ko": "니퍼",
-  "en": "wire cutter",
+  "ko": "몽키 스패너",
+  "en": "adjustable wrench",
   "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "니퍼",
-  "en": "wire cutter",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "니퍼",
-  "en": "wire cutter",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "니퍼",
-  "en": "wire cutter",
-  "cat": "tools",
-  "view": 3
+  "view": 0,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "몽키 스패너",
   "en": "adjustable wrench",
   "cat": "tools",
-  "view": 0
+  "view": 1,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "몽키 스패너",
   "en": "adjustable wrench",
   "cat": "tools",
-  "view": 1
+  "view": 2,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "몽키 스패너",
   "en": "adjustable wrench",
   "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "몽키 스패너",
-  "en": "adjustable wrench",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "육각 렌치",
-  "en": "allen key set",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "육각 렌치",
-  "en": "allen key set",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "육각 렌치",
-  "en": "allen key set",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "육각 렌치",
-  "en": "allen key set",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "수평계",
-  "en": "spirit level",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "수평계",
-  "en": "spirit level",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "수평계",
-  "en": "spirit level",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "수평계",
-  "en": "spirit level",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "톱",
-  "en": "hand saw",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "톱",
-  "en": "hand saw",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "톱",
-  "en": "hand saw",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "톱",
-  "en": "hand saw",
-  "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "전동 드릴",
   "en": "cordless power drill",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "group": "전동드릴",
+  "path": "공구·DIY/전동공구"
  },
  {
   "ko": "전동 드릴",
   "en": "cordless power drill",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "group": "전동드릴",
+  "path": "공구·DIY/전동공구"
  },
  {
   "ko": "전동 드릴",
   "en": "cordless power drill",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "group": "전동드릴",
+  "path": "공구·DIY/전동공구"
  },
  {
   "ko": "전동 드릴",
   "en": "cordless power drill",
   "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "전동 드라이버",
-  "en": "electric screwdriver",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "전동 드라이버",
-  "en": "electric screwdriver",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "전동 드라이버",
-  "en": "electric screwdriver",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "전동 드라이버",
-  "en": "electric screwdriver",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "실리콘 건",
-  "en": "caulking gun",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "실리콘 건",
-  "en": "caulking gun",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "실리콘 건",
-  "en": "caulking gun",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "실리콘 건",
-  "en": "caulking gun",
-  "cat": "tools",
-  "view": 3
+  "view": 3,
+  "group": "전동드릴",
+  "path": "공구·DIY/전동공구"
  },
  {
   "ko": "타카",
   "en": "staple gun",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "타카",
   "en": "staple gun",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "타카",
   "en": "staple gun",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "타카",
   "en": "staple gun",
   "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "공구함",
-  "en": "toolbox",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "공구함",
-  "en": "toolbox",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "공구함",
-  "en": "toolbox",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "공구함",
-  "en": "toolbox",
-  "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "볼트 너트",
   "en": "bolts and nuts",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "path": "공구·DIY/철물·소모품"
  },
  {
   "ko": "볼트 너트",
   "en": "bolts and nuts",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "path": "공구·DIY/철물·소모품"
  },
  {
   "ko": "볼트 너트",
   "en": "bolts and nuts",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "path": "공구·DIY/철물·소모품"
  },
  {
   "ko": "볼트 너트",
   "en": "bolts and nuts",
   "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "케이블 타이",
-  "en": "cable ties",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "케이블 타이",
-  "en": "cable ties",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "케이블 타이",
-  "en": "cable ties",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "케이블 타이",
-  "en": "cable ties",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "절연 테이프",
-  "en": "electrical tape roll",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "절연 테이프",
-  "en": "electrical tape roll",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "절연 테이프",
-  "en": "electrical tape roll",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "절연 테이프",
-  "en": "electrical tape roll",
-  "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "공구·DIY/철물·소모품"
  },
  {
   "ko": "덕트 테이프",
   "en": "duct tape roll",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "덕트 테이프",
   "en": "duct tape roll",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "덕트 테이프",
   "en": "duct tape roll",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "덕트 테이프",
   "en": "duct tape roll",
   "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "양면 테이프",
   "en": "double-sided tape",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "group": "테이프",
+  "path": "디지털/카메라"
  },
  {
   "ko": "양면 테이프",
   "en": "double-sided tape",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "group": "테이프",
+  "path": "디지털/카메라"
  },
  {
   "ko": "양면 테이프",
   "en": "double-sided tape",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "group": "테이프",
+  "path": "디지털/카메라"
  },
  {
   "ko": "양면 테이프",
   "en": "double-sided tape",
   "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "순간접착제",
-  "en": "super glue tube",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "순간접착제",
-  "en": "super glue tube",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "순간접착제",
-  "en": "super glue tube",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "순간접착제",
-  "en": "super glue tube",
-  "cat": "tools",
-  "view": 3
+  "view": 3,
+  "group": "테이프",
+  "path": "디지털/카메라"
  },
  {
   "ko": "WD-40",
   "en": "lubricant spray can",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "path": "생활/방역·살충"
  },
  {
   "ko": "WD-40",
   "en": "lubricant spray can",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "path": "생활/방역·살충"
  },
  {
   "ko": "WD-40",
   "en": "lubricant spray can",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "path": "생활/방역·살충"
  },
  {
   "ko": "WD-40",
   "en": "lubricant spray can",
   "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "작업 장갑",
-  "en": "work gloves",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "작업 장갑",
-  "en": "work gloves",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "작업 장갑",
-  "en": "work gloves",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "작업 장갑",
-  "en": "work gloves",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "헤드랜턴",
-  "en": "headlamp",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "헤드랜턴",
-  "en": "headlamp",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "헤드랜턴",
-  "en": "headlamp",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "헤드랜턴",
-  "en": "headlamp",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "연장선",
-  "en": "extension cord",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "연장선",
-  "en": "extension cord",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "연장선",
-  "en": "extension cord",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "연장선",
-  "en": "extension cord",
-  "cat": "tools",
-  "view": 3
- },
- {
-  "ko": "페인트 롤러",
-  "en": "paint roller",
-  "cat": "tools",
-  "view": 0
- },
- {
-  "ko": "페인트 롤러",
-  "en": "paint roller",
-  "cat": "tools",
-  "view": 1
- },
- {
-  "ko": "페인트 롤러",
-  "en": "paint roller",
-  "cat": "tools",
-  "view": 2
- },
- {
-  "ko": "페인트 롤러",
-  "en": "paint roller",
-  "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "생활/방역·살충"
  },
  {
   "ko": "사포",
   "en": "sandpaper",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "path": "문구·사무/종이·노트"
  },
  {
   "ko": "사포",
   "en": "sandpaper",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "path": "문구·사무/종이·노트"
  },
  {
   "ko": "사포",
   "en": "sandpaper",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "path": "문구·사무/종이·노트"
  },
  {
   "ko": "사포",
   "en": "sandpaper",
   "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "문구·사무/종이·노트"
  },
  {
   "ko": "클램프",
   "en": "clamp",
   "cat": "tools",
-  "view": 0
+  "view": 0,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "클램프",
   "en": "clamp",
   "cat": "tools",
-  "view": 1
+  "view": 1,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "클램프",
   "en": "clamp",
   "cat": "tools",
-  "view": 2
+  "view": 2,
+  "path": "공구·DIY/수공구"
  },
  {
   "ko": "클램프",
   "en": "clamp",
   "cat": "tools",
-  "view": 3
+  "view": 3,
+  "path": "공구·DIY/수공구"
  }
 ]
